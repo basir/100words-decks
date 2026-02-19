@@ -1,0 +1,27 @@
+{
+    "target_lang": "en",
+    "native_lang": "fa",
+    "stages": [
+        {
+            "level": 1,
+            "name": "Vocabulary",
+            "unlock_at": 0
+        },
+        {
+            "level": 2,
+            "name": "Grammar",
+            "unlock_at": 10
+        }
+    ],
+    "cards": [
+        {
+            "id": "i-1",
+            "level": 1,
+            "front": "Anomalous",
+            "front_pronunciation": "uh-NOM-uh-luhs",
+            "back": "غیرعادی، ناهنجار",
+            "example": "The results of the test were anomalous.",
+            "example_translation": "نتایج آزمایش غیرعادی بودند."
+        }
+    ]
+}

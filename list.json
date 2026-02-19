@@ -1,0 +1,42 @@
+{
+    "version": 1,
+    "categories": [
+        {
+            "id": "languages",
+            "name": "Languages",
+            "decks": [
+                {
+                    "id": "spanish",
+                    "name": "Spanish",
+                    "target_lang": "es",
+                    "available_for": [
+                        "en",
+                        "fr",
+                        "fa"
+                    ],
+                    "file": "Languages/Spanish/{native}.json",
+                    "card_count": 100,
+                    "updated_at": "2025-01-01"
+                }
+            ]
+        },
+        {
+            "id": "exam-prep",
+            "name": "Exam-Prep",
+            "decks": [
+                {
+                    "id": "ielts",
+                    "name": "IELTS",
+                    "target_lang": "en",
+                    "available_for": [
+                        "en",
+                        "fa"
+                    ],
+                    "file": "Exam-Prep/IELTS/{native}.json",
+                    "card_count": 50,
+                    "updated_at": "2025-01-01"
+                }
+            ]
+        }
+    ]
+}
