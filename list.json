@@ -17,6 +17,19 @@
                     "file": "Languages/Spanish/{native}.json",
                     "card_count": 100,
                     "updated_at": "2025-01-01"
+                },
+                {
+                    "id": "french",
+                    "name": "French",
+                    "target_lang": "fr",
+                    "available_for": [
+                        "en",
+                        "fr",
+                        "es"
+                    ],
+                    "file": "Languages/Fench/{native}.json",
+                    "card_count": 100,
+                    "updated_at": "2025-01-01"
                 }
             ]
         },
