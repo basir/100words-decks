@@ -1,0 +1,608 @@
+{
+  "target_lang": "fr",
+  "native_lang": "en",
+  "stages": [
+    {
+      "level": 1,
+      "name": "Basics",
+      "unlock_at": 0
+    },
+    {
+      "level": 2,
+      "name": "Everyday",
+      "unlock_at": 3
+    },
+    {
+      "level": 3,
+      "name": "Conversational",
+      "unlock_at": 4
+    },
+    {
+      "level": 4,
+      "name": "Expressive",
+      "unlock_at": 5
+    }
+  ],
+  "cards": [
+    {
+      "id": "1",
+      "level": 1,
+      "front": "hola",
+      "pron": "OH-lah",
+      "pos": "interjection",
+      "gender": null,
+      "back": "hello",
+      "usage": "¡Hola! ¿Cómo estás?, Hola a todos, Hola, buenos días",
+      "family": "saludar (verb)",
+      "tags": [
+        "People & Relationships",
+        "Society & Culture"
+      ],
+      "related": [
+        "adiós",
+        "buenas",
+        "saludar",
+        "bienvenido",
+        "hasta luego",
+        "chao",
+        "qué tal",
+        "cómo estás",
+        "buenas tardes",
+        "buenas noches"
+      ],
+      "example": "¡Hola! ¿Cómo estás hoy?",
+      "example_translation": "Hello! How are you today?"
+    },
+    {
+      "id": "2",
+      "level": 1,
+      "front": "ser",
+      "pron": "SAIR",
+      "pos": "verb",
+      "gender": null,
+      "back": "to be (permanent)",
+      "usage": "soy estudiante, es importante, somos amigos",
+      "family": "siendo (verb), sido (verb)",
+      "tags": [
+        "People & Relationships",
+        "Work & Education"
+      ],
+      "related": [
+        "estar",
+        "existir",
+        "parecer",
+        "resultar",
+        "constituir",
+        "representar",
+        "significar",
+        "permanecer",
+        "quedarse",
+        "volverse"
+      ],
+      "example": "Soy de México y soy profesora.",
+      "example_translation": "I am from Mexico and I am a teacher."
+    },
+    {
+      "id": "3",
+      "level": 1,
+      "front": "tener",
+      "pron": "teh-NAIR",
+      "pos": "verb",
+      "gender": null,
+      "back": "to have",
+      "usage": "tener hambre, tener razón, tener que",
+      "family": "tenencia (noun), tenedor (noun)",
+      "tags": [
+        "People & Relationships",
+        "Food & Lifestyle"
+      ],
+      "related": [
+        "poseer",
+        "haber",
+        "llevar",
+        "guardar",
+        "obtener",
+        "conseguir",
+        "adquirir",
+        "mantener",
+        "disponer",
+        "contar con"
+      ],
+      "example": "Tengo dos hermanos y una hermana.",
+      "example_translation": "I have two brothers and one sister."
+    },
+    {
+      "id": "4",
+      "level": 1,
+      "front": "ir",
+      "pron": "EER",
+      "pos": "verb",
+      "gender": null,
+      "back": "to go",
+      "usage": "ir al trabajo, voy a comer, ir de compras",
+      "family": "ida (noun), venida (noun)",
+      "tags": [
+        "Travel & Places",
+        "Food & Lifestyle"
+      ],
+      "related": [
+        "venir",
+        "salir",
+        "llegar",
+        "volver",
+        "regresar",
+        "marcharse",
+        "dirigirse",
+        "trasladarse",
+        "caminar",
+        "moverse"
+      ],
+      "example": "Voy al supermercado esta tarde.",
+      "example_translation": "I am going to the supermarket this afternoon."
+    },
+    {
+      "id": "5",
+      "level": 1,
+      "front": "querer",
+      "pron": "keh-RAIR",
+      "pos": "verb",
+      "gender": null,
+      "back": "to want / to love",
+      "usage": "quiero café, te quiero, querer decir",
+      "family": "querer (verb), querido (adj), querer (noun)",
+      "tags": [
+        "People & Relationships",
+        "Food & Lifestyle"
+      ],
+      "related": [
+        "desear",
+        "amar",
+        "necesitar",
+        "buscar",
+        "preferir",
+        "anhelar",
+        "esperar",
+        "pedir",
+        "encantar",
+        "gustar"
+      ],
+      "example": "Quiero aprender español este año.",
+      "example_translation": "I want to learn Spanish this year."
+    },
+    {
+      "id": "6",
+      "level": 2,
+      "front": "desayuno",
+      "pron": "deh-sah-YOO-noh",
+      "pos": "noun",
+      "gender": "m",
+      "back": "breakfast",
+      "usage": "tomar el desayuno, desayuno típico, hora del desayuno",
+      "family": "desayunar (verb)",
+      "tags": [
+        "Food & Lifestyle",
+        "Health & Wellbeing"
+      ],
+      "related": [
+        "almuerzo",
+        "cena",
+        "comida",
+        "merienda",
+        "café",
+        "pan",
+        "leche",
+        "jugo",
+        "fruta",
+        "huevos"
+      ],
+      "example": "Cada mañana tomo el desayuno a las siete.",
+      "example_translation": "Every morning I have breakfast at seven."
+    },
+    {
+      "id": "7",
+      "level": 2,
+      "front": "tarde",
+      "pron": "TAR-deh",
+      "pos": "noun / adv",
+      "gender": "f",
+      "back": "afternoon / late",
+      "usage": "buenas tardes, por la tarde, llegar tarde",
+      "family": "tardar (verb), tardanza (noun)",
+      "tags": [
+        "Time & Change",
+        "People & Relationships"
+      ],
+      "related": [
+        "mañana",
+        "noche",
+        "mediodía",
+        "temprano",
+        "después",
+        "luego",
+        "pronto",
+        "hoy",
+        "ayer",
+        "tiempo"
+      ],
+      "example": "Por la tarde salgo a caminar con mis amigos.",
+      "example_translation": "In the afternoon I go for a walk with my friends."
+    },
+    {
+      "id": "8",
+      "level": 2,
+      "front": "comprar",
+      "pron": "kom-PRAR",
+      "pos": "verb",
+      "gender": null,
+      "back": "to buy / to shop",
+      "usage": "comprar ropa, ir a comprar, comprar en línea",
+      "family": "compra (noun), comprador (noun), compraventa (noun)",
+      "tags": [
+        "Economy & Money",
+        "Food & Lifestyle"
+      ],
+      "related": [
+        "vender",
+        "pagar",
+        "gastar",
+        "adquirir",
+        "conseguir",
+        "mercado",
+        "tienda",
+        "precio",
+        "oferta",
+        "costo"
+      ],
+      "example": "Voy a comprar frutas y verduras en el mercado.",
+      "example_translation": "I am going to buy fruits and vegetables at the market."
+    },
+    {
+      "id": "9",
+      "level": 2,
+      "front": "autobús",
+      "pron": "ow-toh-BOOS",
+      "pos": "noun",
+      "gender": "m",
+      "back": "bus",
+      "usage": "tomar el autobús, parada de autobús, ir en autobús",
+      "family": "autobus (noun)",
+      "tags": [
+        "Travel & Places",
+        "Housing & Urban Life"
+      ],
+      "related": [
+        "metro",
+        "tren",
+        "taxi",
+        "avión",
+        "bicicleta",
+        "coche",
+        "transporte",
+        "viaje",
+        "parada",
+        "ruta"
+      ],
+      "example": "Todos los días tomo el autobús para ir al trabajo.",
+      "example_translation": "Every day I take the bus to go to work."
+    },
+    {
+      "id": "10",
+      "level": 2,
+      "front": "mucho",
+      "pron": "MOO-choh",
+      "pos": "adj / adv",
+      "gender": "m",
+      "back": "a lot / very much",
+      "usage": "muchas gracias, mucho tiempo, mucho trabajo",
+      "family": "muchísimo (adv), mucha (adj)",
+      "tags": [
+        "People & Relationships",
+        "Society & Culture"
+      ],
+      "related": [
+        "poco",
+        "bastante",
+        "demasiado",
+        "suficiente",
+        "tanto",
+        "algo",
+        "nada",
+        "más",
+        "menos",
+        "todo"
+      ],
+      "example": "Tengo mucho trabajo esta semana y estoy muy cansado.",
+      "example_translation": "I have a lot of work this week and I am very tired."
+    },
+    {
+      "id": "11",
+      "level": 3,
+      "front": "sin embargo",
+      "pron": "sin em-BAR-goh",
+      "pos": "adv",
+      "gender": null,
+      "back": "however / nevertheless",
+      "usage": "sin embargo, creo que..., es difícil; sin embargo..., sin embargo es posible",
+      "family": null,
+      "tags": [
+        "Ethics & Philosophy",
+        "Society & Culture"
+      ],
+      "related": [
+        "no obstante",
+        "aunque",
+        "a pesar de",
+        "pero",
+        "aun así",
+        "de todas formas",
+        "con todo",
+        "por otro lado",
+        "en cambio",
+        "de hecho"
+      ],
+      "example": "El proyecto es costoso; sin embargo, los beneficios son evidentes.",
+      "example_translation": "The project is costly; however, the benefits are evident."
+    },
+    {
+      "id": "12",
+      "level": 3,
+      "front": "sentirse",
+      "pron": "sen-TEER-seh",
+      "pos": "verb",
+      "gender": null,
+      "back": "to feel (emotions/physical)",
+      "usage": "sentirse bien, sentirse solo, sentirse orgulloso",
+      "family": "sentimiento (noun), sensación (noun), sentimental (adj)",
+      "tags": [
+        "Health & Wellbeing",
+        "People & Relationships"
+      ],
+      "related": [
+        "emoción",
+        "estado",
+        "bienestar",
+        "humor",
+        "ánimo",
+        "parecer",
+        "notar",
+        "percibir",
+        "experimentar",
+        "vivir"
+      ],
+      "example": "Me siento muy feliz cuando paso tiempo con mi familia.",
+      "example_translation": "I feel very happy when I spend time with my family."
+    },
+    {
+      "id": "13",
+      "level": 3,
+      "front": "opinión",
+      "pron": "oh-pee-NYOHN",
+      "pos": "noun",
+      "gender": "f",
+      "back": "opinion / view",
+      "usage": "en mi opinión, dar una opinión, cambiar de opinión",
+      "family": "opinar (verb), opinable (adj)",
+      "tags": [
+        "Media & Communication",
+        "Ethics & Philosophy"
+      ],
+      "related": [
+        "punto de vista",
+        "perspectiva",
+        "criterio",
+        "postura",
+        "creencia",
+        "juicio",
+        "pensamiento",
+        "idea",
+        "argumento",
+        "posición"
+      ],
+      "example": "En mi opinión, la educación es la clave del progreso social.",
+      "example_translation": "In my opinion, education is the key to social progress."
+    },
+    {
+      "id": "14",
+      "level": 3,
+      "front": "aunque",
+      "pron": "ow-N-keh",
+      "pos": "conj",
+      "gender": null,
+      "back": "although / even though",
+      "usage": "aunque es difícil, aunque no quiera, aunque llueva",
+      "family": null,
+      "tags": [
+        "Ethics & Philosophy",
+        "Society & Culture"
+      ],
+      "related": [
+        "a pesar de",
+        "sin embargo",
+        "no obstante",
+        "pero",
+        "aun así",
+        "si bien",
+        "de todas formas",
+        "pese a",
+        "con todo",
+        "incluso"
+      ],
+      "example": "Aunque es tarde, quiero terminar el proyecto esta noche.",
+      "example_translation": "Although it is late, I want to finish the project tonight."
+    },
+    {
+      "id": "15",
+      "level": 3,
+      "front": "acostumbrarse",
+      "pron": "ah-kos-toom-BRAR-seh",
+      "pos": "verb",
+      "gender": null,
+      "back": "to get used to",
+      "usage": "acostumbrarse a vivir, no estoy acostumbrado, acostumbrarse al clima",
+      "family": "costumbre (noun), acostumbrado (adj)",
+      "tags": [
+        "Society & Culture",
+        "Travel & Places"
+      ],
+      "related": [
+        "adaptarse",
+        "habituarse",
+        "familiarizarse",
+        "acomodarse",
+        "ajustarse",
+        "integrarse",
+        "normalizarse",
+        "aceptar",
+        "superar",
+        "tolerar"
+      ],
+      "example": "Me está costando acostumbrarme al frío del norte del país.",
+      "example_translation": "I am finding it hard to get used to the cold in the north of the country."
+    },
+    {
+      "id": "16",
+      "level": 4,
+      "front": "imprescindible",
+      "pron": "im-preh-sin-DEE-bleh",
+      "pos": "adj",
+      "gender": null,
+      "back": "essential / indispensable",
+      "usage": "es imprescindible que, papel imprescindible, herramienta imprescindible",
+      "family": "prescindir (verb), prescindible (adj)",
+      "tags": [
+        "Work & Education",
+        "Ethics & Philosophy"
+      ],
+      "related": [
+        "esencial",
+        "indispensable",
+        "fundamental",
+        "necesario",
+        "vital",
+        "clave",
+        "obligatorio",
+        "básico",
+        "prioritario",
+        "insustituible"
+      ],
+      "example": "Es imprescindible contar con un sistema de salud accesible para toda la población.",
+      "example_translation": "It is essential to have an accessible healthcare system for the entire population."
+    },
+    {
+      "id": "17",
+      "level": 4,
+      "front": "plantear",
+      "pron": "plan-teh-AR",
+      "pos": "verb",
+      "gender": null,
+      "back": "to raise / to put forward",
+      "usage": "plantear una idea, plantear el problema, plantear soluciones",
+      "family": "planteamiento (noun), replantear (verb)",
+      "tags": [
+        "Work & Education",
+        "Politics & Law"
+      ],
+      "related": [
+        "proponer",
+        "sugerir",
+        "exponer",
+        "presentar",
+        "formular",
+        "señalar",
+        "indicar",
+        "argumentar",
+        "sostener",
+        "defender"
+      ],
+      "example": "El informe plantea una serie de medidas para reducir la pobreza urbana.",
+      "example_translation": "The report puts forward a series of measures to reduce urban poverty."
+    },
+    {
+      "id": "18",
+      "level": 4,
+      "front": "desigualdad",
+      "pron": "deh-see-gwal-DAD",
+      "pos": "noun",
+      "gender": "f",
+      "back": "inequality / disparity",
+      "usage": "desigualdad social, reducir la desigualdad, desigualdad de género",
+      "family": "desigual (adj), igualdad (noun), igualitario (adj)",
+      "tags": [
+        "Society & Culture",
+        "Economy & Money"
+      ],
+      "related": [
+        "inequidad",
+        "brecha",
+        "disparidad",
+        "injusticia",
+        "exclusión",
+        "pobreza",
+        "marginación",
+        "privilegio",
+        "acceso",
+        "distribución"
+      ],
+      "example": "La desigualdad económica sigue siendo uno de los mayores retos de nuestra sociedad.",
+      "example_translation": "Economic inequality remains one of the greatest challenges of our society."
+    },
+    {
+      "id": "19",
+      "level": 4,
+      "front": "cabe destacar",
+      "pron": "KAH-beh des-tah-KAR",
+      "pos": "phrase",
+      "gender": null,
+      "back": "it is worth noting",
+      "usage": "cabe destacar que, cabe destacar el papel, cabe destacar la importancia",
+      "family": "destacar (verb), destacado (adj)",
+      "tags": [
+        "Media & Communication",
+        "Work & Education"
+      ],
+      "related": [
+        "cabe señalar",
+        "es importante mencionar",
+        "vale la pena",
+        "hay que subrayar",
+        "resulta notable",
+        "conviene recordar",
+        "es preciso indicar",
+        "cabe mencionar",
+        "no hay que olvidar",
+        "es relevante"
+      ],
+      "example": "Cabe destacar que el índice de desempleo ha disminuido considerablemente este año.",
+      "example_translation": "It is worth noting that the unemployment rate has decreased considerably this year."
+    },
+    {
+      "id": "20",
+      "level": 4,
+      "front": "conllevar",
+      "pron": "kon-yeh-BAR",
+      "pos": "verb",
+      "gender": null,
+      "back": "to entail / to involve",
+      "usage": "conllevar riesgos, conllevar consecuencias, conllevar esfuerzo",
+      "family": "llevar (verb), conllevado (adj)",
+      "tags": [
+        "Ethics & Philosophy",
+        "Politics & Law"
+      ],
+      "related": [
+        "implicar",
+        "suponer",
+        "acarrear",
+        "provocar",
+        "generar",
+        "ocasionar",
+        "traer consigo",
+        "derivar",
+        "resultar en",
+        "entrañar"
+      ],
+      "example": "Toda decisión política importante conlleva tanto beneficios como riesgos inevitables.",
+      "example_translation": "Every important political decision entails both benefits and inevitable risks."
+    }
+  ]
+}

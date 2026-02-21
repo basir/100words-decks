@@ -1,0 +1,449 @@
+{
+    "id": "ielts",
+    "target_lang": "en",
+    "native_lang": "en",
+    "stages": [
+        {
+            "level": 1,
+            "name": "Foundation",
+            "unlock_at": 0
+        },
+        {
+            "level": 2,
+            "name": "Core",
+            "unlock_at": 3
+        },
+        {
+            "level": 3,
+            "name": "Academic",
+            "unlock_at": 4
+        },
+        {
+            "level": 4,
+            "name": "Proficient",
+            "unlock_at": 5
+        }
+    ],
+    "cards": [
+        {
+            "id": "1",
+            "level": 1,
+            "front": "analyze",
+            "pron": "AN-uh-lyz",
+            "pos": "verb",
+            "back": "Examine something in detail to understand it.",
+            "collocation": "analyze data, analyze the impact, analyze results",
+            "family": "analysis (noun), analytical (adj), analyst (noun)",
+            "tags": [
+                "Science & Technology",
+                "Work & Education"
+            ],
+            "related": [
+                "examine",
+                "evaluate",
+                "investigate",
+                "assess"
+            ],
+            "example": "Researchers must analyze the collected data before drawing any conclusions."
+        },
+        {
+            "id": "2",
+            "level": 1,
+            "front": "significant",
+            "pron": "sig-NIF-ih-kunt",
+            "pos": "adj",
+            "back": "Important or large enough to be noteworthy.",
+            "collocation": "significant impact, significant increase, significant difference",
+            "family": "significance (noun), significantly (adv), signify (verb)",
+            "tags": [
+                "Time & Change",
+                "Society & Culture"
+            ],
+            "related": [
+                "substantial",
+                "considerable",
+                "notable",
+                "major"
+            ],
+            "example": "The study revealed a significant correlation between diet and mental health."
+        },
+        {
+            "id": "3",
+            "level": 1,
+            "front": "evidence",
+            "pron": "EV-ih-duns",
+            "pos": "noun",
+            "back": "Facts or information supporting a conclusion.",
+            "collocation": "provide evidence, empirical evidence, evidence suggests",
+            "family": "evident (adj), evidently (adv), evidential (adj)",
+            "tags": [
+                "Politics & Law",
+                "Science & Technology"
+            ],
+            "related": [
+                "proof",
+                "data",
+                "findings",
+                "support"
+            ],
+            "example": "There is substantial evidence that regular exercise reduces the risk of chronic disease."
+        },
+        {
+            "id": "4",
+            "level": 1,
+            "front": "factor",
+            "pron": "FAK-tur",
+            "pos": "noun",
+            "back": "An element that contributes to a result.",
+            "collocation": "key factor, contributing factor, major factor",
+            "family": "factorial (adj)",
+            "tags": [
+                "Society & Culture",
+                "Economy & Money"
+            ],
+            "related": [
+                "element",
+                "variable",
+                "aspect",
+                "determinant"
+            ],
+            "example": "Poverty is a major factor contributing to poor educational outcomes."
+        },
+        {
+            "id": "5",
+            "level": 1,
+            "front": "policy",
+            "pron": "POL-ih-see",
+            "pos": "noun",
+            "back": "A plan or set of rules adopted officially.",
+            "collocation": "government policy, implement a policy, public policy",
+            "family": "policyholder (noun)",
+            "tags": [
+                "Politics & Law",
+                "Society & Culture"
+            ],
+            "related": [
+                "regulation",
+                "legislation",
+                "measure",
+                "strategy"
+            ],
+            "example": "The government's new education policy aims to reduce inequality in schools."
+        },
+        {
+            "id": "6",
+            "level": 2,
+            "front": "consequence",
+            "pron": "KON-suh-kwens",
+            "pos": "noun",
+            "back": "A result or effect of an action or condition.",
+            "collocation": "serious consequence, as a consequence, consequence of",
+            "family": "consequent (adj), consequently (adv), inconsequential (adj)",
+            "tags": [
+                "Ethics & Philosophy",
+                "Environment & Nature"
+            ],
+            "related": [
+                "outcome",
+                "implication",
+                "repercussion",
+                "effect"
+            ],
+            "example": "Deforestation has severe consequences for biodiversity and local ecosystems."
+        },
+        {
+            "id": "7",
+            "level": 2,
+            "front": "contribute",
+            "pron": "kun-TRIB-yoot",
+            "pos": "verb",
+            "back": "Give or add to a larger whole or result.",
+            "collocation": "contribute to, contribute significantly, contribute positively",
+            "family": "contribution (noun), contributor (noun), contributory (adj)",
+            "tags": [
+                "Society & Culture",
+                "Economy & Money"
+            ],
+            "related": [
+                "add",
+                "foster",
+                "promote",
+                "enhance"
+            ],
+            "example": "Volunteering can contribute greatly to an individual's sense of social responsibility."
+        },
+        {
+            "id": "8",
+            "level": 2,
+            "front": "establish",
+            "pron": "ih-STAB-lish",
+            "pos": "verb",
+            "back": "Set up or prove something formally and firmly.",
+            "collocation": "establish a link, establish guidelines, establish a system",
+            "family": "establishment (noun), established (adj)",
+            "tags": [
+                "Politics & Law",
+                "Work & Education"
+            ],
+            "related": [
+                "create",
+                "found",
+                "determine",
+                "confirm"
+            ],
+            "example": "The research sought to establish a clear link between stress and productivity loss."
+        },
+        {
+            "id": "9",
+            "level": 2,
+            "front": "maintain",
+            "pron": "mayn-TAYN",
+            "pos": "verb",
+            "back": "Keep something in its current state or condition.",
+            "collocation": "maintain standards, maintain balance, maintain order",
+            "family": "maintenance (noun), maintainable (adj)",
+            "tags": [
+                "Environment & Nature",
+                "Society & Culture"
+            ],
+            "related": [
+                "preserve",
+                "sustain",
+                "uphold",
+                "retain"
+            ],
+            "example": "It is difficult for developing nations to maintain economic growth during global downturns."
+        },
+        {
+            "id": "10",
+            "level": 2,
+            "front": "promote",
+            "pron": "pruh-MOHT",
+            "pos": "verb",
+            "back": "Support or encourage the development of something.",
+            "collocation": "promote equality, promote growth, promote awareness",
+            "family": "promotion (noun), promotional (adj), promoter (noun)",
+            "tags": [
+                "Society & Culture",
+                "Health & Wellbeing"
+            ],
+            "related": [
+                "encourage",
+                "foster",
+                "advance",
+                "advocate"
+            ],
+            "example": "Schools have a responsibility to promote critical thinking among their students."
+        },
+        {
+            "id": "11",
+            "level": 3,
+            "front": "coherent",
+            "pron": "koh-HEER-unt",
+            "pos": "adj",
+            "back": "Logical and consistent; easy to understand.",
+            "collocation": "coherent argument, coherent policy, coherent framework",
+            "family": "coherence (noun), coherently (adv), incoherent (adj)",
+            "tags": [
+                "Work & Education",
+                "Politics & Law"
+            ],
+            "related": [
+                "consistent",
+                "logical",
+                "structured",
+                "unified"
+            ],
+            "example": "A coherent argument is essential for achieving a high band score in IELTS writing."
+        },
+        {
+            "id": "12",
+            "level": 3,
+            "front": "facilitate",
+            "pron": "fuh-SIL-ih-tayt",
+            "pos": "verb",
+            "back": "Make a process easier or more achievable.",
+            "collocation": "facilitate learning, facilitate communication, facilitate trade",
+            "family": "facilitation (noun), facilitator (noun), facility (noun)",
+            "tags": [
+                "Work & Education",
+                "Trade & Globalisation"
+            ],
+            "related": [
+                "enable",
+                "support",
+                "assist",
+                "streamline"
+            ],
+            "example": "Digital technology has greatly facilitated access to information in remote communities."
+        },
+        {
+            "id": "13",
+            "level": 3,
+            "front": "prevalent",
+            "pron": "PREV-uh-lunt",
+            "pos": "adj",
+            "back": "Widespread or common in a particular area or time.",
+            "collocation": "increasingly prevalent, prevalent in society, prevalent among",
+            "family": "prevalence (noun), prevail (verb)",
+            "tags": [
+                "Health & Wellbeing",
+                "Society & Culture"
+            ],
+            "related": [
+                "widespread",
+                "common",
+                "pervasive",
+                "dominant"
+            ],
+            "example": "Obesity has become increasingly prevalent in countries with highly processed food industries."
+        },
+        {
+            "id": "14",
+            "level": 3,
+            "front": "alleviate",
+            "pron": "uh-LEE-vee-ayt",
+            "pos": "verb",
+            "back": "Make suffering or a problem less severe.",
+            "collocation": "alleviate poverty, alleviate pressure, alleviate suffering",
+            "family": "alleviation (noun)",
+            "tags": [
+                "Health & Wellbeing",
+                "Society & Culture"
+            ],
+            "related": [
+                "reduce",
+                "ease",
+                "relieve",
+                "mitigate"
+            ],
+            "example": "Expanding access to clean water would significantly alleviate health problems in rural areas."
+        },
+        {
+            "id": "15",
+            "level": 3,
+            "front": "nonetheless",
+            "pron": "nun-thuh-LES",
+            "pos": "adv",
+            "back": "In spite of that; used to contrast ideas.",
+            "collocation": "nonetheless important, nonetheless valid, nonetheless, it remains",
+            "family": "",
+            "tags": [
+                "Ethics & Philosophy",
+                "Society & Culture"
+            ],
+            "related": [
+                "nevertheless",
+                "however",
+                "yet",
+                "still"
+            ],
+            "example": "The policy has several weaknesses; nonetheless, it represents a meaningful step toward reform."
+        },
+        {
+            "id": "16",
+            "level": 4,
+            "front": "exacerbate",
+            "pron": "ig-ZAS-ur-bayt",
+            "pos": "verb",
+            "back": "Make an existing problem or situation worse.",
+            "collocation": "exacerbate inequality, exacerbate tensions, exacerbate the problem",
+            "family": "exacerbation (noun)",
+            "tags": [
+                "Society & Culture",
+                "Environment & Nature"
+            ],
+            "related": [
+                "worsen",
+                "intensify",
+                "aggravate",
+                "compound"
+            ],
+            "example": "Rapid urbanisation can exacerbate social inequality if adequate infrastructure is not provided."
+        },
+        {
+            "id": "17",
+            "level": 4,
+            "front": "paradigm",
+            "pron": "PAIR-uh-dym",
+            "pos": "noun",
+            "back": "A typical model or pattern of thinking.",
+            "collocation": "paradigm shift, dominant paradigm, new paradigm",
+            "family": "paradigmatic (adj)",
+            "tags": [
+                "Science & Technology",
+                "Ethics & Philosophy"
+            ],
+            "related": [
+                "model",
+                "framework",
+                "approach",
+                "perspective"
+            ],
+            "example": "The digital revolution has triggered a paradigm shift in how knowledge is acquired and shared."
+        },
+        {
+            "id": "18",
+            "level": 4,
+            "front": "pervasive",
+            "pron": "pur-VAY-siv",
+            "pos": "adj",
+            "back": "Spreading widely and present throughout something.",
+            "collocation": "pervasive influence, pervasive problem, increasingly pervasive",
+            "family": "pervasively (adv), pervasiveness (noun), pervade (verb)",
+            "tags": [
+                "Media & Communication",
+                "Society & Culture"
+            ],
+            "related": [
+                "widespread",
+                "ubiquitous",
+                "prevalent",
+                "endemic"
+            ],
+            "example": "The pervasive influence of social media has fundamentally altered public discourse."
+        },
+        {
+            "id": "19",
+            "level": 4,
+            "front": "mitigate",
+            "pron": "MIT-ih-gayt",
+            "pos": "verb",
+            "back": "Reduce the severity or impact of something harmful.",
+            "collocation": "mitigate risk, mitigate the effects, mitigate climate change",
+            "family": "mitigation (noun), mitigating (adj)",
+            "tags": [
+                "Environment & Nature",
+                "Politics & Law"
+            ],
+            "related": [
+                "reduce",
+                "alleviate",
+                "minimise",
+                "offset"
+            ],
+            "example": "Governments must adopt renewable energy strategies to mitigate the effects of climate change."
+        },
+        {
+            "id": "20",
+            "level": 4,
+            "front": "disparity",
+            "pron": "dih-SPAIR-ih-tee",
+            "pos": "noun",
+            "back": "A noticeable difference or inequality between things.",
+            "collocation": "income disparity, stark disparity, disparity between",
+            "family": "disparate (adj), disparately (adv)",
+            "tags": [
+                "Economy & Money",
+                "Society & Culture"
+            ],
+            "related": [
+                "inequality",
+                "gap",
+                "imbalance",
+                "divergence"
+            ],
+            "example": "The growing disparity between urban and rural incomes remains a pressing concern for policymakers."
+        }
+    ]
+}
