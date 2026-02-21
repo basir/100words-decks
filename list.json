@@ -15,7 +15,7 @@
                         "fa"
                     ],
                     "file": "Languages/Spanish/{native}.json",
-                    "card_count": 20,
+                    "card_count": 100,
                     "updated_at": "2025-02-20"
                 }
             ]
@@ -34,7 +34,7 @@
                         "fa"
                     ],
                     "file": "Exam-Prep/IELTS/{native}.json",
-                    "card_count": 20,
+                    "card_count": 100,
                     "updated_at": "2025-02-20"
                 }
             ]
