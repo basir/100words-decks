@@ -1,0 +1,20 @@
+{
+  "name": "100words-decks",
+  "version": "1.0.0",
+  "description": "A modern flashcard app to learn languages and more. Install app from Play store.",
+  "main": "gen-trans.js",
+  "scripts": {
+    "fc": "node scripts/fetch-cards.js Exam-Prep/IELTS",
+    "gn": " node scripts/gen-trans.js Exam-Prep/IELTS fa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basir/decks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basir/decks/issues"
+  },
+  "homepage": "https://github.com/basir/decks#readme"
+}

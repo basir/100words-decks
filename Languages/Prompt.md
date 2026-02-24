@@ -6,30 +6,37 @@ Each card must follow this exact JSON structure:
   "id": "string",
   "level": number,
   "front": "word or phrase in target language",
+  "front_trans": "word or phrase in native language",
   "pron": "short phonetic pronunciation of front, e.g. oh-LAH",
   "pos": "noun / verb / adj / adv",
   "gender": "m / f / n / null",
-  "back": "concise translation in native language",
+  "back": "concise definition in target language",
+  "back_trans": "concise definition in native language",
   "usage": "phrase1, phrase2, phrase3",
   "family": "word (pos), word (pos), ...",
   "tags": ["Tag1", "Tag2"],
   "related": ["word1", "word2", ...],
   "example": "Natural sentence using the word in target language.",
-  "example_translation": "Translation of example sentence in native language."
+  "example_trans": "Translation of example sentence in native language.",
+  "note": "optional language-specific note, or null"
 }
 
 Rules:
+- `id`: start from 1
 - `front`: always in target language ([TARGET_LANGUAGE])
-- `pron`: phonetic for native [NATIVE_LANGUAGE] speakers specifically — use sounds familiar to them
+- `front_trans`: always in native language ([NATIVE_LANGUAGE])
+- `pron`: short phonetic pronunciation of front, e.g. oh-LAH
 - `pos`: use "/" for multiple e.g. "noun / verb"
 - `gender`: grammatical gender where applicable (m/f/n). null for languages without gender (English, Japanese, etc.)
-- `back`: concise translation in [NATIVE_LANGUAGE], max 6 words
+- `back`: concise definition in [TARGET_LANGUAGE]
+- `back_trans`: concise definition in [NATIVE_LANGUAGE]
 - `usage`: exactly 3 most natural common phrases or collocations in target language, comma separated
 - `family`: most useful related word forms in target language, format "word (pos)". null if not applicable (e.g. Mandarin, Japanese)
 - `tags`: maximum 2 tags, choose only from approved list below
 - `related`: exactly 4 words (strings); chosen freely across all levels; linguistically close (synonyms, co-occurring terms, same functional role in academic writing)
 - `example`: one natural sentence in [TARGET_LANGUAGE]
-- `example_translation`: direct translation of example in [NATIVE_LANGUAGE]
+- `example_trans`: direct translation of example in [NATIVE_LANGUAGE]
+- `note`: optional language-specific note, or null
 
 Approved tags (choose max 2 per card):
 People & Relationships, Work & Education, Society & Culture,

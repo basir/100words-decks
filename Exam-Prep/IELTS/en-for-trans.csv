@@ -1,0 +1,501 @@
+id,front,back,example
+1,achieve,To successfully reach a goal or result.,Students who set clear objectives are more likely to achieve academic success.
+2,affect,To have an impact or influence on something.,Air pollution can adversely affect the health of urban populations.
+3,analyze,To examine something in detail to understand it.,Researchers must carefully analyze data before drawing conclusions.
+4,approach,A method or way of dealing with something.,A holistic approach to education considers students' social and emotional needs.
+5,aspect,A particular part or feature of something.,One key aspect of sustainable development is reducing carbon emissions.
+6,assess,To evaluate or judge the quality of something.,Governments must assess the environmental impact of new industrial projects.
+7,assume,To accept something as true without proof.,It is often assumed that economic growth automatically improves living standards.
+8,attitude,A settled opinion or feeling about something.,Public attitudes towards renewable energy have shifted significantly in recent years.
+9,available,Able to be used or obtained.,Internet access should be made available to all citizens regardless of income.
+10,benefit,An advantage or positive outcome from something.,Regular exercise provides numerous benefits for both physical and mental health.
+11,cause,Something that produces an effect or result.,Poverty is frequently cited as a root cause of social inequality.
+12,challenge,A difficult problem or task requiring effort.,Climate change represents one of the greatest challenges facing modern society.
+13,citizen,A legally recognized member of a state.,It is the duty of every citizen to participate in democratic elections.
+14,claim,To state something as true or demand as a right.,Some researchers claim that social media is damaging to adolescent mental health.
+15,classify,To arrange things into categories or groups.,Scientists classify organisms according to their genetic and physical characteristics.
+16,community,A group of people sharing a location or interest.,Strong community support networks help reduce social isolation among the elderly.
+17,compare,To examine similarities and differences between things.,This essay will compare the effectiveness of public and private healthcare systems.
+18,complex,Made of many interconnected parts; difficult to understand.,The relationship between poverty and crime is highly complex and multifaceted.
+19,concept,An abstract idea or general principle.,The concept of sustainability is central to modern environmental policy.
+20,concern,A worry or issue that causes anxiety or interest.,Growing concern over plastic pollution has prompted many governments to act.
+21,conclude,To reach a decision or judgment after reasoning.,The study concludes that regular exercise significantly reduces the risk of depression.
+22,condition,The state or circumstances affecting something.,Improving living conditions in rural areas remains a priority for policymakers.
+23,conduct,To carry out an activity; behaviour or manner.,The university will conduct a longitudinal study on student wellbeing over five years.
+24,consequence,A result or effect of an action or event.,Deforestation has serious consequences for biodiversity and global climate patterns.
+25,consider,To think carefully about something before deciding.,Policymakers must consider the long-term implications of raising the retirement age.
+26,consist,To be made up or composed of parts.,A balanced diet should consist of proteins, carbohydrates, fats, vitamins, and minerals.
+27,consume,To use up a resource or eat/drink something.,Developed nations consume far more natural resources per capita than developing ones.
+28,contribute,To give or add to a collective effort or outcome.,Volunteering can contribute greatly to both personal development and community wellbeing.
+29,control,To regulate or have power over something.,Stricter government control of industrial emissions is necessary to combat air pollution.
+30,create,To bring something into existence.,Investment in renewable energy can create thousands of new jobs across the economy.
+31,culture,The beliefs, customs, and arts of a society.,Globalisation has both enriched and threatened local cultures around the world.
+32,data,Facts or statistics collected for analysis.,Reliable data is essential for developing effective public health policies.
+33,decline,To decrease or become smaller over time.,There has been a sharp decline in biodiversity due to human activity over recent decades.
+34,define,To state the meaning or nature of something.,It is important to clearly define the term 'sustainability' before discussing policy solutions.
+35,demand,The need or desire for a good or service.,The growing demand for electric vehicles is driving innovation in battery technology.
+36,depend,To rely on someone or something for support.,Many developing nations depend heavily on foreign aid for basic infrastructure development.
+37,describe,To give an account of something in words.,The report describes a significant increase in global average temperatures since 1950.
+38,develop,To grow, progress, or create something new.,Countries must develop sustainable agriculture to meet the needs of a growing population.
+39,difference,A way in which things are unlike each other.,There is a significant difference in income levels between urban and rural populations.
+40,distribute,To spread or deliver something across an area.,Governments have a responsibility to distribute public resources equitably among citizens.
+41,diverse,Including many different types or varieties.,A diverse workforce brings a wider range of perspectives and ideas to an organisation.
+42,economic,Relating to the production and use of money.,Rapid economic development has lifted millions of people out of poverty in Asia.
+43,education,The process of receiving systematic instruction.,Access to quality education is widely regarded as a fundamental human right.
+44,effect,A change or result produced by a cause.,The long-term effects of sleep deprivation on cognitive function are well documented.
+45,emerge,To come into being or become known.,New technologies continue to emerge as solutions to the global energy crisis.
+46,employ,To hire someone to work for payment.,The manufacturing sector continues to employ a large proportion of the national workforce.
+47,energy,Power derived from natural or converted resources.,Transitioning to renewable energy sources is crucial to reducing greenhouse gas emissions.
+48,environment,The natural world or surroundings of an organism.,Protecting the natural environment should be a priority for both governments and individuals.
+49,establish,To set up or create something on a firm basis.,The government established a new regulatory body to oversee the financial sector.
+50,evaluate,To assess the worth or quality of something.,It is essential to critically evaluate sources of information before citing them.
+51,evidence,Facts or information supporting a conclusion.,There is strong empirical evidence linking smoking to a variety of serious diseases.
+52,examine,To investigate or inspect something carefully.,This essay will examine the relationship between economic inequality and crime rates.
+53,expand,To increase in size, number, or scope.,Many corporations seek to expand their operations into emerging markets in Asia.
+54,expect,To believe something will happen in the future.,It is widely expected that automation will transform the employment landscape within decades.
+55,experience,Knowledge or skill gained through practice.,Work experience placements help students develop practical skills for future employment.
+56,explain,To make something clear by describing it.,The professor's ability to clearly explain complex theories made her highly respected.
+57,factor,An element that contributes to a result.,Diet and exercise are key factors in determining an individual's long-term health outcomes.
+58,feature,A distinctive characteristic or attribute of something.,A key feature of successful urban planning is the provision of accessible green spaces.
+59,focus,To concentrate attention or effort on something.,Government policy should focus on providing affordable housing for low-income families.
+60,function,The purpose or role something is designed to fulfil.,The primary function of the immune system is to protect the body from disease.
+61,generate,To produce or create something.,Solar panels can generate enough electricity to power an entire household.
+62,global,Relating to or covering the whole world.,Global cooperation is essential to address the challenges of climate change effectively.
+63,govern,To control or direct a country or organization.,Democratic nations must be governed in a way that reflects the will of the people.
+64,growth,The process of increasing in size or value.,Sustained economic growth is necessary to reduce unemployment and improve living standards.
+65,harm,Physical or psychological damage caused to something.,Excessive use of social media can cause psychological harm to vulnerable young people.
+66,health,The state of being free from illness or injury.,Governments must invest in public health infrastructure to prevent the spread of disease.
+67,impact,A strong effect or influence on something.,Urbanisation has a significant impact on local ecosystems and water resources.
+68,implement,To put a plan or decision into effect.,The government plans to implement new regulations to reduce industrial carbon emissions.
+69,improve,To make or become better in quality.,Investment in education is the most effective way to improve long-term economic outcomes.
+70,increase,To become or make something greater in quantity.,There has been a dramatic increase in the number of electric vehicles sold globally.
+71,indicate,To show or point to something as likely.,Recent studies indicate that regular physical activity reduces the risk of chronic illness.
+72,individual,A single person, distinct from a group.,Protecting individual rights is a cornerstone of any democratic society.
+73,influence,The power to have an effect on people or things.,Social media exerts a profound influence on the political opinions of young people.
+74,infrastructure,Basic physical systems supporting a community.,Investing in transport infrastructure is vital for stimulating regional economic development.
+75,initiative,A new plan or action aimed at solving a problem.,The government launched a new initiative to encourage young people to pursue STEM careers.
+76,institution,An established organization with a social purpose.,Democratic institutions must remain independent to ensure a fair and just society.
+77,involve,To include or require something as a part.,Effective urban planning should actively involve residents in the decision-making process.
+78,issue,An important topic or problem for discussion.,Climate change is one of the most pressing issues facing the international community today.
+79,justify,To show or prove something is right or reasonable.,Governments must be able to justify increased defence spending to their citizens.
+80,lack,An absence or shortage of something needed.,A lack of access to clean water remains a major challenge in developing nations.
+81,limit,A point beyond which something cannot go.,Nations must agree to legally binding limits on carbon dioxide emissions.
+82,maintain,To keep something in its current state or condition.,It is increasingly difficult to maintain biodiversity in heavily urbanised areas.
+83,major,Of great importance or seriousness.,Air pollution is a major public health concern in many of the world's largest cities.
+84,manage,To be in charge of or control something.,Sustainable development requires governments to carefully manage natural resources.
+85,measure,An action taken to achieve a goal; to quantify.,Governments must take decisive measures to address the growing problem of youth unemployment.
+86,method,A particular way of doing something systematically.,Scientists must adopt rigorous research methods to ensure the validity of their findings.
+87,migrate,To move from one region or country to another.,Many rural workers migrate to cities in search of better employment opportunities.
+88,modern,Relating to the present time; contemporary.,Modern technology has fundamentally changed the way people communicate and access information.
+89,monitor,To observe and check something over time.,Health authorities must continuously monitor air quality in densely populated urban areas.
+90,national,Relating to or typical of a whole nation.,The government introduced a national curriculum to standardise education across the country.
+91,natural,Existing in or produced by nature.,Overexploitation of natural resources poses a serious threat to ecological sustainability.
+92,necessary,Required or absolutely needed.,It is necessary for governments to invest in infrastructure to support economic growth.
+93,negative,Harmful or unfavourable in nature or effect.,Prolonged exposure to online bullying can have serious negative effects on mental health.
+94,obtain,To get or acquire something through effort.,Students must obtain a minimum grade to qualify for university scholarship programmes.
+95,occur,To happen or take place.,Natural disasters are predicted to occur more frequently due to climate change.
+96,opportunity,A favourable situation that allows progress.,Access to quality education provides young people with greater economic opportunities.
+97,outcome,The result or consequence of an action.,Early intervention programmes tend to produce better educational outcomes for children.
+98,participate,To take part in an activity or event.,Citizens should be encouraged to actively participate in local government decision-making.
+99,policy,A plan or course of action adopted by an authority.,Effective energy policy is essential for reducing a nation's carbon footprint.
+100,pollute,To contaminate the environment with harmful substances.,Industrial activities continue to pollute rivers and harm aquatic ecosystems globally.
+101,population,All the inhabitants of a particular place.,An ageing population presents significant challenges for pension and healthcare systems.
+102,positive,Having a beneficial or good effect.,A positive attitude towards lifelong learning can improve career prospects significantly.
+103,potential,Having the capacity to develop or achieve something.,Artificial intelligence has the potential to transform healthcare diagnosis and treatment.
+104,prevent,To stop something from happening.,Vaccination programmes are one of the most effective ways to prevent the spread of disease.
+105,primary,Most important or first in order of priority.,The primary goal of any health system should be to protect and promote wellbeing.
+106,process,A series of steps to achieve an outcome.,The democratic process relies on citizens having access to impartial, accurate information.
+107,produce,To make or create something.,Factories that produce high levels of emissions must be subject to stricter regulations.
+108,promote,To support or encourage development of something.,Campaigns that promote healthy eating habits can help reduce rates of childhood obesity.
+109,propose,To put forward a plan or suggestion.,Several economists have proposed a carbon tax as a solution to reducing emissions.
+110,protect,To keep safe from harm or damage.,Governments have a duty to protect citizens from the consequences of environmental pollution.
+111,provide,To make something available to someone.,The state must provide basic healthcare services to all citizens without discrimination.
+112,purpose,The reason for which something exists or is done.,The main purpose of higher education is to equip students with critical thinking skills.
+113,raise,To increase or bring a matter to attention.,International organisations continue to raise awareness about the effects of climate change.
+114,reduce,To make something smaller or less in amount.,The government aims to reduce carbon emissions by 50% within the next twenty years.
+115,reflect,To show or think deeply about something.,Government policies should accurately reflect the needs and values of the wider population.
+116,region,A large area with distinct characteristics.,Economic development varies widely between coastal and inland regions of the country.
+117,regulate,To control something by means of rules.,Governments must regulate the use of social media platforms to protect young users.
+118,relate,To have a connection or link with something.,High levels of inequality are closely related to increased rates of crime and social unrest.
+119,release,To allow something to be free or discharged.,Industrial processes continue to release large quantities of pollutants into the atmosphere.
+120,rely,To depend on someone or something.,Many developing nations still rely heavily on fossil fuels for their energy needs.
+121,represent,To stand for or act on behalf of something.,Elected officials have a duty to represent the interests of their constituents fairly.
+122,require,To need something as essential or obligatory.,Tackling climate change requires urgent international cooperation and political commitment.
+123,research,Systematic investigation to establish new facts.,Significant investment in medical research is needed to combat emerging infectious diseases.
+124,resource,A supply that can be used for a purpose.,Nations must manage their natural resources responsibly to ensure long-term sustainability.
+125,respond,To react or reply to something.,Governments must respond swiftly to natural disasters to minimise casualties and suffering.
+126,result,Something that follows as a consequence of an action.,Poor diet and sedentary lifestyles often result in serious long-term health problems.
+127,retain,To continue to keep or hold something.,Companies must develop better strategies to retain talented employees in competitive markets.
+128,reveal,To make something previously hidden known.,Recent research reveals a strong correlation between income inequality and poor health outcomes.
+129,role,The function or position someone or something has.,Education plays a crucial role in reducing social inequality and promoting social mobility.
+130,rural,Relating to the countryside rather than cities.,Rural communities often lack access to the same educational resources as urban populations.
+131,sector,A distinct part of the economy or society.,The public sector plays a vital role in delivering essential services to citizens.
+132,significant,Important or large enough to have an effect.,There has been a statistically significant reduction in crime rates in recent decades.
+133,society,A community of people living together.,A fair and just society must ensure equal opportunities for all its citizens.
+134,solution,A way of solving a problem.,International cooperation is necessary to find long-term solutions to global climate change.
+135,source,The origin or supply of something.,Researchers must cite reliable sources when presenting evidence in academic work.
+136,standard,A level of quality or achievement expected.,Raising educational standards is considered essential for improving national economic competitiveness.
+137,strategy,A plan designed to achieve a long-term goal.,The government unveiled a new national strategy to tackle rising levels of obesity.
+138,structure,The organized arrangement of parts in something.,Rigid social structures can prevent upward mobility and perpetuate inequality.
+139,suggest,To put forward an idea or possibility.,Evidence suggests that early childhood education has lasting benefits for cognitive development.
+140,support,To give assistance or argue in favour of something.,Government financial support for small businesses is crucial during economic downturns.
+141,sustain,To maintain or keep something going over time.,It is vital to adopt policies that sustain economic growth without damaging the environment.
+142,system,An organized set of interrelated elements.,A well-funded healthcare system is essential for maintaining a healthy and productive population.
+143,target,An objective or group aimed at specifically.,Countries must set ambitious targets for reducing greenhouse gas emissions by 2050.
+144,technology,Scientific knowledge applied to practical purposes.,Advances in technology have made it possible to access information anywhere in the world.
+145,tend,To have a general inclination towards something.,Wealthier nations tend to produce more carbon emissions per capita than developing countries.
+146,theory,A system of ideas used to explain phenomena.,Darwin's theory of evolution fundamentally changed our understanding of life on Earth.
+147,traditional,Based on long-established customs and practices.,Globalisation has challenged traditional values and cultural identities in many societies.
+148,transform,To change something completely in form or nature.,Digital technology has the power to transform the way people work and communicate.
+149,trend,A general direction in which something is developing.,The global trend towards urbanisation shows no signs of slowing in coming decades.
+150,urban,Relating to or characteristic of a city.,Rapid urban development has placed enormous pressure on public transport infrastructure.
+151,value,The importance or worth assigned to something.,Core values such as equality and justice underpin most modern democratic constitutions.
+152,vary,To be different or change depending on conditions.,Life expectancy varies significantly between countries depending on income and healthcare quality.
+153,victim,A person harmed by a crime or misfortune.,Adequate support systems must be in place to help victims of domestic violence recover.
+154,welfare,The health, happiness, and wellbeing of a person.,The welfare state provides a safety net for citizens during periods of unemployment or illness.
+155,access,The ability or right to obtain or use something.,Ensuring equal access to healthcare is a fundamental obligation of any just government.
+156,adapt,To adjust to new conditions or circumstances.,Businesses must continuously adapt to rapidly changing market conditions to remain competitive.
+157,address,To deal with or speak about a problem.,Policymakers must urgently address the issue of rising homelessness in major cities.
+158,adequate,Satisfactory or sufficient for a particular purpose.,Every child has a right to receive an adequate standard of education and nutrition.
+159,agency,An organization acting on behalf of another; autonomy.,A government agency was established specifically to oversee environmental protection matters.
+160,argue,To present reasons in support of a position.,Many economists argue that free trade benefits both developing and developed nations.
+161,aware,Having knowledge or consciousness of something.,Young people are increasingly aware of the consequences of climate change on their future.
+162,balance,An equal distribution or stable equilibrium.,A balanced approach is needed that promotes economic growth while protecting the environment.
+163,barrier,Something that prevents access or progress.,Financial barriers continue to prevent many talented students from accessing higher education.
+164,behavior,The way a person or organism acts.,Educational programmes can effectively change behavior and promote healthier lifestyle choices.
+165,budget,An estimate of income and expenditure for a period.,Governments must allocate a sufficient portion of the national budget to public education.
+166,capital,Wealth used to generate income; a country's seat of government.,Investing in human capital through education yields significant long-term economic returns.
+167,chart,A visual representation of data; to record data.,The chart illustrates a steady increase in global average temperatures from 1980 to 2020.
+168,choice,A selection made from available alternatives.,Governments should respect individual choice while ensuring citizens are well informed.
+169,collect,To gather items or information together.,Researchers collect data from thousands of participants to ensure statistical reliability.
+170,commit,To pledge or dedicate oneself to a course of action.,Nations must commit to binding agreements to reduce their greenhouse gas emissions significantly.
+171,communicate,To share or exchange information effectively.,The ability to communicate clearly and persuasively is essential in academic and professional life.
+172,compete,To strive against others for the same goal.,Nations must invest in education and innovation to compete effectively in the global economy.
+173,conflict,A serious disagreement or prolonged struggle.,Armed conflict continues to displace millions of people across various regions of the world.
+174,contract,A formal legal agreement between parties.,Workers should always read an employment contract carefully before signing any document.
+175,cope,To deal effectively with a difficult situation.,Many communities struggle to cope with the increasing frequency of natural disasters.
+176,corrupt,Dishonest or willing to act unethically for gain.,Corrupt officials who misuse public funds undermine the trust citizens place in government.
+177,cost,The amount required to buy or do something.,The rising cost of living has made it increasingly difficult for low-income families to afford housing.
+178,crime,An illegal act punishable by law.,Addressing the root causes of poverty is essential for reducing rates of violent crime.
+179,crisis,A time of intense difficulty or danger.,The global financial crisis of 2008 demonstrated how interconnected modern economies have become.
+180,critical,Involving careful analysis; of great importance.,Critical thinking is an essential skill for analysing complex issues in academic and professional life.
+181,decrease,To become or make smaller in size or amount.,There has been a steady decrease in the number of people living in extreme poverty globally.
+182,democracy,A system of government by elected representatives.,A vibrant democracy depends on a well-informed citizenry and a free press.
+183,detect,To discover or identify the presence of something.,Advanced screening tools can detect certain cancers at an early and more treatable stage.
+184,disease,An illness caused by infection or malfunction.,Preventing the spread of infectious disease requires significant investment in public health infrastructure.
+185,domestic,Relating to the home or one's own country.,Domestic policy decisions can have significant consequences for a nation's international standing.
+186,dominate,To have the most power or influence over others.,A small number of multinational corporations dominate global trade in food production.
+187,economy,The system of production and consumption in a country.,Diversifying the national economy reduces a country's vulnerability to commodity price shocks.
+188,emission,The production and release of gas into the atmosphere.,Reducing carbon emissions is central to international efforts to address climate change.
+189,enforce,To compel compliance with a law or rule.,Without adequate resources, governments cannot effectively enforce environmental protection laws.
+190,identify,To recognize or establish the identity of something.,The study aims to identify the key factors contributing to rising levels of youth unemployment.
+191,observe,To watch carefully or notice something.,Scientists observe animal behaviour in natural habitats to better understand ecological systems.
+192,category,A class or group of things with shared qualities.,The report divides waste into three main categories: recyclable, organic, and hazardous.
+193,principle,A fundamental truth or rule guiding behaviour.,The principle of equality underpins international human rights law and democratic governance.
+194,publish,To make information or work available to the public.,Researchers must publish their findings in credible journals to contribute to scientific knowledge.
+195,innovate,To introduce new ideas or methods.,Companies that fail to innovate risk being outcompeted by more agile rivals in the marketplace.
+196,integrate,To combine or incorporate parts into a whole.,Effective policies are needed to help refugees integrate into their host communities.
+197,allocate,To distribute resources for a specific purpose.,Governments must allocate sufficient funds to maintain and improve public health services.
+198,coordinate,To organize people or groups to work together.,International agencies must coordinate their disaster relief efforts to maximise effectiveness.
+199,debate,A formal discussion of opposing viewpoints.,There is ongoing debate among economists about the long-term effects of globalization on inequality.
+200,expose,To reveal or leave unprotected from something.,Children who are exposed to violence in the media may develop desensitised attitudes to harm.
+201,accelerate,To increase in speed or rate.,Technological innovation has accelerated economic growth in many developing nations.
+202,accommodate,To provide space for or adapt to needs.,Cities must expand infrastructure to accommodate the growing urban population.
+203,accumulate,To gradually gather or build up over time.,Households in developed countries tend to accumulate greater wealth over generations.
+204,acknowledge,To recognize or admit the existence of something.,Governments must acknowledge the role of poverty in driving social inequality.
+205,acquisition,The act of obtaining or gaining something.,Early language acquisition is critical for a child's long-term academic success.
+206,adverse,Harmful or unfavourable in effect.,Prolonged exposure to pollution can have adverse effects on public health.
+207,advocate,To publicly support a cause or policy.,Many educators advocate for smaller class sizes to improve learning outcomes.
+208,alleviate,To make suffering or a problem less severe.,Foreign aid programmes aim to alleviate poverty in the world's least developed nations.
+209,ambitious,Having a strong desire to achieve challenging goals.,The government set an ambitious target to reduce carbon emissions by 50% by 2030.
+210,amplify,To increase the strength or effect of something.,Social media can amplify public discourse but also spread misinformation rapidly.
+211,anticipate,To expect or predict something before it happens.,Policymakers must anticipate future demographic shifts when planning public services.
+212,apparent,Clearly visible or obvious; seeming to be true.,It is apparent that access to quality education remains unequal across social classes.
+213,attribute,To regard something as caused by a factor.,Researchers attribute the rise in obesity largely to poor dietary habits and inactivity.
+214,autonomous,Acting independently without external control.,Autonomous vehicles are expected to transform the global transportation industry.
+215,biodiversity,Variety of plant and animal life in a habitat.,Deforestation poses a significant threat to biodiversity in tropical rainforests.
+216,burden,A heavy load or responsibility; to overload.,Rising healthcare costs place a considerable burden on both individuals and governments.
+217,capacity,The maximum amount something can hold or do.,Developing nations must build their institutional capacity to address climate change effectively.
+218,carbon footprint,Total greenhouse gases produced by an entity.,Individuals can significantly reduce their carbon footprint by adopting plant-based diets.
+219,chronic,Persisting for a long time; constantly recurring.,Chronic unemployment in rural areas contributes to widespread poverty and social exclusion.
+220,civic,Relating to citizens and their responsibilities.,Civic engagement is essential for maintaining a healthy and functional democracy.
+221,collaboration,Working jointly with others to achieve a goal.,International collaboration is necessary to address global challenges such as climate change.
+222,competence,The ability to do something effectively.,Employers increasingly value digital competence alongside traditional academic qualifications.
+223,compliance,Conforming to rules, standards, or laws.,Strict compliance with environmental regulations is essential for sustainable industrial development.
+224,comprehensive,Including all aspects; thorough and complete.,A comprehensive approach to public health must address both prevention and treatment.
+225,constraint,A limitation or restriction on action.,Budgetary constraints often prevent governments from investing adequately in public infrastructure.
+226,consumption,The use of goods, resources, or energy.,Reducing energy consumption is a key strategy for combating climate change globally.
+227,contemporary,Existing or occurring in the present time.,Contemporary society faces unprecedented challenges related to digital technology and privacy.
+228,controversial,Causing strong disagreement or debate.,The use of nuclear energy remains a highly controversial topic in environmental debates.
+229,correlate,To show a mutual relationship between two things.,Research shows that higher education levels correlate strongly with better economic outcomes.
+230,curriculum,Subjects taught in a school or course.,Many educators argue that the national curriculum should include more critical thinking skills.
+231,deforestation,Large-scale clearing of forests by humans.,Deforestation in the Amazon is driven largely by agricultural expansion and cattle ranching.
+232,demographic,Statistical data relating to a population group.,Demographic shifts towards ageing populations will place significant strain on pension systems.
+233,deplete,To reduce or exhaust a supply of something.,Overfishing continues to deplete marine resources at an alarming and unsustainable rate.
+234,deteriorate,To become progressively worse in quality.,Without urgent intervention, environmental conditions in urban areas will continue to deteriorate.
+235,digital,Relating to computer technology and the internet.,The digital divide between rich and poor nations risks exacerbating global inequality further.
+236,diminish,To make or become smaller or less significant.,Automation may diminish the demand for low-skilled labour in manufacturing sectors.
+237,discrepancy,A difference between things that should match.,There is a notable discrepancy between the government's stated goals and its actual policies.
+238,discrimination,Unjust treatment based on group membership.,Workplace discrimination against women remains a significant barrier to gender equality.
+239,disparity,A great difference between things or groups.,The growing wealth disparity between the richest and poorest citizens threatens social cohesion.
+240,displacement,Forced removal of people from their home.,Armed conflict has caused the displacement of millions of people across the Middle East.
+241,disruption,A disturbance that interrupts normal activity.,Digital innovation has caused widespread disruption to traditional business models and industries.
+242,dominant,Most powerful, important, or influential.,English has become the dominant language of international business and academic research.
+243,drought,A prolonged period of abnormally low rainfall.,Prolonged drought in sub-Saharan Africa has devastated agricultural output and food security.
+244,ecological,Relating to the relationship between organisms and environment.,Industrial farming practices have caused severe ecological damage to soil and waterways.
+245,emphasis,Special importance given to something.,There is growing emphasis on developing soft skills in modern educational curricula.
+246,epidemic,A widespread occurrence of disease in a region.,The obesity epidemic in wealthy nations is linked to sedentary lifestyles and poor diet.
+247,equality,The state of having equal rights and opportunities.,Achieving gender equality in the workplace requires both legislative reform and cultural change.
+248,ethical,Relating to moral principles and right conduct.,The use of artificial intelligence raises important ethical questions about privacy and accountability.
+249,expenditure,The amount of money spent on something.,Increased government expenditure on education can yield significant long-term economic benefits.
+250,exploit,To use unfairly or to make use of a resource.,Multinational corporations have been criticised for exploiting cheap labour in developing countries.
+251,extinction,The end of a species' existence entirely.,Human activity is driving numerous plant and animal species towards rapid extinction.
+252,facilitate,To make an action or process easier.,Improved transport infrastructure can facilitate trade and boost economic development significantly.
+253,fiscal,Relating to government revenue and taxation.,Governments must adopt prudent fiscal policies to avoid excessive national debt accumulation.
+254,flexible,Able to adapt to changing conditions easily.,Flexible working arrangements have been shown to improve employee wellbeing and productivity.
+255,fossil fuel,Energy source formed from ancient organic matter.,The continued burning of fossil fuels is the primary driver of global climate change.
+256,fragile,Easily broken or damaged; delicate and vulnerable.,Small island nations have particularly fragile ecosystems that are threatened by rising sea levels.
+257,framework,A basic structure or system for guiding action.,A clear legal framework is needed to regulate the use of artificial intelligence ethically.
+258,fundamental,Forming an essential foundation or core.,Access to clean water is a fundamental human right that many people still lack.
+259,globalization,Increasing worldwide economic and cultural integration.,Globalization has created new opportunities for trade but also increased economic competition.
+260,healthcare,Organised provision of medical services to people.,Universal healthcare ensures that all citizens receive medical treatment regardless of income.
+261,hypothesis,A proposed explanation requiring further testing.,The researcher proposed a hypothesis that diet directly influences cognitive development in children.
+262,identical,Exactly the same in every detail.,The study found almost identical outcomes across two groups with different educational backgrounds.
+263,implication,A likely consequence or suggested meaning.,The rise of automation has significant implications for future employment and income distribution.
+264,incentive,Something that encourages a desired action.,Tax incentives can encourage businesses to invest in renewable energy technologies.
+265,inequality,Unequal distribution of resources or opportunities.,Rising income inequality is one of the most pressing social challenges of the modern era.
+266,inevitable,Certain to happen; impossible to avoid.,Some economists argue that technological unemployment is an inevitable consequence of automation.
+267,inflation,A general rise in prices over time.,High inflation erodes purchasing power and disproportionately affects low-income households.
+268,innovation,Introduction of new ideas, methods, or products.,Continued innovation in renewable energy is essential to achieving global sustainability goals.
+269,interaction,Reciprocal action or communication between parties.,Face-to-face interaction is vital for developing essential social skills in young children.
+270,intervention,Action taken to improve or prevent a situation.,Early government intervention is essential to prevent the worsening of a financial crisis.
+271,investment,Allocating resources expecting future benefit.,Foreign direct investment plays a crucial role in accelerating economic growth in developing nations.
+272,legislation,Laws or a body of laws enacted by government.,Stronger legislation is needed to protect workers from unsafe conditions in the workplace.
+273,literacy,The ability to read, write, or use a skill.,High literacy rates are strongly associated with improved economic productivity and social outcomes.
+274,marginalize,To treat a group as unimportant or peripheral.,Economic policies that ignore rural areas tend to further marginalize already vulnerable communities.
+275,mechanism,A system or process for achieving a result.,Effective regulatory mechanisms are vital to prevent monopolistic practices in free markets.
+276,methodology,A system of methods used in research.,The study's conclusions were questioned due to significant flaws in its research methodology.
+277,migration,Movement of people from one place to another.,Economic migration to urban centres has accelerated in many developing countries in recent decades.
+278,mindset,An established set of attitudes or beliefs.,A growth mindset encourages students to view mistakes as opportunities for learning.
+279,mobility,The ability to move freely between positions.,Education is widely regarded as the primary driver of social mobility in modern societies.
+280,mortality,The rate of deaths in a population.,Improved sanitation has dramatically reduced child mortality rates in developing countries.
+281,motivation,The reason or drive behind a person's action.,Students with high intrinsic motivation tend to outperform those driven only by external rewards.
+282,municipal,Relating to a town or city government.,Municipal authorities are responsible for managing waste collection and public transportation systems.
+283,narrative,A spoken or written account of events.,The media plays a powerful role in shaping the public narrative around immigration.
+284,negotiate,To reach agreement through discussion.,World leaders must negotiate binding agreements to effectively address global climate change.
+285,obesity,The condition of being excessively overweight.,Childhood obesity rates have risen sharply in many countries due to unhealthy dietary habits.
+286,obligation,A moral or legal duty to do something.,Wealthy nations have a moral obligation to assist countries most affected by climate change.
+287,obstacle,Something that blocks progress or achievement.,Lack of funding remains a significant obstacle to educational reform in many nations.
+288,opposition,Resistance or conflict against something.,The proposed road expansion has met fierce opposition from local environmental groups.
+289,organic,Produced without artificial chemicals; naturally occurring.,The demand for organic food has grown significantly as consumers become more health-conscious.
+290,overcrowding,Too many people in a limited space.,Rapid urbanisation has led to severe overcrowding in major cities across the developing world.
+291,pandemic,A disease spreading across entire countries worldwide.,The COVID-19 pandemic exposed critical weaknesses in global public health infrastructure.
+292,penalty,A punishment for breaking a rule or law.,Introducing heavier financial penalties for pollution may deter industries from environmental violations.
+293,perception,A belief or interpretation of something.,Public perception of immigration is often shaped by media coverage rather than statistical evidence.
+294,perspective,A particular viewpoint or way of seeing things.,It is essential to consider the issue from the perspective of those most directly affected.
+295,phenomenon,An observable fact or event, often remarkable.,Urbanisation is a global phenomenon that presents both opportunities and significant challenges.
+296,poverty,The state of being extremely poor.,Eradicating extreme poverty remains one of the most important goals of international development.
+297,prejudice,An unfair opinion not based on reason.,Combating racial prejudice requires both legal reform and widespread educational initiatives.
+298,priority,Something ranked as most important.,Improving access to quality education should be the top priority of any responsible government.
+299,productivity,The efficiency of output per unit of input.,Investing in employee training is one of the most effective ways to boost workplace productivity.
+300,progressive,Favouring reform and social advancement.,A progressive tax system ensures that higher-income earners contribute a greater proportion.
+301,proportion,A part of a whole; a comparative ratio.,A disproportionate share of national wealth is owned by a small proportion of the population.
+302,psychological,Relating to the mind and mental processes.,Unemployment can have serious psychological consequences, including depression and loss of identity.
+303,recession,A period of significant economic decline.,During a recession, rising unemployment and reduced consumer spending create a negative cycle.
+304,rehabilitation,Process of restoring health or normal life.,Investing in rehabilitation programmes reduces reoffending rates more effectively than imprisonment alone.
+305,renewable,A resource that can be naturally replenished.,Investment in renewable energy sources is vital to reduce dependence on fossil fuels globally.
+306,restriction,A rule or condition that limits activity.,Travel restrictions imposed during the pandemic caused significant disruption to global tourism.
+307,revenue,Income generated by a government or business.,Governments rely on tax revenue to fund essential public services such as healthcare and education.
+308,revolution,A dramatic and fundamental change in society.,The industrial revolution fundamentally transformed the global economy and patterns of human labour.
+309,sanitation,Systems for maintaining hygiene and waste management.,Inadequate sanitation in densely populated urban areas contributes to the spread of infectious disease.
+310,scarcity,Insufficient supply of a needed resource.,Water scarcity poses one of the most serious threats to human survival in the coming decades.
+311,skeptical,Inclined to question or doubt claims.,Many economists remain skeptical about the long-term sustainability of current government spending.
+312,social mobility,Ability to move between social classes.,Education is widely considered the most powerful tool for improving social mobility.
+313,stereotype,A fixed oversimplified image of a group.,Media representations often reinforce harmful stereotypes about minority communities.
+314,stimulus,Something that provokes a response or activity.,The government launched a large stimulus package to revive the economy after the recession.
+315,suburb,A residential area on the outskirts of a city.,The growth of suburbs has increased car dependency and contributed to urban sprawl.
+316,surveillance,Close observation, especially by authorities.,Mass surveillance by governments raises serious concerns about individual privacy and civil liberties.
+317,taxation,The system of levying taxes on citizens.,Fair and progressive taxation is essential for funding public services and reducing inequality.
+318,transition,A change from one state to another.,A rapid transition to renewable energy is essential to limit global temperature rise.
+319,transparency,Openness and clarity in processes or governance.,Greater transparency in government spending can help reduce corruption and build public trust.
+320,unemployment,The state of being without paid work.,Structural unemployment caused by automation poses a major challenge to governments worldwide.
+321,urbanization,Increasing proportion of people living in cities.,Rapid urbanisation in Asia has created mega-cities but also severe infrastructure challenges.
+322,vaccination,Treatment that provides immunity against disease.,Mass vaccination programmes have eradicated diseases such as smallpox and controlled polio globally.
+323,voluntary,Done willingly without external compulsion.,Voluntary sector organisations play a crucial role in supporting vulnerable members of society.
+324,vulnerability,Being exposed to harm or difficulty.,Small island nations face extreme vulnerability to the consequences of rising sea levels.
+325,widespread,Found or distributed over a large area.,Widespread access to the internet has transformed communication and access to information globally.
+326,workforce,All people available for employment.,An ageing workforce presents significant challenges for pension systems in developed countries.
+327,yield,To produce or provide a result or crop.,Improved agricultural techniques have helped farmers yield larger crops in drought-prone regions.
+328,exacerbate,To make a problem or situation worse.,Climate change is expected to exacerbate existing food security challenges in vulnerable regions.
+329,allocation,The distribution of resources for a purpose.,Effective allocation of public funds is essential for improving national healthcare outcomes.
+330,integration,The process of combining parts into a whole.,Successful social integration of migrants requires investment in language education and community support.
+331,accountability,Responsibility for one's actions and decisions.,Greater accountability in public institutions is essential for maintaining citizen trust in government.
+332,adaptive,Capable of adjusting to new conditions.,Adaptive management strategies allow organisations to respond effectively to rapidly changing environments.
+333,aggravate,To make a problem or situation more serious.,Inadequate government response can aggravate the social consequences of an economic recession.
+334,anthropogenic,Caused or produced by human activity.,Scientists agree that anthropogenic greenhouse gas emissions are the primary driver of global warming.
+335,assimilation,The absorption of a group into a dominant culture.,Forced cultural assimilation of indigenous peoples has been widely condemned by human rights organisations.
+336,austerity,Severe government spending cuts to reduce debt.,Austerity measures imposed after the financial crisis resulted in severe cuts to public services.
+337,automation,Use of technology to perform tasks automatically.,The automation of manufacturing processes has significantly reduced the need for unskilled labour.
+338,biodegradable,Capable of being decomposed by natural organisms.,Replacing plastic with biodegradable packaging is a key step towards reducing environmental pollution.
+339,bureaucracy,A complex system of rules and official processes.,Excessive bureaucracy in public institutions can hinder the efficient delivery of essential services.
+340,catalyst,Something that triggers or accelerates a process.,The pandemic acted as a catalyst for widespread adoption of remote working practices globally.
+341,civic engagement,Active participation in community and political life.,Low levels of civic engagement among young people pose a significant threat to democratic governance.
+342,coexistence,Existing together peacefully despite differences.,Achieving peaceful coexistence among diverse ethnic communities requires mutual respect and understanding.
+343,cognitive,Relating to mental processes of thought and learning.,Early childhood education has a profound impact on long-term cognitive development and academic performance.
+344,cohesion,The quality of forming a united whole.,High levels of inequality undermine social cohesion and increase the risk of civil unrest.
+345,commodify,To treat something as a commercial product.,Critics argue that governments should not commodify education by treating it as a market product.
+346,compulsory,Required by law or rules; mandatory.,Compulsory education laws have been instrumental in improving literacy rates across the world.
+347,conceive,To form or develop an idea or plan.,It is difficult to conceive of a sustainable future without a radical shift in energy consumption.
+348,consolidate,To combine or strengthen into a unified whole.,The merger allowed the two companies to consolidate resources and improve operational efficiency.
+349,contamination,The presence of harmful pollutants in a substance.,Industrial waste has caused widespread contamination of groundwater in the surrounding rural communities.
+350,contention,A point of dispute or heated argument.,Immigration policy remains a major point of contention in political debates across many countries.
+351,decentralize,To transfer power from central to local authority.,Efforts to decentralize governance can empower local communities and improve public service delivery.
+352,deliberate,Done intentionally; to consider carefully.,The exclusion of minority voices from policy discussions appears to be a deliberate political strategy.
+353,dependency,The state of relying heavily on something.,Many developing nations struggle to reduce their economic dependency on a single export commodity.
+354,deprivation,A damaging lack of basic necessities.,Children raised in areas of severe deprivation are significantly less likely to achieve academic success.
+355,desertification,Degradation of land into desert-like conditions.,Desertification threatens the livelihoods of millions of people living in semi-arid regions worldwide.
+356,deterioration,A process of becoming progressively worse.,The deterioration of urban infrastructure poses serious safety risks to residents in many cities.
+357,disproportionate,Too large or small relative to something else.,Marginalised communities bear a disproportionate burden of the consequences of environmental pollution.
+358,electoral,Relating to elections or the voting process.,Electoral reform is essential to ensure that all citizens are fairly represented in government.
+359,emigration,Leaving one's country to settle elsewhere.,High rates of emigration can deprive developing nations of their most skilled and educated citizens.
+360,empirical,Based on observation and evidence rather than theory.,Sound policy decisions should be based on empirical evidence rather than ideological assumptions.
+361,endorsement,Public declaration of support or approval.,A celebrity endorsement can significantly influence public opinion on important social and political issues.
+362,entrepreneurship,The activity of setting up and running businesses.,Governments can stimulate economic growth by creating conditions that support entrepreneurship and innovation.
+363,ethical dilemma,A conflict requiring a choice between moral principles.,Advances in genetic engineering present society with profound ethical dilemmas that require careful deliberation.
+364,exacerbation,The process of making a problem more severe.,Rapid population growth leads to the exacerbation of resource shortages in already struggling regions.
+365,exclusion,The act of denying access or membership.,Social exclusion of vulnerable groups is a major obstacle to achieving genuine societal equality.
+366,exploitation,Unfair use of someone or something for gain.,The exploitation of cheap labour in developing nations by multinational corporations raises serious ethical concerns.
+367,exponential,Increasing or decreasing at a rapidly accelerating rate.,The exponential growth of social media use has transformed the way people consume information globally.
+368,fluctuation,Irregular variation or change over time.,Sharp fluctuations in global oil prices can destabilise the economies of oil-dependent nations.
+369,formulate,To create or devise systematically.,Governments must carefully formulate policies that balance economic growth with environmental protection.
+370,fragmentation,The breaking of something into small, isolated parts.,The fragmentation of political parties has made it increasingly difficult to form stable governments.
+371,gross domestic product,Total monetary value of a country's annual output.,Many economists argue that gross domestic product is an inadequate measure of national wellbeing.
+372,hegemony,Dominance of one group over others.,The cultural hegemony of Western nations has influenced global media and consumer preferences significantly.
+373,homogenization,Making things uniform or similar throughout.,Critics argue that globalisation leads to the cultural homogenization of societies at the expense of diversity.
+374,humanitarian,Concerned with improving human welfare and suffering.,International humanitarian aid is vital for supporting populations affected by armed conflict and disaster.
+375,ideology,A system of beliefs underpinning political action.,Economic policy is often shaped more by political ideology than by empirical evidence and research.
+376,impose,To force something upon others by authority.,International bodies may impose sanctions on governments that violate human rights agreements.
+377,incarceration,The state of being imprisoned.,High rates of incarceration in some countries raise serious questions about justice and rehabilitation.
+378,inception,The beginning or establishment of something.,Since its inception, the organisation has made significant progress in alleviating global poverty.
+379,inclusive,Not excluding any group or individual.,An inclusive education system ensures that children with disabilities receive equal learning opportunities.
+380,indigenous,Originating naturally in a particular region.,The rights of indigenous peoples to their ancestral lands must be protected under international law.
+381,industrialization,Transition to large-scale industrial manufacturing.,The industrialisation of developing nations has brought economic growth but also significant environmental damage.
+382,inefficiency,Failure to make best use of time or resources.,Widespread bureaucratic inefficiency prevents governments from delivering services effectively and equitably.
+383,institutional,Relating to established organisations or systems.,Institutional racism embedded in legal systems continues to disadvantage minority communities worldwide.
+384,interdependence,Mutual reliance between two or more groups.,The global pandemic demonstrated the deep interdependence of national economies in the modern world.
+385,intimidation,Using fear or threats to coerce someone.,Voter intimidation undermines the democratic process and prevents free and fair elections from occurring.
+386,jurisdiction,The official authority to administer laws.,Cybercrime presents complex challenges because it frequently occurs across multiple legal jurisdictions.
+387,juxtapose,To place two things together to highlight contrast.,The report juxtaposes the lifestyles of the wealthy elite with those living in extreme poverty.
+388,legitimate,Conforming to law or accepted standards.,A legitimate government must be accountable to its citizens and respect fundamental human rights.
+389,malnutrition,Poor health from insufficient or unbalanced diet.,Widespread malnutrition in conflict zones represents a serious and urgent global humanitarian crisis.
+390,manifestation,A visible sign or expression of something.,Homelessness is a stark manifestation of the failure of housing policy in many developed cities.
+391,marginalization,The process of treating a group as peripheral.,The marginalisation of ethnic minorities in the labour market perpetuates cycles of poverty and inequality.
+392,meritocracy,A system where advancement is based on ability.,Critics argue that a genuine meritocracy is impossible while systemic inequality remains unaddressed.
+393,mitigation,Action to reduce the severity of something harmful.,Effective mitigation strategies are urgently needed to limit the worst impacts of global climate change.
+394,monopoly,Exclusive control of a market by one entity.,Unchecked monopolies reduce competition and ultimately lead to higher prices for consumers.
+395,multilateral,Involving more than two parties or nations.,Addressing climate change effectively requires multilateral cooperation among all major emitting nations.
+396,neglect,Failure to care for or attend to something.,Years of political neglect have left many rural communities without adequate healthcare or education.
+397,neoliberal,Favouring free markets, privatisation, and deregulation.,Critics argue that neoliberal economic policies have widened the gap between rich and poor globally.
+398,norms,Accepted standards of behaviour in a society.,Changing social norms around gender roles have gradually transformed the modern workplace.
+399,obsolete,No longer in use; outdated and superseded.,Rapid technological advancement has rendered many traditional manufacturing skills virtually obsolete.
+400,oppression,Prolonged unjust authority or control over others.,Historical oppression of minority groups has created deeply embedded inequalities that persist today.
+401,outbreak,A sudden occurrence of disease or violence.,The outbreak of a new viral disease prompted immediate international public health emergency measures.
+402,per capita,For each person in a given population.,GDP per capita is commonly used to compare the average standard of living across different countries.
+403,polarization,Division into two sharply contrasting groups.,Political polarization has made bipartisan cooperation on major national issues increasingly difficult.
+404,privatization,Transfer of state-owned assets to private ownership.,The privatisation of utilities such as water and energy has been widely criticised for reducing accessibility.
+405,proliferation,Rapid increase in the number of something.,The proliferation of misinformation on social media poses a serious threat to democratic processes.
+406,proximity,Nearness in space, time, or relationship.,Geographical proximity to economic centres significantly influences a region's development and growth.
+407,ratify,To formally approve an agreement or law.,More countries must ratify the Paris Agreement for global climate commitments to have meaningful impact.
+408,recidivism,Tendency to reoffend after prior conviction.,Effective rehabilitation programmes have been proven to reduce recidivism rates among former offenders.
+409,redistribution,Reallocation of resources to achieve greater equality.,Progressive taxation enables the redistribution of wealth from the richest to the most disadvantaged.
+410,reinforce,To strengthen or support an existing idea or structure.,Media portrayals of crime can inadvertently reinforce negative stereotypes about particular social groups.
+411,resilience,Ability to recover quickly from difficulties.,Building community resilience is essential for helping populations withstand the impacts of climate change.
+412,retaliation,Action taken in response to an injury or attack.,Trade retaliation between major economies can trigger a damaging cycle of escalating tariffs.
+413,segregation,The enforced separation of groups in society.,Racial segregation in education systems has long-lasting negative effects on social equality.
+414,socioeconomic,Relating to both social and economic factors.,A child's socioeconomic background remains one of the strongest predictors of educational achievement.
+415,sovereignty,Supreme authority and independence of a state.,International agreements sometimes conflict with nations' desire to preserve full economic sovereignty.
+416,subsidize,To support financially with government funds.,Many governments subsidize renewable energy to make it more competitive with fossil fuels.
+417,susceptible,Likely to be affected by or vulnerable to something.,Elderly populations are particularly susceptible to severe illness from respiratory infectious diseases.
+418,systemic,Relating to a whole system rather than one part.,Addressing poverty requires systemic change rather than piecemeal interventions targeting individual symptoms.
+419,reformulate,To express or devise again in a new form.,In light of new evidence, governments may need to reformulate their approach to public health policy.
+420,contraction,A reduction in economic output or activity.,The sharp contraction of global trade during the pandemic exposed the fragility of supply chains.
+421,aberration,A deviation from what is normal or expected.,Some economists consider the 2008 financial crisis an aberration rather than a structural failure of markets.
+422,abdicate,To fail to fulfil a duty or responsibility.,Governments that cut public services may be accused of abdicating their responsibility to vulnerable citizens.
+423,acrimony,Bitter hostility in speech or manner.,The Brexit negotiations were characterised by considerable acrimony between EU and UK representatives.
+424,amalgamate,To combine or unite into a single body.,Several smaller departments were amalgamated to improve administrative efficiency and reduce operational costs.
+425,ameliorate,To make a bad situation better or more tolerable.,International aid programmes aim to ameliorate the conditions faced by displaced populations in conflict zones.
+426,anachronism,Something out of place in its historical period.,Critics argue that the unelected upper house has become a democratic anachronism in modern society.
+427,asymmetry,Lack of equality or equivalence between parts.,Information asymmetry between buyers and sellers can lead to market failures and inefficient outcomes.
+428,attrition,Gradual reduction through sustained pressure or loss.,The prolonged conflict became a war of attrition that exhausted the resources of both opposing sides.
+429,bifurcation,A division into two branches or parts.,Growing inequality has led to a bifurcation of society into two increasingly disconnected economic groups.
+430,circumvent,To find a way around a rule or obstacle.,Multinational corporations have been accused of using offshore accounts to circumvent domestic tax obligations.
+431,coercive,Using force or threats to compel action.,The use of coercive measures to suppress political dissent violates fundamental democratic principles.
+432,commodification,The process of treating something as a marketable commodity.,The commodification of higher education has shifted universities from public institutions to commercial enterprises.
+433,complacency,Satisfied self-satisfaction despite obvious dangers.,Political complacency in the face of rising inequality has allowed social divisions to widen significantly.
+434,conjecture,An opinion formed without sufficient evidence.,Without empirical data, claims about the economic impact of the policy remain pure conjecture.
+435,contingent,Dependent on uncertain circumstances or conditions.,The success of the reform programme is contingent on sustained political commitment and adequate funding.
+436,corroborate,To confirm or support with evidence.,Multiple independent studies corroborate the finding that air pollution significantly increases mortality rates.
+437,curtail,To reduce or restrict something significantly.,Emergency legislation was enacted to curtail civil liberties during the height of the national health crisis.
+438,delineate,To describe or indicate precisely and clearly.,International treaties must clearly delineate the responsibilities of each signatory nation.
+439,demographic dividend,Economic growth from a larger working-age population.,Sub-Saharan Africa has an opportunity to harness its demographic dividend through investment in education.
+440,deter,To discourage action through fear or doubt.,Heavier penalties for environmental violations may deter corporations from polluting waterways illegally.
+441,dichotomy,A sharp division into two contrasting categories.,The dichotomy between economic growth and environmental protection is often presented as a false choice.
+442,diffusion,The spread of something across a wide area.,The rapid diffusion of digital technology has transformed how information is produced and consumed globally.
+443,disenfranchise,To deprive someone of rights or privileges.,Complex voter registration requirements can disenfranchise low-income and minority communities disproportionately.
+444,disparate,Essentially different in kind; not comparable.,The policy must accommodate the needs of disparate communities with very different economic circumstances.
+445,efficacy,The ability to produce a desired result.,Clinical trials must rigorously test the efficacy of new treatments before they are approved for public use.
+446,egalitarian,Believing in or advocating equal rights for all.,A truly egalitarian society must address both formal legal equality and substantive equality of opportunity.
+447,entrenched,Firmly established and difficult to change.,Deeply entrenched gender bias in hiring practices continues to disadvantage women in senior roles.
+448,equilibrium,A state of balance between opposing forces.,Supply and demand theory holds that markets will naturally tend towards a price equilibrium over time.
+449,eradicate,To completely destroy or eliminate something.,The World Health Organisation's goal to eradicate polio globally requires universal vaccination coverage.
+450,extrapolate,To extend known data to predict unknown situations.,Researchers must be cautious when attempting to extrapolate findings from small samples to entire populations.
+451,fabricate,To invent false information; to manufacture.,Journalists who fabricate evidence undermine public trust in the media and damage democratic discourse.
+452,feasibility,The quality of being possible and practical.,A comprehensive feasibility study is required before large-scale infrastructure projects are approved.
+453,fiscal deficit,When government spending exceeds its revenue.,A growing fiscal deficit forces governments to either raise taxes or cut essential public spending.
+454,groundbreaking,Innovative and pioneering; introducing new ideas.,The groundbreaking research on gene editing has opened new possibilities for treating inherited diseases.
+455,holistic,Addressing the whole system rather than its parts.,A holistic approach to public health must address social, economic, and environmental determinants simultaneously.
+456,homogeneous,Consisting of similar or uniform elements.,Increasingly homogeneous urban cultures may erode the rich diversity of traditional local communities.
+457,impede,To hinder or obstruct progress or movement.,Corrupt bureaucratic practices impede economic development and discourage foreign direct investment.
+458,incipient,Beginning to happen or develop; in early stages.,Early intervention is critical to prevent an incipient economic downturn from becoming a full recession.
+459,indiscriminate,Done without careful judgment; random and careless.,Indiscriminate use of pesticides damages ecosystems and harms species far beyond the intended target.
+460,inherent,Existing as a permanent essential characteristic.,There are inherent tensions between maximising economic growth and protecting the natural environment.
+461,instigate,To bring about or initiate an action or event.,Civil society groups often instigate policy change by mobilising public pressure on government institutions.
+462,mitigate,To lessen the severity or impact of something.,Planting urban trees can help mitigate the heat island effect in densely populated cities.
+463,perpetuate,To make something continue indefinitely.,Educational systems that reflect existing class structures tend to perpetuate rather than reduce social inequality.
+464,pragmatic,Dealing with things practically rather than theoretically.,A pragmatic approach to migration policy balances humanitarian obligations with realistic social capacity.
+465,precarious,Uncertain and likely to deteriorate; unstable.,The rise of zero-hours contracts has left many workers in a financially precarious and insecure position.
+466,preemptive,Acting in advance to prevent an anticipated event.,Some governments argue that preemptive military action is justified when facing an imminent security threat.
+467,repercussion,An indirect consequence of an event or action.,Trade wars can have serious economic repercussions for countries far beyond those directly involved.
+468,stringent,Strict, precise, and demanding compliance.,Stringent environmental regulations are necessary to prevent corporations from externalising pollution costs.
+469,undermine,To weaken or damage something gradually.,Widespread corruption undermines public trust in democratic institutions and the rule of law.
+470,recalibrate,To adjust or reset in response to new conditions.,Governments may need to recalibrate economic policy in response to rapidly changing global market conditions.
+471,acculturation,Adopting cultural traits from another group.,The acculturation of migrant communities involves a complex negotiation between heritage and host cultural norms.
+472,adjudicate,To make an official judgement or decision.,International tribunals exist to adjudicate disputes between nations that cannot be resolved bilaterally.
+473,antithetical,Directly opposed or contradictory to something.,Suppressing freedom of speech is antithetical to the foundational principles of liberal democratic governance.
+474,burgeoning,Growing or developing rapidly and vigorously.,The burgeoning middle class in Southeast Asia is driving unprecedented growth in consumer demand.
+475,coalesce,To come together to form one unified whole.,Disparate activist groups began to coalesce around a shared agenda of environmental and social justice.
+476,cognizant,Having knowledge or awareness of something.,Policymakers must be fully cognizant of the long-term environmental consequences of industrial development.
+477,counterproductive,Having the opposite of the desired effect.,Excessively punitive drug policies may be counterproductive, increasing crime rather than reducing substance abuse.
+478,cyclical,Recurring regularly through a repeated sequence.,Poverty is often cyclical, passed across generations due to inadequate access to education and opportunity.
+479,demagoguery,Political manipulation using populist emotional appeals.,The rise of demagoguery in democratic societies poses a serious threat to rational and evidence-based governance.
+480,endemic,Regularly found and widespread in a particular area.,Endemic corruption in public institutions prevents effective delivery of services to citizens in need.
+481,epistemic,Relating to knowledge or the degree of its validation.,Epistemic humility requires acknowledging the limits of what we can know when formulating public policy.
+482,exigent,Requiring immediate action or attention; urgent.,The exigent demands of the refugee crisis required an immediate and coordinated international response.
+483,extraterritorial,Extending or operating beyond territorial boundaries.,Some countries apply extraterritorial laws to prosecute companies for bribery committed abroad.
+484,geopolitical,Relating to politics influenced by geography.,Competition for critical mineral resources is increasingly driving geopolitical tensions between major powers.
+485,heterogeneous,Diverse in character or composed of different elements.,A heterogeneous workforce brings diverse perspectives that can drive greater organisational innovation.
+486,heuristic,Enabling discovery through trial and practical methods.,Behavioural economics reveals how cognitive heuristics can lead individuals to make systematically irrational decisions.
+487,hybridization,The process of combining two distinct elements.,Cultural hybridization in globalised cities produces new creative forms drawing from multiple traditions.
+488,immutable,Unchanging over time; impossible to change.,Some philosophers hold that moral truths are immutable, while others argue they evolve with society.
+489,inexorable,Impossible to stop or prevent; relentless.,The inexorable rise of sea levels poses an existential threat to low-lying coastal communities worldwide.
+490,insidious,Gradually harmful in a subtle and concealed way.,Unconscious bias can have an insidious effect on hiring decisions, perpetuating systemic workplace inequality.
+491,intractable,Too difficult to manage, resolve, or deal with.,The Israeli-Palestinian conflict has proved intractable despite decades of international diplomatic efforts.
+492,multifaceted,Having many different aspects or dimensions.,Addressing climate change requires a multifaceted approach combining technological, political, and behavioural change.
+493,nascent,Just beginning to exist or develop.,Investment in a nascent renewable energy sector can help nations transition away from fossil fuel dependence.
+494,normative,Relating to or establishing standards of behaviour.,Normative assumptions about gender roles can significantly influence educational and workplace policy design.
+495,obfuscate,To make something unclear or hard to understand.,Politicians sometimes use technical language to obfuscate unpopular decisions from the general public.
+496,paradoxical,Seemingly contradictory but possibly true.,It is paradoxical that increased access to information has not always led to greater public political engagement.
+497,symbiotic,Involving mutual benefit between two entities.,The symbiotic relationship between universities and industry drives innovation and economic competitiveness.
+498,transient,Lasting only for a short time; temporary.,Economic booms driven by commodity exports are often transient and fail to create lasting development.
+499,ubiquitous,Present and found everywhere simultaneously.,Smartphones have become so ubiquitous that digital exclusion now constitutes a serious form of social disadvantage.
+500,hegemonic,Relating to dominant power over others.,Critics argue that hegemonic Western cultural norms are often imposed on developing nations through global institutions.
