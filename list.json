@@ -12,7 +12,19 @@
                     "flag": "🎓",
                     "available_for": [
                         "en",
-                        "fa"
+                        "fa",
+                        "zh",
+                        "hi",
+                        "ur",
+                        "es",
+                        "fr",
+                        "tr",
+                        "ar",
+                        "fa",
+                        "ms",
+                        "id",
+                        "vi",
+                        "bn"
                     ],
                     "file": "Exam-Prep/IELTS/{native}.json",
                     "card_count": 500,

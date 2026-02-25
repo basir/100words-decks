@@ -1,0 +1,501 @@
+id,front,back,example
+1,başarmak,Bir hedefe veya sonuca başarıyla ulaşmak.,Net hedefler belirleyen öğrencilerin akademik başarıya ulaşma olasılığı daha yüksektir.
+2,etkilemek,Bir şey üzerinde etki veya nüfuz sahibi olmak.,"Hava kirliliği, kent nüfusunun sağlığını olumsuz etkileyebilir."
+3,analiz et,Bir şeyi anlamak için ayrıntılı olarak incelemek.,Araştırmacılar sonuç çıkarmadan önce verileri dikkatlice analiz etmelidir.
+4,yaklaşmak,Bir şeyle başa çıkma yöntemi veya yolu.,"Eğitime bütüncül bir yaklaşım, öğrencilerin sosyal ve duygusal ihtiyaçlarını dikkate alır."
+5,bakış açısı,Bir şeyin belirli bir bölümü veya özelliği.,Sürdürülebilir kalkınmanın en önemli yönlerinden biri karbon emisyonlarının azaltılmasıdır.
+6,değer biçmek,Bir şeyin kalitesini değerlendirmek veya yargılamak.,"Hükümetler, yeni sanayi projelerinin çevresel etkilerini değerlendirmek zorundadır."
+7,farz etmek,Bir şeyi kanıt olmadan doğru kabul etmek.,Genellikle ekonomik büyümenin yaşam standartlarını otomatik olarak iyileştirdiği varsayılır.
+8,davranış,Bir şey hakkındaki yerleşik görüş veya duygu.,Son yıllarda yenilenebilir enerjiye yönelik kamuoyu tutumları önemli ölçüde değişti.
+9,mevcut,Kullanılabilir veya elde edilebilir.,"İnternet erişimi, gelir düzeyine bakılmaksızın tüm vatandaşlara sağlanmalıdır."
+10,fayda,Bir şeyden elde edilen avantaj veya olumlu sonuç.,Düzenli egzersiz hem fiziksel hem de zihinsel sağlık için sayısız fayda sağlar.
+11,neden,Bir etki veya sonuç üreten şey.,"Yoksulluk, sıklıkla sosyal eşitsizliğin temel nedenlerinden biri olarak gösterilmektedir."
+12,meydan okumak,Çaba gerektiren zor bir problem veya görev.,"İklim değişikliği, modern toplumun karşı karşıya olduğu en büyük zorluklardan birini temsil etmektedir."
+13,vatandaş,Bir devletin yasal olarak tanınmış üyesi.,Demokratik seçimlere katılmak her vatandaşın görevidir.
+14,iddia,Bir şeyi doğru olarak belirtmek veya bir hak olarak talep etmek.,"Bazı araştırmacılar, sosyal medyanın ergenlerin ruh sağlığına zarar verdiğini iddia ediyor."
+15,sınıflandırmak,Nesneleri kategorilere veya gruplara ayırmak.,Bilim insanları organizmaları genetik ve fiziksel özelliklerine göre sınıflandırırlar.
+16,toplum,Aynı yeri veya ilgi alanını paylaşan bir grup insan.,"Güçlü topluluk destek ağları, yaşlılar arasında sosyal izolasyonu azaltmaya yardımcı olur."
+17,karşılaştırmak,Şeyler arasındaki benzerlikleri ve farklılıkları incelemek.,"Bu makale, kamu ve özel sağlık sistemlerinin etkinliğini karşılaştıracaktır."
+18,karmaşık,Birbirine bağlı birçok parçadan oluşur; anlaşılması zordur.,Yoksulluk ve suç arasındaki ilişki son derece karmaşık ve çok yönlüdür.
+19,kavram,Soyut bir fikir veya genel bir ilke.,"Sürdürülebilirlik kavramı, modern çevre politikasının merkezinde yer almaktadır."
+20,kaygı,Kaygıya veya ilgiye neden olan bir endişe veya konu.,Plastik kirliliğine ilişkin artan endişeler birçok hükümeti harekete geçmeye sevk etti.
+21,sonuçlandırmak,Akıl yürütme sonucunda bir karara veya yargıya varmak.,"Çalışma, düzenli egzersizin depresyon riskini önemli ölçüde azalttığı sonucuna varmıştır."
+22,durum,Bir şeyi etkileyen durum veya koşullar.,"Kırsal bölgelerdeki yaşam koşullarının iyileştirilmesi, politika yapıcılar için öncelikli bir konu olmaya devam etmektedir."
+23,yönetmek,Bir faaliyeti gerçekleştirmek; bir davranış veya bir tarz sergilemek.,"Üniversite, beş yıl boyunca öğrenci refahı üzerine uzunlamasına bir araştırma yürütecektir."
+24,sonuçlar,Bir eylemin veya olayın sonucu veya etkisi.,"Ormanların yok edilmesi, biyoçeşitlilik ve küresel iklim düzenleri açısından ciddi sonuçlar doğurmaktadır."
+25,dikkate almak,Bir şeye karar vermeden önce iyice düşünmek.,"Politika yapıcılar, emeklilik yaşının yükseltilmesinin uzun vadeli sonuçlarını göz önünde bulundurmalıdır."
+26,meydana gelmek,Parçalardan oluşmuş veya meydana gelmiş olmak.,"Dengeli bir beslenme, proteinler, karbonhidratlar, yağlar, vitaminler ve minerallerden oluşmalıdır."
+27,tüketmek,Bir kaynağı tüketmek veya bir şey yemek/içmek.,"Gelişmiş ülkeler, gelişmekte olan ülkelere kıyasla kişi başına çok daha fazla doğal kaynak tüketmektedir."
+28,katkı yapmak,Ortak bir çabaya veya sonuca katkıda bulunmak veya eklemek.,Gönüllülük hem kişisel gelişime hem de toplumsal refaha büyük katkı sağlayabilir.
+29,kontrol,Bir şeyi düzenlemek veya üzerinde yetkiye sahip olmak.,Hava kirliliğiyle mücadele etmek için endüstriyel emisyonların hükümet tarafından daha sıkı bir şekilde kontrol edilmesi gerekmektedir.
+30,yaratmak,Bir şeyi varlığa getirmek.,"Yenilenebilir enerjiye yapılan yatırım, ekonominin genelinde binlerce yeni iş imkanı yaratabilir."
+31,kültür,"Bir toplumun inançları, gelenekleri ve sanatları.","Küreselleşme, dünyanın dört bir yanındaki yerel kültürleri hem zenginleştirmiş hem de tehdit etmiştir."
+32,veri,Analiz için toplanan gerçekler veya istatistikler.,Etkin halk sağlığı politikaları geliştirmek için güvenilir verilere ihtiyaç vardır.
+33,reddetmek,Zamanla azalmak veya küçülmek.,Son on yıllarda insan faaliyetleri nedeniyle biyolojik çeşitlilikte ciddi bir düşüş yaşandı.
+34,tanımlamak,Bir şeyin anlamını veya niteliğini belirtmek.,Politika çözümlerini tartışmadan önce 'sürdürülebilirlik' terimini net bir şekilde tanımlamak önemlidir.
+35,talep etmek,Bir mal veya hizmete duyulan ihtiyaç veya arzu.,"Elektrikli araçlara olan artan talep, batarya teknolojisinde yenilikleri tetikliyor."
+36,bağlı olmak,Birinden veya bir şeyden destek almak.,"Birçok gelişmekte olan ülke, temel altyapı geliştirme konusunda büyük ölçüde dış yardıma bağımlıdır."
+37,betimlemek,Bir şeyi kelimelerle anlatmak.,"Raporda, 1950'den bu yana küresel ortalama sıcaklıklarda önemli bir artış olduğu belirtiliyor."
+38,geliştirmek,"Büyümek, gelişmek veya yeni bir şey yaratmak.","Ülkeler, artan nüfusun ihtiyaçlarını karşılamak için sürdürülebilir tarım geliştirmelidir."
+39,fark,Şeylerin birbirlerinden farklı olma biçimi.,Kent ve kırsal kesim nüfusları arasında gelir düzeylerinde önemli bir fark bulunmaktadır.
+40,dağıtmak,Bir şeyi bir alana yaymak veya dağıtmak.,Hükümetlerin kamu kaynaklarını vatandaşlar arasında adil bir şekilde dağıtma sorumluluğu vardır.
+41,türlü,Pek çok farklı tür veya çeşidi içerir.,"Çeşitli bir iş gücü, bir kuruluşa daha geniş bir bakış açısı ve fikir yelpazesi getirir."
+42,ekonomik,Paranın üretimi ve kullanımıyla ilgili.,Asya'da hızlı ekonomik kalkınma milyonlarca insanı yoksulluktan kurtardı.
+43,eğitim,Sistematik eğitim alma süreci.,"Kaliteli eğitime erişim, yaygın olarak temel bir insan hakkı olarak kabul edilmektedir."
+44,etki,Bir nedenin sonucu olarak ortaya çıkan değişim veya sonuç.,Uyku yoksunluğunun bilişsel işlev üzerindeki uzun vadeli etkileri iyi bir şekilde belgelenmiştir.
+45,meydana gelmek,Varoluşa gelmek veya bilinir hale gelmek.,Küresel enerji krizine çözüm olarak yeni teknolojiler ortaya çıkmaya devam ediyor.
+46,işe almak,Birini ücret karşılığında çalıştırmak.,"İmalat sektörü, ulusal iş gücünün büyük bir bölümünü istihdam etmeye devam ediyor."
+47,enerji,Doğal veya işlenmiş kaynaklardan elde edilen enerji.,Sera gazı emisyonlarını azaltmak için yenilenebilir enerji kaynaklarına geçiş çok önemlidir.
+48,çevre,Bir organizmanın doğal dünyası veya çevresi.,Doğal çevrenin korunması hem hükümetler hem de bireyler için öncelik olmalıdır.
+49,kurmak,Bir şeyi sağlam bir temele oturtmak veya oluşturmak.,"Hükümet, finans sektörünü denetlemek üzere yeni bir düzenleyici kurum kurdu."
+50,değerlendirmek,Bir şeyin değerini veya kalitesini değerlendirmek.,Alıntı yapmadan önce bilgi kaynaklarını eleştirel bir şekilde değerlendirmek şarttır.
+51,kanıt,Bir sonuca ulaşmayı destekleyen olgular veya bilgiler.,Sigara içmenin çeşitli ciddi hastalıklarla bağlantılı olduğuna dair güçlü ampirik kanıtlar mevcuttur.
+52,incelemek,Bir şeyi dikkatlice incelemek veya araştırmak.,"Bu makale, ekonomik eşitsizlik ile suç oranları arasındaki ilişkiyi inceleyecektir."
+53,genişletmek,"Boyut, sayı veya kapsam bakımından artmak.",Birçok şirket Asya'daki gelişmekte olan pazarlara faaliyetlerini genişletmeyi hedefliyor.
+54,beklemek,Bir şeyin gelecekte gerçekleşeceğine inanmak.,Otomasyonun önümüzdeki on yıllar içinde istihdam alanını tamamen değiştireceği yaygın olarak bekleniyor.
+55,deneyim,Pratik yoluyla kazanılan bilgi veya beceri.,"İş deneyimi stajları, öğrencilerin gelecekteki istihdam için pratik beceriler geliştirmelerine yardımcı olur."
+56,açıklamak,Bir şeyi tarif ederek açıklığa kavuşturmak.,"Profesörün karmaşık teorileri açık ve anlaşılır bir şekilde açıklama yeteneği, onu son derece saygın kıldı."
+57,faktör,Bir sonuca katkıda bulunan unsur.,"Beslenme ve egzersiz, bireyin uzun vadeli sağlık sonuçlarını belirlemede kilit faktörlerdir."
+58,özellik,Bir şeyin ayırt edici özelliği veya niteliği.,"Başarılı şehir planlamasının temel özelliklerinden biri, erişilebilir yeşil alanların sağlanmasıdır."
+59,odak,Dikkati veya çabayı bir şeye yoğunlaştırmak.,"Hükümet politikası, düşük gelirli aileler için uygun fiyatlı konut sağlamaya odaklanmalıdır."
+60,işlev,Bir şeyin tasarlanma amacı veya yerine getirmesi gereken rol.,Bağışıklık sisteminin temel işlevi vücudu hastalıklardan korumaktır.
+61,üretmek,Bir şey üretmek veya yaratmak.,"Güneş panelleri, bir evin tüm elektrik ihtiyacını karşılayacak kadar elektrik üretebilir."
+62,küresel,Tüm dünyayı ilgilendiren veya tüm dünyayı kapsayan.,İklim değişikliğinin zorluklarıyla etkili bir şekilde başa çıkmak için küresel iş birliği şarttır.
+63,yönet,Bir ülkeyi veya kuruluşu kontrol etmek veya yönetmek.,"Demokratik ülkeler, halkın iradesini yansıtacak şekilde yönetilmelidir."
+64,büyüme,Boyut veya değer bakımından artma süreci.,"Sürdürülebilir ekonomik büyüme, işsizliği azaltmak ve yaşam standartlarını iyileştirmek için gereklidir."
+65,zarar,Bir şeye verilen fiziksel veya psikolojik zarar.,"Sosyal medyanın aşırı kullanımı, savunmasız gençlerde psikolojik zarara yol açabilir."
+66,sağlık,Hastalık veya yaralanmadan uzak olma hali.,"Hükümetler, hastalıkların yayılmasını önlemek için kamu sağlığı altyapısına yatırım yapmalıdır."
+67,darbe,Bir şey üzerinde güçlü bir etki veya nüfuz.,"Kentleşme, yerel ekosistemler ve su kaynakları üzerinde önemli bir etkiye sahiptir."
+68,uygulamak,Bir planı veya kararı uygulamaya koymak.,"Hükümet, sanayi kaynaklı karbon emisyonlarını azaltmak için yeni düzenlemeler uygulamayı planlıyor."
+69,geliştirmek,Kaliteyi artırmak veya iyileştirmek.,"Eğitime yapılan yatırım, uzun vadeli ekonomik sonuçları iyileştirmenin en etkili yoludur."
+70,arttırmak,Bir şeyin miktarını artırmak veya çoğaltmak.,Dünya genelinde satılan elektrikli araç sayısında çarpıcı bir artış yaşandı.
+71,belirtmek,Bir şeyin muhtemel olduğunu göstermek veya işaret etmek.,Son araştırmalar düzenli fiziksel aktivitenin kronik hastalık riskini azalttığını göstermektedir.
+72,bireysel,"Bir gruptan ayrı, tek bir kişi.","Bireysel hakların korunması, her demokratik toplumun temel taşlarından biridir."
+73,etkilemek,İnsanları veya şeyleri etkileme gücü.,"Sosyal medya, gençlerin siyasi görüşleri üzerinde derin bir etkiye sahiptir."
+74,altyapı,Bir topluluğu destekleyen temel fiziksel sistemler.,"Ulaşım altyapısına yatırım yapmak, bölgesel ekonomik kalkınmayı teşvik etmek için hayati önem taşımaktadır."
+75,girişim,Bir sorunu çözmeyi amaçlayan yeni bir plan veya eylem.,"Hükümet, gençleri STEM alanlarında kariyer yapmaya teşvik etmek için yeni bir girişim başlattı."
+76,kurum,Toplumsal amacı olan köklü bir kuruluş.,Adil ve hakkaniyetli bir toplumun sağlanması için demokratik kurumlar bağımsız kalmalıdır.
+77,içermek,Bir şeyi parça olarak dahil etmek veya gerektirmek.,"Etkin bir şehir planlaması, sakinleri karar alma sürecine aktif olarak dahil etmelidir."
+78,sorun,Tartışılması gereken önemli bir konu veya sorun.,"İklim değişikliği, günümüzde uluslararası toplumun karşı karşıya olduğu en acil sorunlardan biridir."
+79,savunmak,Bir şeyin doğru veya mantıklı olduğunu göstermek veya kanıtlamak.,"Hükümetler, savunma harcamalarındaki artışı vatandaşlarına gerekçelendirebilmelidir."
+80,eksiklik,İhtiyaç duyulan bir şeyin yokluğu veya eksikliği.,"Temiz suya erişim eksikliği, gelişmekte olan ülkelerde hâlâ büyük bir sorun olmaya devam ediyor."
+81,limit,Bir şeyin artık daha ileri gidemeyeceği nokta.,"Ülkeler, karbondioksit emisyonlarına ilişkin yasal olarak bağlayıcı sınırlar konusunda anlaşmaya varmalıdır."
+82,sürdürmek,Bir şeyi mevcut durumunda veya koşulunda tutmak.,Yoğun kentleşmenin yaşandığı bölgelerde biyolojik çeşitliliği korumak giderek zorlaşıyor.
+83,ana,Büyük önem taşıyan veya ciddi nitelikte olan.,"Hava kirliliği, dünyanın en büyük şehirlerinin çoğunda önemli bir halk sağlığı sorunudur."
+84,üstesinden gelmek,Bir şeyin sorumluluğunu üstlenmek veya onu kontrol etmek.,"Sürdürülebilir kalkınma, hükümetlerin doğal kaynakları dikkatli bir şekilde yönetmesini gerektirir."
+85,ölçüm,Bir amaca ulaşmak için yapılan eylem; ölçmek.,"Hükümetler, giderek büyüyen genç işsizliği sorununa çözüm bulmak için kararlı önlemler almalıdır."
+86,yöntem,Bir şeyi sistematik bir şekilde yapmanın belirli bir yolu.,"Bilim insanları, bulgularının geçerliliğini sağlamak için titiz araştırma yöntemleri benimsemelidir."
+87,göç etmek,Bir bölgeden veya ülkeden diğerine taşınmak.,"Kırsal kesimde çalışan birçok işçi, daha iyi iş fırsatları arayışıyla şehirlere göç ediyor."
+88,modern,Günümüzle ilgili; çağdaş.,"Modern teknoloji, insanların iletişim kurma ve bilgiye erişme biçimini temelden değiştirdi."
+89,monitör,Bir şeyi zaman içinde gözlemlemek ve kontrol etmek.,"Sağlık yetkilileri, yoğun nüfuslu kentsel alanlarda hava kalitesini sürekli olarak izlemelidir."
+90,ulusal,Bir ulusun tamamıyla ilgili veya o ulusun tipik özelliği olan.,"Hükümet, ülke genelinde eğitimi standartlaştırmak için ulusal bir müfredat uygulamaya koydu."
+91,doğal,Doğada var olan veya doğa tarafından üretilen.,"Doğal kaynakların aşırı kullanımı, ekolojik sürdürülebilirlik için ciddi bir tehdit oluşturmaktadır."
+92,gerekli,Gerekli veya kesinlikle ihtiyaç duyulan.,Ekonomik büyümeyi desteklemek için hükümetlerin altyapıya yatırım yapması gereklidir.
+93,negatif,Doğası veya etkisi itibariyle zararlı veya olumsuz.,"Uzun süreli çevrimiçi zorbalığa maruz kalmak, ruh sağlığı üzerinde ciddi olumsuz etkilere yol açabilir."
+94,elde etmek,Çaba sarf ederek bir şeyi elde etmek veya edinmek.,Öğrencilerin üniversite burs programlarına hak kazanabilmeleri için minimum bir not ortalaması elde etmeleri gerekmektedir.
+95,meydana gelmek,Olmak ya da gerçekleşmek.,İklim değişikliği nedeniyle doğal afetlerin daha sık meydana gelmesi bekleniyor.
+96,fırsat,İlerleme sağlayan elverişli bir durum.,"Kaliteli eğitime erişim, gençlere daha büyük ekonomik fırsatlar sunmaktadır."
+97,sonuç,Bir eylemin sonucu veya neticesi.,"Erken müdahale programları, çocuklar için genellikle daha iyi eğitim sonuçları doğurur."
+98,katılmak,Bir faaliyete veya etkinliğe katılmak.,Vatandaşların yerel yönetim karar alma süreçlerine aktif olarak katılmaları teşvik edilmelidir.
+99,politika,Bir yetkili makam tarafından benimsenen plan veya eylem biçimi.,"Etkin enerji politikası, bir ülkenin karbon ayak izini azaltmak için şarttır."
+100,kirletmek,Çevreyi zararlı maddelerle kirletmek.,Sanayi faaliyetleri dünya genelinde nehirleri kirletmeye ve su ekosistemlerine zarar vermeye devam ediyor.
+101,nüfus,Belirli bir yerin tüm sakinleri.,"Yaşlanan nüfus, emeklilik ve sağlık sistemleri için önemli zorluklar yaratmaktadır."
+102,pozitif,Faydalı veya iyi bir etkiye sahip olmak.,"Yaşam boyu öğrenmeye yönelik olumlu bir tutum, kariyer olanaklarını önemli ölçüde geliştirebilir."
+103,potansiyel,Bir şeyi geliştirme veya başarma kapasitesine sahip olmak.,"Yapay zekâ, sağlık hizmetlerinde teşhis ve tedavi yöntemlerini dönüştürme potansiyeline sahip."
+104,önlemek,Bir şeyin olmasını engellemek.,"Aşı programları, hastalıkların yayılmasını önlemenin en etkili yollarından biridir."
+105,öncelik,En önemli veya öncelik sırasına göre ilk sırada yer alan.,"Herhangi bir sağlık sisteminin birincil amacı, refahı korumak ve geliştirmek olmalıdır."
+106,işlem,Bir sonuca ulaşmak için izlenecek bir dizi adım.,"Demokratik süreç, vatandaşların tarafsız ve doğru bilgilere erişimine dayanır."
+107,üretmek,Bir şey yapmak veya yaratmak.,Yüksek düzeyde emisyon üreten fabrikalar daha sıkı düzenlemelere tabi tutulmalıdır.
+108,terfi,Bir şeyin gelişimini desteklemek veya teşvik etmek.,"Sağlıklı beslenme alışkanlıklarını teşvik eden kampanyalar, çocukluk çağı obezitesi oranlarının düşürülmesine yardımcı olabilir."
+109,teklif etmek,Bir plan veya öneri sunmak.,"Birçok ekonomist, emisyonları azaltmak için karbon vergisini bir çözüm olarak önerdi."
+110,korumak,Zarar veya hasardan korunmak için.,"Hükümetlerin, vatandaşları çevresel kirliliğin sonuçlarından koruma görevi vardır."
+111,sağlamak,Bir şeyi birinin kullanımına sunmak.,"Devlet, ayrımcılık yapmaksızın tüm vatandaşlarına temel sağlık hizmetleri sunmak zorundadır."
+112,amaç,Bir şeyin var olma veya yapılma nedeni.,Yükseköğretimin temel amacı öğrencilere eleştirel düşünme becerileri kazandırmaktır.
+113,artırmak,Bir konuyu artırmak veya dikkat çekmek.,Uluslararası kuruluşlar iklim değişikliğinin etkileri konusunda farkındalığı artırmaya devam ediyor.
+114,azaltmak,Bir şeyi küçültmek veya miktarını azaltmak.,"Hükümet, önümüzdeki yirmi yıl içinde karbon emisyonlarını %50 oranında azaltmayı hedefliyor."
+115,yansıtmak,Bir şeyi göstermek veya bir şey hakkında derinlemesine düşünmek.,"Hükümet politikaları, geniş halk kitlelerinin ihtiyaçlarını ve değerlerini doğru bir şekilde yansıtmalıdır."
+116,bölge,Kendine özgü özelliklere sahip geniş bir alan.,Ülkenin kıyı ve iç bölgeleri arasında ekonomik kalkınma büyük farklılıklar göstermektedir.
+117,düzenlemek,Bir şeyi kurallar aracılığıyla kontrol etmek.,"Hükümetler, genç kullanıcıları korumak için sosyal medya platformlarının kullanımını düzenlemelidir."
+118,ilgili olmak,Bir şeyle bağlantı kurmak veya ilişki içinde olmak.,"Yüksek düzeydeki eşitsizlik, artan suç oranları ve toplumsal huzursuzlukla yakından ilişkilidir."
+119,serbest bırakmak,Bir şeyin serbest kalmasına veya boşalmasına izin vermek.,Sanayi süreçleri atmosfere büyük miktarlarda kirletici madde salmaya devam ediyor.
+120,güvenmek,Birine veya bir şeye bağımlı olmak.,"Birçok gelişmekte olan ülke, enerji ihtiyaçları için hâlâ büyük ölçüde fosil yakıtlara bağımlıdır."
+121,temsil etmek,Bir şeyi savunmak veya onun adına hareket etmek.,"Seçilmiş yetkililerin, seçmenlerinin çıkarlarını adil bir şekilde temsil etme görevi vardır."
+122,gerekmek,"Bir şeye ihtiyaç duymak, onu olmazsa olmaz veya zorunlu kılmak.",İklim değişikliğiyle mücadele acil uluslararası iş birliği ve siyasi kararlılık gerektiriyor.
+123,araştırma,Yeni gerçekleri ortaya çıkarmak için yapılan sistematik araştırma.,Yeni ortaya çıkan bulaşıcı hastalıklarla mücadele etmek için tıbbi araştırmalara önemli yatırımlar yapılması gerekmektedir.
+124,kaynak,Bir amaç için kullanılabilen bir malzeme.,Ulusların uzun vadeli sürdürülebilirliği sağlamak için doğal kaynaklarını sorumlu bir şekilde yönetmeleri gerekir.
+125,yanıtlamak,Bir şeye tepki vermek veya karşılık vermek.,"Hükümetler, can kayıplarını ve acıları en aza indirmek için doğal afetlere hızla müdahale etmelidir."
+126,sonuç,Bir eylemin sonucu olarak ortaya çıkan şey.,Yetersiz beslenme ve hareketsiz yaşam tarzı genellikle uzun vadede ciddi sağlık sorunlarına yol açar.
+127,sürdürmek,Bir şeyi tutmaya veya muhafaza etmeye devam etmek.,"Şirketler, rekabetçi piyasalarda yetenekli çalışanlarını elde tutmak için daha iyi stratejiler geliştirmelidir."
+128,ortaya çıkarmak,Daha önce gizli kalmış bir şeyi açığa çıkarmak.,"Son araştırmalar, gelir eşitsizliği ile kötü sağlık sonuçları arasında güçlü bir ilişki olduğunu ortaya koymaktadır."
+129,rol,Bir kişinin veya bir şeyin sahip olduğu işlev veya konum.,"Eğitim, sosyal eşitsizliği azaltmada ve sosyal hareketliliği artırmada çok önemli bir rol oynar."
+130,kırsal,Şehirlerden ziyade kırsal kesimle ilgili.,Kırsal topluluklar genellikle kent nüfusunun sahip olduğu eğitim kaynaklarına erişimden yoksundur.
+131,sektör,Ekonominin veya toplumun ayrı bir parçası.,"Kamu sektörü, vatandaşlara temel hizmetlerin sunulmasında hayati bir rol oynamaktadır."
+132,önemli,Etki yaratacak kadar önemli veya büyük.,Son on yıllarda suç oranlarında istatistiksel olarak anlamlı bir azalma yaşanmıştır.
+133,toplum,Birlikte yaşayan bir insan topluluğu.,"Adil ve hakkaniyetli bir toplum, tüm vatandaşlarına eşit fırsatlar sağlamalıdır."
+134,çözüm,Bir sorunu çözme yöntemi.,Küresel iklim değişikliğine uzun vadeli çözümler bulmak için uluslararası işbirliği gereklidir.
+135,kaynak,Bir şeyin kaynağı veya tedariği.,"Araştırmacılar, akademik çalışmalarında kanıt sunarken güvenilir kaynaklara atıfta bulunmalıdır."
+136,standart,Beklenen kalite veya başarı düzeyi.,"Eğitim standartlarının yükseltilmesi, ulusal ekonomik rekabet gücünü artırmak için elzem olarak kabul edilmektedir."
+137,strateji,Uzun vadeli bir hedefe ulaşmak için tasarlanmış bir plan.,"Hükümet, artan obezite oranlarıyla mücadele etmek için yeni bir ulusal strateji açıkladı."
+138,yapı,Bir şeyin parçalarının düzenli bir şekilde sıralanması.,"Katı toplumsal yapılar, yukarı doğru hareketliliği engelleyebilir ve eşitsizliği sürdürebilir."
+139,tavsiye etmek,Bir fikri veya olasılığı ortaya atmak.,"Araştırmalar, erken çocukluk eğitiminin bilişsel gelişim için kalıcı faydalar sağladığını göstermektedir."
+140,Destek,Bir şeye yardım etmek veya bir şeyi savunmak.,Ekonomik durgunluk dönemlerinde küçük işletmelere yönelik devlet mali desteği hayati önem taşımaktadır.
+141,güç vermek,Bir şeyi zaman içinde sürdürmek veya devam ettirmek.,Çevreyi tahrip etmeden ekonomik büyümeyi sürdürecek politikalar benimsemek hayati önem taşımaktadır.
+142,sistem,Birbiriyle ilişkili unsurlardan oluşan düzenli bir küme.,Sağlıklı ve üretken bir nüfusun sürdürülmesi için iyi finanse edilmiş bir sağlık sistemi şarttır.
+143,hedef,Belirli bir amaca yönelik hedef veya grup.,"Ülkeler, 2050 yılına kadar sera gazı emisyonlarını azaltmak için iddialı hedefler belirlemelidir."
+144,teknoloji,Bilimsel bilginin pratik amaçlara uygulanması.,"Teknolojideki gelişmeler, dünyanın herhangi bir yerindeki bilgilere erişmeyi mümkün kılmıştır."
+145,eğilimli olma,Bir şeye karşı genel bir eğilime sahip olmak.,"Daha zengin ülkeler, gelişmekte olan ülkelere göre kişi başına daha fazla karbon emisyonu üretme eğilimindedir."
+146,teori,Olayları açıklamak için kullanılan bir fikirler sistemi.,"Darwin'in evrim teorisi, Dünya üzerindeki yaşam hakkındaki anlayışımızı temelden değiştirdi."
+147,geleneksel,Köklü gelenek ve göreneklere dayanmaktadır.,"Küreselleşme, birçok toplumda geleneksel değerleri ve kültürel kimlikleri tehdit etmiştir."
+148,dönüştürmek,Bir şeyin şeklini veya doğasını tamamen değiştirmek.,"Dijital teknoloji, insanların çalışma ve iletişim biçimlerini dönüştürme gücüne sahip."
+149,trend,Bir şeyin genel olarak hangi yönde geliştiğini gösteren yön.,"Kentleşmeye yönelik küresel eğilim, önümüzdeki on yıllarda yavaşlama belirtisi göstermiyor."
+150,kentsel,Bir şehirle ilgili veya bir şehrin özelliklerini taşıyan.,"Hızlı kentleşme, toplu taşıma altyapısı üzerinde muazzam bir baskı oluşturmuştur."
+151,değer,Bir şeye atfedilen önem veya değer.,"Eşitlik ve adalet gibi temel değerler, modern demokratik anayasaların çoğunun temelini oluşturur."
+152,çeşitli,Koşullara bağlı olarak farklı olmak veya değişmek.,"Yaşam beklentisi, gelir düzeyine ve sağlık hizmetlerinin kalitesine bağlı olarak ülkeler arasında önemli ölçüde farklılık göstermektedir."
+153,kurban,Bir suç veya talihsizlik sonucu zarar gören kişi.,Aile içi şiddet mağdurlarının iyileşmesine yardımcı olmak için yeterli destek sistemleri kurulmalıdır.
+154,refah,"Bir kişinin sağlığı, mutluluğu ve esenliği.","Refah devleti, işsizlik veya hastalık dönemlerinde vatandaşlar için bir güvenlik ağı sağlar."
+155,erişim,Bir şeyi elde etme veya kullanma yeteneği veya hakkı.,"Sağlık hizmetlerine eşit erişimi sağlamak, adil her hükümetin temel yükümlülüğüdür."
+156,uyarlamak,Yeni koşullara veya durumlara uyum sağlamak.,Rekabetçi kalabilmek için işletmelerin hızla değişen piyasa koşullarına sürekli olarak uyum sağlaması gerekir.
+157,adres,Bir sorunla ilgilenmek veya bir sorun hakkında konuşmak.,"Politika yapıcılar, büyük şehirlerde artan evsizlik sorununu acilen ele almalıdır."
+158,yeterli,Belirli bir amaç için tatmin edici veya yeterli.,Her çocuğun yeterli düzeyde eğitim ve beslenme alma hakkı vardır.
+159,ajans,Başka bir kuruluş adına hareket eden bir örgüt; özerklik.,Çevre koruma konularını denetlemek üzere özel bir devlet kurumu kuruldu.
+160,tartışmak,Bir görüşü desteklemek için gerekçeler sunmak.,"Birçok ekonomist, serbest ticaretin hem gelişmekte olan hem de gelişmiş ülkeler için faydalı olduğunu savunmaktadır."
+161,farkında olmak,Bir şey hakkında bilgi sahibi olmak veya bunun bilincinde olmak.,"Gençler, iklim değişikliğinin gelecekleri üzerindeki sonuçlarının giderek daha fazla farkındalar."
+162,denge,Eşit dağılım veya istikrarlı denge.,Ekonomik büyümeyi teşvik ederken çevreyi de koruyacak dengeli bir yaklaşıma ihtiyaç vardır.
+163,bariyer,Erişimi veya ilerlemeyi engelleyen bir şey.,"Maddi engeller, birçok yetenekli öğrencinin yüksek öğrenime erişmesini engellemeye devam ediyor."
+164,davranış,Bir kişinin veya organizmanın davranış biçimi.,Eğitim programları davranışları etkili bir şekilde değiştirebilir ve daha sağlıklı yaşam tarzı seçimlerini teşvik edebilir.
+165,bütçe,Belirli bir döneme ait gelir ve giderlerin tahmini.,"Hükümetler, ulusal bütçenin yeterli bir bölümünü kamu eğitimine ayırmak zorundadır."
+166,başkent,Gelir elde etmek için kullanılan servet; bir ülkenin hükümet merkezi.,"Eğitim yoluyla insan sermayesine yatırım yapmak, uzun vadede önemli ekonomik getiriler sağlar."
+167,çizelge,Verilerin görsel temsili; verileri kaydetmek.,"Grafik, 1980'den 2020'ye kadar küresel ortalama sıcaklıklarda istikrarlı bir artışı göstermektedir."
+168,seçenek,Mevcut alternatifler arasından yapılan bir seçim.,"Hükümetler, vatandaşların iyi bilgilendirilmesini sağlarken bireysel tercihlere de saygı göstermelidir."
+169,TOPLAMAK,Öğeleri veya bilgileri bir araya getirmek.,"Araştırmacılar, istatistiksel güvenilirliği sağlamak için binlerce katılımcıdan veri toplar."
+170,işlemek,Bir eylem biçimine kendini adamak veya söz vermek.,"Ülkeler, sera gazı emisyonlarını önemli ölçüde azaltmak için bağlayıcı anlaşmalara varmalıdır."
+171,iletişim,Bilgiyi etkili bir şekilde paylaşmak veya alışverişinde bulunmak.,Akademik ve profesyonel yaşamda açık ve ikna edici bir şekilde iletişim kurma yeteneği çok önemlidir.
+172,rekabet etmek,Aynı hedef için başkalarıyla rekabet etmek.,Küresel ekonomide etkin bir şekilde rekabet edebilmek için ülkeler eğitime ve inovasyona yatırım yapmalıdır.
+173,anlaşmazlık,Ciddi bir anlaşmazlık veya uzun süren bir mücadele.,"Silahlı çatışmalar, dünyanın çeşitli bölgelerinde milyonlarca insanın yerinden edilmesine neden olmaya devam ediyor."
+174,sözleşme,Taraflar arasında yapılan resmi bir yasal anlaşma.,"Çalışanlar, herhangi bir belgeyi imzalamadan önce iş sözleşmesini her zaman dikkatlice okumalıdır."
+175,başa çıkmak,Zor bir durumla etkili bir şekilde başa çıkmak.,"Birçok topluluk, doğal afetlerin sıklığının artmasıyla başa çıkmakta zorlanıyor."
+176,yozlaşmış,Dürüst olmayan veya kazanç elde etmek için etik dışı davranmaya istekli.,"Kamu kaynaklarını kötüye kullanan yolsuz yetkililer, vatandaşların hükümete duyduğu güveni zedeliyor."
+177,maliyet,Bir şeyi satın almak veya yapmak için gereken miktar.,"Yaşam maliyetindeki artış, düşük gelirli ailelerin konut edinmesini giderek zorlaştırıyor."
+178,suç,Kanunla cezalandırılan yasadışı bir eylem.,"Yoksulluğun temel nedenlerine çözüm bulmak, şiddet içeren suç oranlarını azaltmak için şarttır."
+179,kriz,Yoğun zorluk veya tehlike dönemi.,"2008 küresel finans krizi, modern ekonomilerin ne kadar birbirine bağlı hale geldiğini gösterdi."
+180,kritik,Dikkatli analiz gerektiren; büyük önem taşıyan.,"Eleştirel düşünme, akademik ve profesyonel yaşamda karmaşık sorunları analiz etmek için olmazsa olmaz bir beceridir."
+181,azaltmak,Boyut veya miktar olarak küçülmek veya azalmak.,Dünya genelinde aşırı yoksulluk içinde yaşayan insan sayısında istikrarlı bir azalma gözlemlenmektedir.
+182,demokrasi,Seçilmiş temsilciler tarafından yönetilen bir hükümet sistemi.,"Canlı bir demokrasi, iyi bilgilendirilmiş bir yurttaş kitlesine ve özgür bir basına bağlıdır."
+183,tespit etmek,Bir şeyin varlığını keşfetmek veya tespit etmek.,"Gelişmiş tarama araçları, bazı kanser türlerini erken ve daha kolay tedavi edilebilir bir aşamada tespit edebiliyor."
+184,hastalık,Enfeksiyon veya işlev bozukluğundan kaynaklanan bir hastalık.,"Bulaşıcı hastalıkların yayılmasını önlemek, halk sağlığı altyapısına önemli yatırımlar yapılmasını gerektirir."
+185,yerel,Evle veya kendi ülkesiyle ilgili.,"İç politika kararları, bir ülkenin uluslararası konumunu önemli ölçüde etkileyebilir."
+186,hakim olmak,Başkaları üzerinde en fazla güce veya etkiye sahip olmak.,Küresel gıda üretim ticaretine az sayıda çokuluslu şirket hakim durumda.
+187,ekonomi,Bir ülkedeki üretim ve tüketim sistemi.,"Ulusal ekonomiyi çeşitlendirmek, bir ülkenin emtia fiyat şoklarına karşı kırılganlığını azaltır."
+188,emisyon,Gaz üretimi ve atmosfere salınımı.,"Karbon emisyonlarının azaltılması, iklim değişikliğiyle mücadeleするための uluslararası çabaların merkezinde yer almaktadır."
+189,uygulamak,Bir kanun veya kurala uyulmasını sağlamak.,"Yeterli kaynak olmadan, hükümetler çevre koruma yasalarını etkili bir şekilde uygulayamazlar."
+190,tanımlamak,Bir şeyin kimliğini tanımak veya belirlemek.,"Bu çalışmanın amacı, genç işsizliğindeki artışa katkıda bulunan temel faktörleri belirlemektir."
+191,gözlemlemek,Bir şeyi dikkatle izlemek veya fark etmek.,"Bilim insanları, ekolojik sistemleri daha iyi anlamak için hayvanların doğal ortamlarındaki davranışlarını gözlemliyorlar."
+192,kategori,Ortak özelliklere sahip şeylerin bir sınıfı veya grubu.,"Rapor, atıkları üç ana kategoriye ayırıyor: geri dönüştürülebilir, organik ve tehlikeli."
+193,prensip,Davranışa yön veren temel bir gerçek veya kural.,"Eşitlik ilkesi, uluslararası insan hakları hukukunun ve demokratik yönetimin temelini oluşturur."
+194,yayınlamak,Bilgiyi veya çalışmaları kamuoyunun kullanımına sunmak.,"Araştırmacılar, bilimsel bilgiye katkıda bulunmak için bulgularını güvenilir dergilerde yayınlamak zorundadırlar."
+195,yenilik yapmak,Yeni fikirler veya yöntemler sunmak.,"Yenilik yapamayan şirketler, piyasada daha çevik rakipler tarafından geride bırakılma riskiyle karşı karşıya kalırlar."
+196,entegre etmek,Parçaları bir araya getirerek veya bütün haline getirerek oluşturmak.,Mültecilerin ev sahibi topluluklara entegre olmalarına yardımcı olmak için etkili politikalara ihtiyaç vardır.
+197,tahsis etmek,Kaynakları belirli bir amaç doğrultusunda dağıtmak.,"Hükümetler, kamu sağlığı hizmetlerini sürdürmek ve iyileştirmek için yeterli kaynak ayırmalıdır."
+198,koordinat,İnsanları veya grupları birlikte çalışmak üzere organize etmek.,"Uluslararası kuruluşlar, etkinliği en üst düzeye çıkarmak için afet yardım çalışmalarını koordine etmelidir."
+199,çekişme,Karşıt görüşlerin resmi bir şekilde tartışılması.,Ekonomistler arasında küreselleşmenin eşitsizlik üzerindeki uzun vadeli etkileri konusunda süregelen bir tartışma var.
+200,ortaya çıkarmak,Bir şeyi açığa çıkarmak veya bir şeye karşı korumasız bırakmak.,"Medyada şiddete maruz kalan çocuklarda, zarara karşı duyarsızlaşma gelişebilir."
+201,hızlanmak,Hızı veya oranı artırmak.,Teknolojik yenilikler birçok gelişmekte olan ülkede ekonomik büyümeyi hızlandırdı.
+202,konaklamak,İhtiyaçlara yer açmak veya uyum sağlamak.,"Şehirler, artan kent nüfusuna uyum sağlamak için altyapılarını genişletmek zorundadır."
+203,biriktirmek,Zamanla yavaş yavaş bir araya gelmek veya birikmek.,"Gelişmiş ülkelerdeki hane halkları, nesiller boyunca daha fazla servet biriktirme eğilimindedir."
+204,kabullenmek,Bir şeyin varlığını tanımak veya kabul etmek.,"Hükümetler, yoksulluğun sosyal eşitsizliğin artmasında oynadığı rolü kabul etmelidir."
+205,kazanma,Bir şeyi elde etme veya kazanma eylemi.,"Erken yaşta dil edinimi, bir çocuğun uzun vadeli akademik başarısı için kritik öneme sahiptir."
+206,olumsuz,Zararlı veya olumsuz etkiye sahip.,Uzun süreli kirliliğe maruz kalmak halk sağlığı üzerinde olumsuz etkilere yol açabilir.
+207,savunucu,Bir davayı veya politikayı kamuoyu önünde desteklemek.,"Birçok eğitimci, öğrenme sonuçlarını iyileştirmek için daha küçük sınıf mevcudiyetini savunmaktadır."
+208,hafifletmek,Acıyı veya sorunu daha az şiddetli hale getirmek.,"Dış yardım programları, dünyanın en az gelişmiş ülkelerinde yoksulluğu hafifletmeyi amaçlamaktadır."
+209,hırslı,Zorlu hedeflere ulaşma konusunda güçlü bir arzuya sahip olmak.,"Hükümet, 2030 yılına kadar karbon emisyonlarını %50 oranında azaltmak için iddialı bir hedef belirledi."
+210,büyütmek,Bir şeyin gücünü veya etkisini artırmak.,"Sosyal medya, kamuoyundaki tartışmaları güçlendirebileceği gibi, yanlış bilgileri de hızla yayabilir."
+211,beklemek,Bir şeyin gerçekleşmeden önce onu beklemek veya tahmin etmek.,"Politika yapıcılar, kamu hizmetlerini planlarken gelecekteki demografik değişimleri öngörmelidir."
+212,görünür,Açıkça görülebilen veya bariz olan; doğru gibi görünen.,"Açıkça görülüyor ki, kaliteli eğitime erişim sosyal sınıflar arasında eşitsizdir."
+213,bağlanmak,Bir şeyi bir faktörün sonucu olarak görmek.,"Araştırmacılar, obezitedeki artışı büyük ölçüde kötü beslenme alışkanlıklarına ve hareketsizliğe bağlıyor."
+214,otonom,Dış kontrol olmaksızın bağımsız hareket etmek.,Otonom araçların küresel ulaşım sektörünü dönüştürmesi bekleniyor.
+215,biyolojik çeşitlilik,Bir yaşam alanındaki bitki ve hayvan çeşitliliği.,"Ormanların yok edilmesi, tropikal yağmur ormanlarındaki biyolojik çeşitlilik için önemli bir tehdit oluşturmaktadır."
+216,yük,Ağır bir yük veya sorumluluk; aşırı yüklemek.,Artan sağlık hizmeti maliyetleri hem bireyler hem de hükümetler üzerinde önemli bir yük oluşturmaktadır.
+217,kapasite,Bir şeyin tutabileceği veya yapabileceği maksimum miktar.,"Gelişmekte olan ülkeler, iklim değişikliğiyle etkili bir şekilde mücadele edebilmek için kurumsal kapasitelerini geliştirmelidir."
+218,karbon ayak izi,Bir kuruluşun ürettiği toplam sera gazı miktarı.,"Bireyler, bitkisel bazlı beslenmeyi benimseyerek karbon ayak izlerini önemli ölçüde azaltabilirler."
+219,kronik,Uzun süre devam eden; sürekli tekrar eden.,"Kırsal bölgelerdeki kronik işsizlik, yaygın yoksulluğa ve sosyal dışlanmaya katkıda bulunur."
+220,sivil,Vatandaşlar ve sorumluluklarıyla ilgili.,"Yurttaş katılımı, sağlıklı ve işlevsel bir demokrasinin sürdürülmesi için elzemdir."
+221,işbirliği,Bir hedefe ulaşmak için başkalarıyla birlikte çalışmak.,İklim değişikliği gibi küresel sorunların üstesinden gelmek için uluslararası işbirliği şarttır.
+222,yetkinlik,Bir şeyi etkili bir şekilde yapabilme yeteneği.,"İşverenler, geleneksel akademik niteliklerin yanı sıra dijital yetkinliğe de giderek daha fazla değer veriyor."
+223,uyumluluk,"Kurallara, standartlara veya yasalara uymak.","Çevresel düzenlemelere sıkı bir şekilde uyulması, sürdürülebilir endüstriyel kalkınma için şarttır."
+224,kapsayıcı,Tüm yönleriyle; kapsamlı ve eksiksiz.,"Halk sağlığına yönelik kapsamlı bir yaklaşım, hem önlemeyi hem de tedaviyi ele almalıdır."
+225,kısıtlama,Eyleme getirilen bir sınırlama veya kısıtlama.,Bütçe kısıtlamaları genellikle hükümetlerin kamu altyapısına yeterli yatırım yapmasını engeller.
+226,tüketim,"Malların, kaynakların veya enerjinin kullanımı.","Enerji tüketimini azaltmak, küresel ölçekte iklim değişikliğiyle mücadelede kilit bir stratejidir."
+227,modern,Şu anda var olan veya meydana gelen.,"Günümüz toplumu, dijital teknoloji ve gizlilikle ilgili benzeri görülmemiş zorluklarla karşı karşıya."
+228,tartışmalı,Şiddetli görüş ayrılığına veya tartışmaya yol açmak.,"Nükleer enerjinin kullanımı, çevre tartışmalarında hâlâ oldukça tartışmalı bir konu olmaya devam ediyor."
+229,ilişkilendirmek,İki şey arasında karşılıklı bir ilişki olduğunu göstermek.,"Araştırmalar, daha yüksek eğitim seviyelerinin daha iyi ekonomik sonuçlarla güçlü bir şekilde ilişkili olduğunu göstermektedir."
+230,müfredat,Okulda veya kursta öğretilen dersler.,"Birçok eğitimci, ulusal müfredata daha fazla eleştirel düşünme becerisi eklenmesi gerektiğini savunuyor."
+231,ormansızlaştırma,İnsanlar tarafından ormanların büyük ölçekte yok edilmesi.,Amazon'daki ormansızlaşmanın başlıca nedenleri tarımsal genişleme ve büyükbaş hayvan yetiştiriciliğidir.
+232,demografik,Bir nüfus grubuna ilişkin istatistiksel veriler.,"Nüfusun yaşlanmasına doğru yaşanan demografik değişimler, emeklilik sistemleri üzerinde önemli bir baskı oluşturacaktır."
+233,tükenmek,Bir şeyin kaynağını azaltmak veya tüketmek.,"Aşırı avlanma, deniz kaynaklarını endişe verici ve sürdürülemez bir hızda tüketmeye devam ediyor."
+234,bozulmak,Kalitesinin giderek kötüleşmesi.,"Acil müdahale yapılmadığı takdirde, kentsel alanlardaki çevre koşulları kötüleşmeye devam edecektir."
+235,dijital,Bilgisayar teknolojisi ve internetle ilgili.,"Zengin ve fakir ülkeler arasındaki dijital uçurum, küresel eşitsizliği daha da kötüleştirme riski taşıyor."
+236,azaltmak,Daha küçük veya daha önemsiz hale getirmek veya olmak.,"Otomasyon, imalat sektörlerinde düşük vasıflı işgücüne olan talebi azaltabilir."
+237,tutarsızlık,Birbirine uyması gereken şeyler arasındaki fark.,Hükümetin açıkladığı hedefler ile uyguladığı politikalar arasında dikkat çekici bir tutarsızlık bulunmaktadır.
+238,ayrımcılık,Grup üyeliğine dayalı haksız muamele.,"Kadınlara yönelik iş yerinde ayrımcılık, cinsiyet eşitliğinin önündeki önemli bir engel olmaya devam etmektedir."
+239,eşitsizlik,Şeyler veya gruplar arasında büyük bir fark.,"En zengin ve en yoksul vatandaşlar arasındaki artan servet eşitsizliği, toplumsal uyumu tehdit ediyor."
+240,yer değiştirme,İnsanların evlerinden zorla çıkarılması.,Ortadoğu'da silahlı çatışmalar milyonlarca insanın yerinden edilmesine neden oldu.
+241,kesinti,Normal faaliyetleri kesintiye uğratan bir rahatsızlık.,"Dijital inovasyon, geleneksel iş modellerinde ve sektörlerde yaygın bir değişime yol açmıştır."
+242,baskın,"En güçlü, en önemli veya en etkili olan.","İngilizce, uluslararası iş dünyasının ve akademik araştırmaların baskın dili haline gelmiştir."
+243,kuraklık,"Uzun süreli, anormal derecede düşük yağış dönemi.","Sahra Altı Afrika'da uzun süren kuraklık, tarımsal üretimi ve gıda güvenliğini ciddi şekilde etkiledi."
+244,ekolojik,Organizmalar ve çevre arasındaki ilişkiye dair.,"Endüstriyel tarım uygulamaları, toprak ve su yollarında ciddi ekolojik hasara yol açmıştır."
+245,vurgu,Bir şeye verilen özel önem.,Modern eğitim müfredatlarında sosyal becerilerin geliştirilmesine verilen önem giderek artmaktadır.
+246,epidemi,Bir bölgede hastalığın yaygın olarak görülmesi.,"Zengin ülkelerdeki obezite salgını, hareketsiz yaşam tarzı ve yetersiz beslenmeyle bağlantılıdır."
+247,eşitlik,Eşit haklara ve fırsatlara sahip olma durumu.,İşyerinde cinsiyet eşitliğine ulaşmak hem yasal reform hem de kültürel değişim gerektirir.
+248,etik,Ahlaki ilkeler ve doğru davranışla ilgili.,"Yapay zekanın kullanımı, gizlilik ve hesap verebilirlik konularında önemli etik soruları gündeme getiriyor."
+249,harcama,Bir şeye harcanan para miktarı.,"Eğitime yönelik devlet harcamalarının artırılması, uzun vadede önemli ekonomik faydalar sağlayabilir."
+250,faydalanmak,Bir kaynağı haksız yere kullanmak veya ondan faydalanmak.,"Çokuluslu şirketler, gelişmekte olan ülkelerdeki ucuz iş gücünü sömürmekle eleştiriliyor."
+251,nesli tükenme,Bir türün varlığının tamamen sona ermesi.,"İnsan faaliyetleri, sayısız bitki ve hayvan türünü hızla yok olmaya doğru sürüklüyor."
+252,kolaylaştırmak,Bir eylemi veya süreci kolaylaştırmak.,"Geliştirilmiş ulaşım altyapısı, ticareti kolaylaştırabilir ve ekonomik kalkınmayı önemli ölçüde artırabilir."
+253,mali,Devlet gelirleri ve vergilendirme ile ilgili.,"Hükümetler, aşırı ulusal borç birikimini önlemek için ihtiyatlı mali politikalar benimsemelidir."
+254,esnek,Değişen koşullara kolayca uyum sağlayabilir.,Esnek çalışma düzenlemelerinin çalışanların refahını ve verimliliğini artırdığı gösterilmiştir.
+255,fosil yakıt,Eski organik maddelerden oluşmuş enerji kaynağı.,"Fosil yakıtların yakılmaya devam etmesi, küresel iklim değişikliğinin başlıca nedenidir."
+256,kırılgan,Kolayca kırılabilir veya hasar görebilir; hassas ve kırılgan.,"Küçük ada ülkeleri, yükselen deniz seviyeleri nedeniyle tehdit altında olan özellikle kırılgan ekosistemlere sahiptir."
+257,çerçeve,Eylemi yönlendirmek için kullanılan temel bir yapı veya sistem.,Yapay zekanın etik açıdan kullanımını düzenlemek için net bir yasal çerçeveye ihtiyaç vardır.
+258,esas,Temel bir zemin veya çekirdek oluşturmak.,"Temiz suya erişim, birçok insanın hâlâ sahip olmadığı temel bir insan hakkıdır."
+259,küreselleşme,Dünya çapında ekonomik ve kültürel entegrasyonun artırılması.,"Küreselleşme, ticaret için yeni fırsatlar yaratırken aynı zamanda ekonomik rekabeti de artırdı."
+260,sağlık hizmeti,İnsanlara organize bir şekilde tıbbi hizmet sunulması.,"Evrensel sağlık hizmeti, tüm vatandaşların gelir düzeyine bakılmaksızın tıbbi tedavi almasını sağlar."
+261,hipotez,Daha fazla test gerektiren önerilen bir açıklama.,"Araştırmacı, beslenmenin çocuklarda bilişsel gelişimi doğrudan etkilediği hipotezini öne sürdü."
+262,birebir aynı,Her ayrıntısıyla tıpatıp aynı.,"Çalışma, farklı eğitim geçmişine sahip iki grup arasında neredeyse aynı sonuçları buldu."
+263,ima,Muhtemel bir sonuç veya ima edilen anlam.,"Otomasyonun yükselişi, gelecekteki istihdam ve gelir dağılımı açısından önemli sonuçlar doğuracaktır."
+264,teşvik,İstenilen eylemi teşvik eden bir şey.,"Vergi teşvikleri, işletmeleri yenilenebilir enerji teknolojilerine yatırım yapmaya teşvik edebilir."
+265,eşitsizlik,Kaynakların veya fırsatların eşitsiz dağılımı.,"Artan gelir eşitsizliği, modern çağın en acil sosyal sorunlarından biridir."
+266,kaçınılmaz,Olması kesin; kaçınması imkansız.,"Bazı ekonomistler, teknolojik işsizliğin otomasyonun kaçınılmaz bir sonucu olduğunu savunuyor."
+267,enflasyon,Zaman içinde fiyatlarda genel bir artış.,"Yüksek enflasyon, satın alma gücünü aşındırır ve düşük gelirli haneleri orantısız bir şekilde etkiler."
+268,yenilik,"Yeni fikirlerin, yöntemlerin veya ürünlerin tanıtılması.","Yenilenebilir enerji alanındaki sürekli yenilik, küresel sürdürülebilirlik hedeflerine ulaşmak için şarttır."
+269,etkileşim,Taraflar arasında karşılıklı eylem veya iletişim.,Küçük çocuklarda temel sosyal becerilerin gelişmesi için yüz yüze etkileşim hayati önem taşır.
+270,araya girmek,Bir durumu iyileştirmek veya önlemek için alınan önlem.,Finansal krizin daha da kötüleşmesini önlemek için hükümetin erken müdahalesi şarttır.
+271,yatırım,Gelecekte fayda bekleyerek kaynak tahsis etmek.,"Doğrudan yabancı yatırımlar, gelişmekte olan ülkelerde ekonomik büyümenin hızlandırılmasında çok önemli bir rol oynamaktadır."
+272,mevzuat,Hükümet tarafından çıkarılan kanunlar veya kanunlar bütünü.,İşyerindeki güvensiz koşullardan işçileri korumak için daha güçlü yasal düzenlemelere ihtiyaç vardır.
+273,okuryazarlık,"Okuma, yazma veya bir beceriyi kullanma yeteneği.","Yüksek okuryazarlık oranları, ekonomik verimliliğin ve sosyal sonuçların iyileşmesiyle yakından ilişkilidir."
+274,marjinalleştirmek,Bir grubu önemsiz veya ikincil olarak değerlendirmek.,"Kırsal bölgeleri göz ardı eden ekonomik politikalar, zaten savunmasız durumda olan toplulukları daha da marjinalleştirmeye eğilimlidir."
+275,mekanizma,Bir sonuca ulaşmak için kullanılan sistem veya süreç.,Serbest piyasalarda tekelci uygulamaların önlenmesi için etkili düzenleyici mekanizmalar hayati öneme sahiptir.
+276,metodoloji,Araştırmada kullanılan yöntemler sistemi.,Çalışmanın araştırma yöntemindeki önemli kusurlar nedeniyle sonuçları sorgulandı.
+277,göç,İnsanların bir yerden başka yere hareket etmesi.,Son yıllarda birçok gelişmekte olan ülkede kent merkezlerine ekonomik göç hız kazandı.
+278,zihniyet,Yerleşik bir tutum veya inançlar kümesi.,"Gelişim odaklı bir zihniyet, öğrencileri hataları öğrenme fırsatı olarak görmeye teşvik eder."
+279,hareketlilik,Pozisyonlar arasında serbestçe hareket edebilme yeteneği.,"Eğitim, modern toplumlarda sosyal hareketliliğin en önemli itici gücü olarak geniş çapta kabul görmektedir."
+280,ölümlülük,Bir popülasyondaki ölüm oranı.,"Gelişen hijyen koşulları, gelişmekte olan ülkelerde çocuk ölüm oranlarını önemli ölçüde düşürmüştür."
+281,motivasyon,Bir kişinin eyleminin ardındaki sebep veya itici güç.,"İçsel motivasyonu yüksek olan öğrenciler, yalnızca dışsal ödüllerle motive olan öğrencilere göre daha başarılı olma eğilimindedir."
+282,belediye,Bir kasaba veya şehir yönetimiyle ilgili.,"Belediyeler, atık toplama ve toplu taşıma sistemlerinin yönetiminden sorumludur."
+283,anlatı,Olayların sözlü veya yazılı anlatımı.,"Medya, göçmenlik konusundaki kamuoyu algısını şekillendirmede güçlü bir rol oynamaktadır."
+284,müzakere,Tartışma yoluyla anlaşmaya varmak.,"Dünya liderleri, küresel iklim değişikliğiyle etkili bir şekilde mücadele etmek için bağlayıcı anlaşmalar müzakere etmelidir."
+285,obezite,Aşırı kilolu olma durumu.,Sağlıksız beslenme alışkanlıkları nedeniyle birçok ülkede çocukluk çağı obezite oranları hızla artmıştır.
+286,yükümlülük,Bir şeyi yapma konusunda ahlaki veya yasal bir yükümlülük.,"Zengin ülkelerin, iklim değişikliğinden en çok etkilenen ülkelere yardım etme konusunda ahlaki bir yükümlülüğü vardır."
+287,engel,İlerlemenin veya başarının önünde engel teşkil eden bir şey.,"Finansman eksikliği, birçok ülkede eğitim reformunun önündeki en önemli engellerden biri olmaya devam ediyor."
+288,muhalefet,Bir şeye karşı direnme veya çatışma.,"Önerilen yol genişletme projesi, yerel çevre gruplarından şiddetli bir muhalefetle karşılaştı."
+289,organik,Yapay kimyasallar kullanılmadan üretilmiştir; doğal olarak elde edilmiştir.,Tüketicilerin sağlık konusunda daha bilinçli hale gelmesiyle birlikte organik gıdalara olan talep önemli ölçüde arttı.
+290,aşırı kalabalık,Sınırlı bir alanda çok fazla insan.,"Hızlı kentleşme, gelişmekte olan dünyadaki büyük şehirlerde ciddi aşırı kalabalığa yol açmıştır."
+291,pandemi,Dünya çapında ülkelere yayılan bir hastalık.,"COVID-19 pandemisi, küresel halk sağlığı altyapısındaki kritik zayıflıkları ortaya çıkardı."
+292,penaltı,Bir kuralı veya yasayı çiğnemenin cezası.,"Çevre kirliliğine yönelik daha ağır mali cezalar getirilmesi, sanayilerin çevre ihlallerinden kaçınmasını sağlayabilir."
+293,algı,Bir şeyin inancı veya yorumu.,"Göçmenliğe ilişkin kamuoyu algısı, istatistiksel kanıtlardan ziyade genellikle medya haberleri tarafından şekillendirilmektedir."
+294,perspektif,Belirli bir bakış açısı veya olaylara bakma biçimi.,"Konuyu, en doğrudan etkilenenlerin bakış açısından değerlendirmek şarttır."
+295,fenomen,"Gözlemlenebilir, genellikle dikkat çekici bir olgu veya olay.","Kentleşme, hem fırsatlar hem de önemli zorluklar sunan küresel bir olgudur."
+296,yoksulluk,Son derece yoksul olma durumu.,"Aşırı yoksulluğun ortadan kaldırılması, uluslararası kalkınmanın en önemli hedeflerinden biri olmaya devam etmektedir."
+297,ön yargı,"Akla dayanmayan, haksız bir görüş.",Irk ayrımcılığıyla mücadele hem yasal reform hem de geniş kapsamlı eğitim girişimleri gerektirir.
+298,öncelik,En önemli olarak sıralanan bir şey.,"Kaliteli eğitime erişimi iyileştirmek, sorumlu her hükümetin en öncelikli görevi olmalıdır."
+299,verimlilik,Girdi birimi başına çıktı verimliliği.,"Çalışan eğitimine yatırım yapmak, iş yeri verimliliğini artırmanın en etkili yollarından biridir."
+300,ilerleyici,Reformu ve toplumsal ilerlemeyi desteklemek.,"Artan oranlı vergi sistemi, yüksek gelirli kişilerin daha büyük oranda vergi ödemesini sağlar."
+301,oran,Bir bütünün parçası; karşılaştırmalı oran.,Ulusal servetin orantısız derecede büyük bir kısmı nüfusun küçük bir kesiminin elinde bulunuyor.
+302,psikolojik,Zihin ve zihinsel süreçlerle ilgili.,İşsizliğin depresyon ve kimlik kaybı da dahil olmak üzere ciddi psikolojik sonuçları olabilir.
+303,durgunluk,Önemli bir ekonomik gerileme dönemi.,"Ekonomik durgunluk döneminde, artan işsizlik ve azalan tüketici harcamaları olumsuz bir döngü yaratır."
+304,rehabilitasyon,Sağlığın veya normal yaşamın yeniden kazanılması süreci.,"Rehabilitasyon programlarına yatırım yapmak, yeniden suç işleme oranlarını yalnızca hapis cezasına kıyasla daha etkili bir şekilde düşürmektedir."
+305,yenilenebilir,Doğal olarak yenilenebilen bir kaynak.,"Yenilenebilir enerji kaynaklarına yatırım, küresel ölçekte fosil yakıtlara olan bağımlılığı azaltmak için hayati önem taşımaktadır."
+306,kısıtlama,Faaliyetleri sınırlayan bir kural veya koşul.,"Pandemi sırasında uygulanan seyahat kısıtlamaları, küresel turizmde önemli aksamalara neden oldu."
+307,hasılat,Hükümet veya işletme tarafından elde edilen gelir.,"Hükümetler, sağlık ve eğitim gibi temel kamu hizmetlerini finanse etmek için vergi gelirlerine güvenir."
+308,devrim,Toplumda dramatik ve temel bir değişim.,"Sanayi devrimi, küresel ekonomiyi ve insan emeğinin biçimlerini temelden değiştirdi."
+309,sanitasyon,Hijyen ve atık yönetimi sistemleri.,"Nüfus yoğunluğunun yüksek olduğu kentsel alanlarda yetersiz hijyen koşulları, bulaşıcı hastalıkların yayılmasına katkıda bulunur."
+310,kıtlık,İhtiyaç duyulan kaynağın yetersiz tedariği.,"Su kıtlığı, önümüzdeki on yıllarda insanlığın hayatta kalması için en ciddi tehditlerden birini oluşturmaktadır."
+311,şüpheci,İddiaları sorgulamaya veya şüphe duymaya meyilli.,"Birçok ekonomist, mevcut hükümet harcamalarının uzun vadeli sürdürülebilirliği konusunda şüpheci kalmaya devam ediyor."
+312,sosyal hareketlilik,Sosyal sınıflar arasında geçiş yapabilme yeteneği.,"Eğitim, sosyal hareketliliği artırmak için en güçlü araç olarak kabul edilmektedir."
+313,klişe,"Bir grubun sabit, aşırı basitleştirilmiş bir görüntüsü.",Medya temsilleri genellikle azınlık toplulukları hakkında zararlı klişeleri pekiştirir.
+314,uyarıcı,Bir tepkiye veya eyleme yol açan şey.,"Hükümet, durgunluğun ardından ekonomiyi canlandırmak için büyük bir teşvik paketi başlattı."
+315,banliyö,Şehrin eteklerinde yer alan bir yerleşim bölgesi.,"Banliyölerin büyümesi, otomobil bağımlılığını artırdı ve kentleşmenin yayılmasına katkıda bulundu."
+316,gözetim,Özellikle yetkililer tarafından yakından gözlem.,"Hükümetlerin kitlesel gözetimi, bireysel mahremiyet ve sivil özgürlükler konusunda ciddi endişeler doğurmaktadır."
+317,vergilendirme,Vatandaşlardan vergi alma sistemi.,"Adil ve kademeli vergilendirme, kamu hizmetlerinin finansmanı ve eşitsizliğin azaltılması için şarttır."
+318,geçiş,Bir halden diğerine geçiş.,Küresel sıcaklık artışını sınırlamak için yenilenebilir enerjiye hızlı bir geçiş şarttır.
+319,şeffaflık,Süreçlerde veya yönetimde açıklık ve şeffaflık.,"Devlet harcamalarında daha fazla şeffaflık, yolsuzluğu azaltmaya ve kamu güvenini artırmaya yardımcı olabilir."
+320,işsizlik,Ücretli bir işi olmama durumu.,"Otomasyonun yol açtığı yapısal işsizlik, dünya genelindeki hükümetler için büyük bir zorluk teşkil etmektedir."
+321,kentleşme,Şehirlerde yaşayan insanların oranı giderek artıyor.,"Asya'daki hızlı kentleşme mega şehirler yaratmış olsa da, ciddi altyapı sorunlarına da yol açmıştır."
+322,aşı,Hastalıklara karşı bağışıklık sağlayan tedavi.,"Kitlesel aşılama programları, çiçek hastalığı gibi hastalıkları ortadan kaldırmış ve dünya çapında çocuk felcini kontrol altına almıştır."
+323,gönüllü,"Dış baskı olmaksızın, gönüllü olarak yapılmıştır.","Gönüllü kuruluşlar, toplumun savunmasız kesimlerini desteklemede çok önemli bir rol oynamaktadır."
+324,güvenlik açığı,Zarara veya zorluğa maruz kalmak.,"Küçük ada ülkeleri, yükselen deniz seviyelerinin sonuçlarına karşı son derece savunmasız durumdadır."
+325,yaygın,Geniş bir alanda bulunan veya dağılmış olan.,"İnternete yaygın erişim, küresel ölçekte iletişimi ve bilgiye erişimi dönüştürdü."
+326,işgücü,İşe alınmaya müsait tüm kişiler.,"Yaşlanan işgücü, gelişmiş ülkelerdeki emeklilik sistemleri için önemli zorluklar yaratmaktadır."
+327,teslim olmak,Bir sonuç veya ürün üretmek veya sağlamak.,"Gelişen tarım teknikleri, kuraklığa eğilimli bölgelerde çiftçilerin daha büyük ürünler elde etmelerine yardımcı oldu."
+328,kötüleştirmek,Bir sorunu veya durumu daha da kötüleştirmek.,"İklim değişikliğinin, hassas bölgelerdeki mevcut gıda güvenliği sorunlarını daha da kötüleştirmesi bekleniyor."
+329,paylaştırma,Kaynakların belirli bir amaç doğrultusunda dağıtılması.,"Kamu kaynaklarının etkin tahsisi, ulusal sağlık hizmetleri sonuçlarını iyileştirmek için şarttır."
+330,entegrasyon,Parçaları bir araya getirerek bir bütün oluşturma süreci.,"Göçmenlerin başarılı sosyal entegrasyonu, dil eğitimine ve toplumsal desteğe yatırım yapılmasını gerektirir."
+331,hesap verebilirlik,Kişinin kendi eylemlerinden ve kararlarından sorumlu olması.,"Kamu kurumlarında daha fazla hesap verebilirlik, vatandaşların hükümete olan güvenini korumak için şarttır."
+332,uyarlanabilir,Yeni koşullara uyum sağlayabilme yeteneğine sahip.,"Uyarlanabilir yönetim stratejileri, kuruluşların hızla değişen ortamlara etkili bir şekilde yanıt vermesini sağlar."
+333,ağırlaştırmak,Bir sorunu veya durumu daha da ciddileştirmek.,"Yetersiz hükümet müdahalesi, ekonomik durgunluğun sosyal sonuçlarını daha da kötüleştirebilir."
+334,insan kaynaklı,İnsan faaliyetinden kaynaklanan veya insan faaliyeti sonucu oluşan.,"Bilim insanları, insan kaynaklı sera gazı emisyonlarının küresel ısınmanın başlıca nedeni olduğu konusunda hemfikir."
+335,asimilasyon,Bir grubun baskın kültüre karışması.,"Yerli halkların zorla kültürel asimilasyonuna maruz bırakılması, insan hakları örgütleri tarafından geniş çapta kınanmıştır."
+336,kemer sıkma politikası,Borcu azaltmak için hükümet harcamalarında ciddi kesintiler.,"Finansal krizin ardından uygulanan kemer sıkma önlemleri, kamu hizmetlerinde ciddi kesintilere yol açtı."
+337,otomasyon,Görevleri otomatik olarak gerçekleştirmek için teknolojinin kullanılması.,"Üretim süreçlerinin otomasyonu, vasıfsız işgücüne olan ihtiyacı önemli ölçüde azalttı."
+338,biyolojik olarak parçalanabilir,Doğal organizmalar tarafından parçalanabilir.,"Plastik ambalajların biyolojik olarak parçalanabilir ambalajlarla değiştirilmesi, çevre kirliliğini azaltmaya yönelik önemli bir adımdır."
+339,bürokrasi,Karmaşık bir kurallar ve resmi süreçler sistemi.,"Kamu kurumlarındaki aşırı bürokrasi, temel hizmetlerin verimli bir şekilde sunulmasını engelleyebilir."
+340,katalizör,Bir süreci tetikleyen veya hızlandıran şey.,"Pandemi, dünya çapında uzaktan çalışma uygulamalarının yaygın olarak benimsenmesi için bir katalizör görevi gördü."
+341,sivil katılım,Toplumsal ve siyasi hayata aktif katılım.,"Gençler arasında düşük düzeyde sivil katılım, demokratik yönetişim için önemli bir tehdit oluşturmaktadır."
+342,birlikte yaşama,Farklılıklara rağmen barış içinde bir arada yaşamak.,Farklı etnik topluluklar arasında barış içinde bir arada yaşamayı sağlamak karşılıklı saygı ve anlayış gerektirir.
+343,bilişsel,Düşünme ve öğrenme gibi zihinsel süreçlerle ilgili.,"Erken çocukluk eğitimi, uzun vadeli bilişsel gelişim ve akademik performans üzerinde derin bir etkiye sahiptir."
+344,uyum,Bütünleşik bir yapı oluşturma niteliği.,"Yüksek düzeydeki eşitsizlik, toplumsal uyumu zayıflatır ve toplumsal huzursuzluk riskini artırır."
+345,metalaştırmak,Bir şeyi ticari ürün gibi ele almak.,"Eleştirmenler, hükümetlerin eğitimi bir piyasa ürünü gibi ele alarak ticarileştirmemesi gerektiğini savunuyor."
+346,zorunlu,Kanun veya kurallar gereği zorunlu; mecburi.,"Zorunlu eğitim yasaları, dünya genelinde okuryazarlık oranlarının artmasında etkili olmuştur."
+347,tasavvur etmek,Bir fikri veya planı oluşturmak veya geliştirmek.,Enerji tüketiminde köklü bir değişim olmadan sürdürülebilir bir gelecek tasavvur etmek zordur.
+348,konsolide etmek,Birleştirmek veya güçlendirmek suretiyle bütün bir bütün haline getirmek.,"Birleşme, iki şirketin kaynaklarını birleştirmesine ve operasyonel verimliliği artırmasına olanak sağladı."
+349,kirlenme,Bir maddenin içinde zararlı kirleticilerin bulunması.,"Sanayi atıkları, çevredeki kırsal bölgelerde yeraltı sularının yaygın şekilde kirlenmesine neden olmuştur."
+350,tartışma,Tartışma konusu veya hararetli bir münakaşa.,"Göç politikası, birçok ülkede siyasi tartışmalarda hâlâ önemli bir çekişme noktası olmaya devam ediyor."
+351,merkezsizleştirmek,Gücün merkezi yönetimden yerel yönetime aktarılması.,"Yönetimi merkezsizleştirme çabaları, yerel toplulukları güçlendirebilir ve kamu hizmetlerinin sunumunu iyileştirebilir."
+352,kasıtlı,Kasıtlı olarak yapılmış; dikkatlice düşünülmüş.,"Politika tartışmalarından azınlık seslerinin dışlanması, kasıtlı bir siyasi strateji gibi görünüyor."
+353,bağımlılık,Bir şeye aşırı derecede bağımlı olma durumu.,"Birçok gelişmekte olan ülke, tek bir ihracat ürününe olan ekonomik bağımlılıklarını azaltmakta zorlanıyor."
+354,yoksunluk,Temel ihtiyaçlardan yoksunluktan kaynaklanan zararlı bir durum.,Aşırı yoksulluk içinde büyüyen çocukların akademik başarıya ulaşma olasılığı önemli ölçüde daha düşüktür.
+355,çölleşme,Arazinin çöl benzeri koşullara dönüşmesi.,"Çölleşme, dünya genelinde yarı kurak bölgelerde yaşayan milyonlarca insanın geçim kaynaklarını tehdit ediyor."
+356,bozulma,Giderek kötüleşen bir süreç.,"Kent altyapısının bozulması, birçok şehirde yaşayanlar için ciddi güvenlik riskleri oluşturmaktadır."
+357,orantısız,Başka bir şeye göre çok büyük veya çok küçük.,"Dışlanmış topluluklar, çevre kirliliğinin sonuçlarından orantısız bir şekilde daha fazla etkilenmektedir."
+358,seçim,Seçimlerle veya oy verme süreciyle ilgili.,"Seçim reformu, tüm vatandaşların hükümette adil bir şekilde temsil edilmesini sağlamak için şarttır."
+359,göç,Kişinin ülkesini terk edip başka bir yere yerleşmesi.,"Yüksek göç oranları, gelişmekte olan ülkeleri en yetenekli ve eğitimli vatandaşlarından mahrum bırakabilir."
+360,ampirik,Teoriden ziyade gözlem ve kanıtlara dayanmaktadır.,Sağlıklı politika kararları ideolojik varsayımlardan ziyade ampirik kanıtlara dayanmalıdır.
+361,onay,Kamuoyuna açık destek veya onay beyanı.,"Ünlü bir ismin desteği, önemli sosyal ve siyasi konularda kamuoyunu önemli ölçüde etkileyebilir."
+362,girişimcilik,İşletme kurma ve işletme faaliyeti.,"Hükümetler, girişimciliği ve yeniliği destekleyen koşullar yaratarak ekonomik büyümeyi teşvik edebilirler."
+363,etik ikilem,Ahlaki ilkeler arasında seçim yapmayı gerektiren bir çatışma.,"Genetik mühendisliğindeki gelişmeler, toplumu dikkatli bir değerlendirme gerektiren derin etik ikilemlerle karşı karşıya bırakmaktadır."
+364,şiddetlenme,Bir sorunu daha da ciddi hale getirme süreci.,"Hızlı nüfus artışı, zaten zor durumda olan bölgelerdeki kaynak kıtlığını daha da kötüleştiriyor."
+365,dışlama,Erişim veya üyeliği engelleme eylemi.,"Savunmasız grupların sosyal dışlanması, gerçek toplumsal eşitliğe ulaşmanın önündeki en büyük engellerden biridir."
+366,sömürü,Birinin veya bir şeyin haksız kazanç amacıyla kullanılması.,Çokuluslu şirketlerin gelişmekte olan ülkelerdeki ucuz iş gücünü sömürmesi ciddi etik sorunlar doğurmaktadır.
+367,üstel,Hızla artan veya azalan bir oranda.,"Sosyal medya kullanımındaki üstel artış, insanların küresel olarak bilgi tüketme biçimini dönüştürdü."
+368,dalgalanma,Zaman içinde düzensiz değişim veya varyasyon.,"Küresel petrol fiyatlarındaki sert dalgalanmalar, petrole bağımlı ülkelerin ekonomilerini istikrarsızlaştırabilir."
+369,formüle etmek,Sistematik olarak oluşturmak veya tasarlamak.,"Hükümetler, ekonomik büyüme ile çevre korumasını dengeleyecek politikaları dikkatlice formüle etmelidir."
+370,parçalanma,"Bir şeyin küçük, birbirinden ayrı parçalara ayrılması.","Siyasi partilerin parçalanması, istikrarlı hükümetler kurmayı giderek zorlaştırdı."
+371,gayri safi yurtiçi Hasıla,Bir ülkenin yıllık üretiminin toplam parasal değeri.,"Birçok ekonomist, gayri safi yurtiçi hasılanın ulusal refahın yetersiz bir ölçüsü olduğunu savunmaktadır."
+372,hegemonya,Bir grubun diğerleri üzerinde hakimiyet kurması.,"Batılı ulusların kültürel hegemonyası, küresel medya ve tüketici tercihlerini önemli ölçüde etkilemiştir."
+373,homojenizasyon,Her şeyi baştan sona aynı veya benzer hale getirmek.,"Eleştirmenler, küreselleşmenin çeşitliliğin azalması pahasına toplumların kültürel olarak homojenleşmesine yol açtığını savunuyor."
+374,insani yardım,İnsanların refahını ve çektiği acıları azaltmayı amaçlamaktadır.,"Uluslararası insani yardım, silahlı çatışmalardan ve afetlerden etkilenen nüfusları desteklemek için hayati önem taşımaktadır."
+375,ideoloji,Siyasi eylemlerin temelini oluşturan inanç sistemi.,Ekonomi politikası çoğu zaman ampirik kanıt ve araştırmalardan ziyade siyasi ideoloji tarafından şekillendirilir.
+376,dayatmak,Bir şeyi otorite yoluyla başkalarına zorla kabul ettirmek.,"Uluslararası kuruluşlar, insan hakları anlaşmalarını ihlal eden hükümetlere yaptırım uygulayabilir."
+377,hapis,Hapsedilme hali.,"Bazı ülkelerdeki yüksek hapis oranları, adalet ve rehabilitasyon konusunda ciddi soruları gündeme getiriyor."
+378,başlangıç,Bir şeyin başlangıcı veya kuruluşu.,"Kuruluşundan bu yana, örgüt küresel yoksulluğu hafifletmede önemli ilerleme kaydetmiştir."
+379,dahil,Hiçbir grup veya bireyi dışlamadan.,"Kapsayıcı bir eğitim sistemi, engelli çocukların eşit öğrenme fırsatlarına sahip olmasını sağlar."
+380,yerli,Belirli bir bölgede doğal olarak ortaya çıkan.,Yerli halkların atalarından kalma topraklara ilişkin hakları uluslararası hukuk kapsamında korunmalıdır.
+381,sanayileşme,Büyük ölçekli endüstriyel üretime geçiş.,Gelişmekte olan ülkelerin sanayileşmesi ekonomik büyümeyi beraberinde getirmiş ancak aynı zamanda önemli çevresel zararlara da yol açmıştır.
+382,verimsizlik,Zamanı veya kaynakları en iyi şekilde kullanamama.,"Yaygın bürokratik verimsizlik, hükümetlerin hizmetleri etkili ve adil bir şekilde sunmasını engellemektedir."
+383,kurumsal,Kurulu kuruluşlar veya sistemlerle ilgili.,"Hukuk sistemlerine yerleşmiş kurumsal ırkçılık, dünya çapında azınlık topluluklarını dezavantajlı duruma düşürmeye devam ediyor."
+384,karşılıklı bağımlılık,İki veya daha fazla grup arasında karşılıklı bağımlılık.,"Küresel pandemi, modern dünyada ulusal ekonomilerin derin karşılıklı bağımlılığını ortaya koymuştur."
+385,gözdağı,Birini korkutmak veya tehdit etmek suretiyle baskı uygulamak.,Seçmenlerin sindirilmesi demokratik süreci baltalar ve özgür ve adil seçimlerin yapılmasını engeller.
+386,yargı yetkisi,Kanunları uygulama yetkisine sahip resmi makam.,"Siber suçlar, sıklıkla birden fazla yasal yargı alanında meydana geldiği için karmaşık zorluklar sunmaktadır."
+387,yan yana koymak,Zıtlığı vurgulamak için iki şeyi yan yana koymak.,"Rapor, varlıklı elitlerin yaşam tarzlarını aşırı yoksulluk içinde yaşayanların yaşam tarzlarıyla karşılaştırıyor."
+388,meşru,Kanunlara veya kabul görmüş standartlara uygun olmak.,"Meşru bir hükümet, vatandaşlarına karşı hesap verebilir olmalı ve temel insan haklarına saygı göstermelidir."
+389,yetersiz beslenme,Yetersiz veya dengesiz beslenmeden kaynaklanan sağlık sorunları.,"Çatışma bölgelerinde yaygın görülen yetersiz beslenme, ciddi ve acil bir küresel insani krizi temsil etmektedir."
+390,tezahür,Bir şeyin gözle görülür işareti veya ifadesi.,"Evsizlik, birçok gelişmiş şehirde konut politikasının başarısızlığının çarpıcı bir göstergesidir."
+391,marjinalleşme,Bir grubu ikincil olarak ele alma süreci.,"Etnik azınlıkların işgücü piyasasında dışlanması, yoksulluk ve eşitsizlik döngülerini sürdürmektedir."
+392,meritokrasi,İlerlemenin yeteneğe dayalı olduğu bir sistem.,"Eleştirmenler, sistemik eşitsizlik ele alınmadığı sürece gerçek bir liyakat sisteminin imkansız olduğunu savunuyor."
+393,hafifletme,Zararlı bir durumun etkisini azaltmaya yönelik eylem.,Küresel iklim değişikliğinin en kötü etkilerini sınırlamak için acilen etkili azaltma stratejilerine ihtiyaç duyulmaktadır.
+394,tekel,Bir pazarın tek bir kuruluş tarafından münhasır olarak kontrol edilmesi.,Kontrolsüz tekeller rekabeti azaltır ve nihayetinde tüketiciler için daha yüksek fiyatlara yol açar.
+395,çok taraflı,İkiden fazla tarafı veya ülkeyi kapsayan.,"İklim değişikliğiyle etkili bir şekilde mücadele etmek, başlıca emisyon salan tüm ülkeler arasında çok taraflı işbirliğini gerektirir."
+396,ihmal etmek,Bir şeye özen göstermemek veya onunla ilgilenmemek.,"Yıllarca süren siyasi ihmal, birçok kırsal topluluğu yeterli sağlık hizmeti veya eğitimden mahrum bıraktı."
+397,neoliberal,"Serbest piyasa ekonomisini, özelleştirmeyi ve düzenlemelerin kaldırılmasını destekliyor.","Eleştirmenler, neoliberal ekonomi politikalarının küresel ölçekte zengin ve fakir arasındaki uçurumu genişlettiğini savunuyor."
+398,normlar,Bir toplumda kabul görmüş davranış standartları.,"Cinsiyet rolleriyle ilgili değişen toplumsal normlar, modern iş yerini kademeli olarak dönüştürdü."
+399,modası geçmiş,Artık kullanılmıyor; eskimiş ve güncelliğini yitirmiş.,"Hızlı teknolojik gelişmeler, geleneksel üretim becerilerinin çoğunu neredeyse geçersiz hale getirdi."
+400,baskı,"Başkaları üzerinde uzun süreli, haksız otorite veya kontrol.","Azınlık gruplarına yönelik tarihsel baskı, günümüzde de devam eden derin eşitsizlikler yaratmıştır."
+401,salgın,Ani bir hastalık veya şiddet olayının ortaya çıkması.,"Yeni bir viral hastalığın ortaya çıkması, uluslararası düzeyde acil halk sağlığı önlemlerinin alınmasını zorunlu kıldı."
+402,kişi başına,Belirli bir popülasyondaki her birey için.,"Kişi başına düşen GSYİH, farklı ülkelerdeki ortalama yaşam standardını karşılaştırmak için yaygın olarak kullanılır."
+403,kutuplaşma,Birbirinden tamamen farklı iki gruba ayrılma.,"Siyasi kutuplaşma, önemli ulusal meselelerde iki partinin işbirliğini giderek zorlaştırdı."
+404,özelleştirme,Devlete ait varlıkların özel mülkiyete devredilmesi.,"Su ve enerji gibi kamu hizmetlerinin özelleştirilmesi, erişilebilirliği azalttığı gerekçesiyle yaygın olarak eleştirilmiştir."
+405,çoğalma,Bir şeyin sayısında hızlı artış.,"Sosyal medyada yanlış bilgilerin yayılması, demokratik süreçler için ciddi bir tehdit oluşturmaktadır."
+406,yakınlık,"Mekân, zaman veya ilişki açısından yakınlık.","Ekonomik merkezlere coğrafi yakınlık, bir bölgenin gelişmesini ve büyümesini önemli ölçüde etkiler."
+407,onaylamak,Bir anlaşmayı veya yasayı resmen onaylamak.,Küresel iklim taahhütlerinin anlamlı bir etki yaratabilmesi için daha fazla ülkenin Paris Anlaşması'nı onaylaması gerekiyor.
+408,tekrarlayan suç,Önceki mahkumiyetin ardından tekrar suç işleme eğilimi.,"Etkin rehabilitasyon programlarının, eski suçlular arasında yeniden suç işleme oranlarını azalttığı kanıtlanmıştır."
+409,yeniden dağıtım,Daha fazla eşitlik sağlamak için kaynakların yeniden dağıtılması.,"Artan oranlı vergilendirme, servetin en zenginlerden en dezavantajlı kesimlere yeniden dağıtılmasını mümkün kılar."
+410,güçlendirmek,Mevcut bir fikri veya yapıyı güçlendirmek veya desteklemek.,"Medyanın suç olaylarını tasvir ediş biçimi, istemeden de olsa belirli sosyal gruplar hakkındaki olumsuz stereotipleri pekiştirebilir."
+411,dayanıklılık,Zorlukların üstesinden hızla gelebilme yeteneği.,"Toplumsal direnci artırmak, nüfusların iklim değişikliğinin etkilerine karşı koymasına yardımcı olmak için çok önemlidir."
+412,misilleme,Yaralanma veya saldırıya karşı alınan önlem.,"Büyük ekonomiler arasında ticari misilleme, artan gümrük vergileri şeklinde yıkıcı bir döngüyü tetikleyebilir."
+413,ayrımcılık,Toplumda grupların zorla birbirinden ayrılması.,Eğitim sistemlerindeki ırksal ayrımcılığın sosyal eşitlik üzerinde uzun süreli olumsuz etkileri vardır.
+414,sosyoekonomik,Hem sosyal hem de ekonomik faktörlerle ilgili.,"Çocuğun sosyoekonomik geçmişi, eğitim başarısının en güçlü belirleyicilerinden biri olmaya devam etmektedir."
+415,egemenlik,Devletin en yüksek otoritesi ve bağımsızlığı.,Uluslararası anlaşmalar bazen ülkelerin tam ekonomik egemenliklerini koruma arzusuyla çelişebilir.
+416,sübvansiyon,Devlet fonlarıyla mali olarak desteklemek.,"Birçok hükümet, yenilenebilir enerjiyi fosil yakıtlarla daha rekabetçi hale getirmek için sübvansiyon sağlıyor."
+417,hassas,Bir şeyden etkilenme veya bir şeye karşı savunmasız olma olasılığı yüksek.,"Yaşlı nüfus, solunum yolu enfeksiyon hastalıklarından kaynaklanan ciddi hastalıklara karşı özellikle hassastır."
+418,sistemik,"Bir sistemin tamamına ilişkin, tek bir parçasına değil.","Yoksullukla mücadele, bireysel belirtileri hedef alan parça parça müdahalelerden ziyade sistemik bir değişim gerektirir."
+419,yeniden formüle et,Yeni bir biçimde tekrar ifade etmek veya tasarlamak.,"Yeni kanıtlar ışığında, hükümetlerin halk sağlığı politikasına yaklaşımlarını yeniden gözden geçirmeleri gerekebilir."
+420,kasılma,Ekonomik üretimde veya faaliyette azalma.,"Pandemi sırasında küresel ticarette yaşanan sert daralma, tedarik zincirlerinin kırılganlığını ortaya çıkardı."
+421,sapma,Normal veya beklenenden sapma.,Bazı ekonomistler 2008 mali krizini piyasaların yapısal bir başarısızlığından ziyade bir sapma olarak değerlendiriyor.
+422,tahttan feragat etmek,Bir görevi veya sorumluluğu yerine getirmemek.,"Kamu hizmetlerini kısıtlayan hükümetler, savunmasız vatandaşlara karşı sorumluluklarını yerine getirmemekle suçlanabilir."
+423,sertlik,Konuşma veya davranış biçimindeki acımasız düşmanlık.,"Brexit müzakereleri, AB ve İngiltere temsilcileri arasında önemli ölçüde gerginlikle geçti."
+424,birleştirmek,Tek bir cisim halinde birleştirmek veya bir araya getirmek.,İdari verimliliği artırmak ve işletme maliyetlerini düşürmek amacıyla birkaç küçük departman birleştirildi.
+425,düzeltmek,Kötü bir durumu daha iyi veya daha katlanılabilir hale getirmek.,"Uluslararası yardım programları, çatışma bölgelerindeki yerinden edilmiş nüfusun karşılaştığı koşulları iyileştirmeyi amaçlamaktadır."
+426,anakronizm,Tarihsel dönemine göre yersiz bir şey.,"Eleştirmenler, seçilmemiş üst meclisin modern toplumda demokratik bir anakronizm haline geldiğini savunuyor."
+427,asimetri,Parçalar arasında eşitlik veya denklik eksikliği.,"Alıcılar ve satıcılar arasındaki bilgi asimetrisi, piyasa başarısızlıklarına ve verimsiz sonuçlara yol açabilir."
+428,yıpranma,Sürekli basınç veya kayıp yoluyla kademeli azalma.,"Uzun süren çatışma, her iki tarafın da kaynaklarını tüketen bir yıpratma savaşına dönüştü."
+429,çatallanma,İki kola veya bölüme ayrılma.,"Artan eşitsizlik, toplumu giderek birbirinden kopuk iki ekonomik gruba ayırmıştır."
+430,atlatmak,Bir kuralı veya engeli aşmanın bir yolunu bulmak.,"Çokuluslu şirketler, yurt içi vergi yükümlülüklerinden kaçınmak için denizaşırı hesaplar kullanmakla suçlanıyor."
+431,zorlayıcı,Eylemi zorlamak için güç veya tehdit kullanmak.,"Siyasi muhalefeti bastırmak için baskıcı önlemlerin kullanılması, temel demokratik ilkeleri ihlal eder."
+432,metalaştırma,Bir şeyi pazarlanabilir bir mal olarak ele alma süreci.,"Yükseköğretimin ticarileşmesi, üniversiteleri kamu kurumları olmaktan çıkarıp ticari işletmelere dönüştürmüştür."
+433,özgüven,Açıkça görünen tehlikelere rağmen duyulan tatmin duygusu.,"Artan eşitsizlik karşısında siyasi kayıtsızlık, toplumsal bölünmelerin önemli ölçüde derinleşmesine yol açmıştır."
+434,varsayım,Yeterli kanıt olmadan oluşturulmuş bir görüş.,"Ampirik veriler olmadan, politikanın ekonomik etkisine ilişkin iddialar tamamen varsayımdan ibaret kalır."
+435,koşullu,Belirsiz koşullara veya durumlara bağlıdır.,"Reform programının başarısı, sürdürülebilir siyasi kararlılığa ve yeterli finansmana bağlıdır."
+436,doğrulamak,Kanıtlarla doğrulamak veya desteklemek.,"Birden fazla bağımsız çalışma, hava kirliliğinin ölüm oranlarını önemli ölçüde artırdığı bulgusunu doğrulamaktadır."
+437,kısaltmak,Bir şeyi önemli ölçüde azaltmak veya kısıtlamak.,Ulusal sağlık krizinin en yoğun olduğu dönemde sivil özgürlükleri kısıtlamak amacıyla acil durum yasaları çıkarıldı.
+438,sınırlandırmak,Kesin ve net bir şekilde tanımlamak veya belirtmek.,"Uluslararası antlaşmalar, imzalayan her ülkenin sorumluluklarını açıkça belirtmelidir."
+439,demografik temettü,Çalışma çağındaki nüfusun artmasından kaynaklanan ekonomik büyüme.,"Sahra Altı Afrika, eğitime yatırım yaparak demografik avantajından yararlanma fırsatına sahip."
+440,caydırmak,Korku veya şüphe yoluyla eylemden caydırmak.,"Çevre ihlallerine yönelik daha ağır cezalar, şirketlerin su yollarını yasadışı bir şekilde kirletmelerini engelleyebilir."
+441,ikilik,İki zıt kategoriye keskin bir ayrım.,"Ekonomik büyüme ve çevre koruma arasındaki ikilem, çoğu zaman yanlış bir seçim olarak sunulmaktadır."
+442,difüzyon,Bir şeyin geniş bir alana yayılması.,"Dijital teknolojinin hızla yayılması, bilginin küresel ölçekte üretilme ve tüketilme biçimini dönüştürdü."
+443,oy hakkından mahrum bırakmak,Birini haklarından veya ayrıcalıklarından mahrum etmek.,"Karmaşık seçmen kayıt şartları, düşük gelirli ve azınlık topluluklarını orantısız bir şekilde oy kullanma hakkından mahrum bırakabilir."
+444,farklı,Özünde tür olarak farklı; karşılaştırılabilir değil.,"Politika, ekonomik koşulları çok farklı olan çeşitli toplulukların ihtiyaçlarını karşılamalıdır."
+445,etkinlik,İstenilen sonucu elde etme yeteneği.,"Yeni tedavilerin halkın kullanımına onaylanmadan önce, klinik denemelerde etkinlikleri titizlikle test edilmelidir."
+446,eşitlikçi,Herkese eşit haklar tanınmasına inanmak veya bunu savunmak.,"Gerçek anlamda eşitlikçi bir toplum, hem biçimsel yasal eşitliği hem de fırsat eşitliğinin özünü ele almalıdır."
+447,yerleşik,Yerleşik ve değiştirilmesi zor.,"İşe alım uygulamalarındaki köklü cinsiyet ayrımcılığı, kadınları üst düzey pozisyonlarda dezavantajlı duruma düşürmeye devam ediyor."
+448,denge,Karşıt güçler arasında bir denge durumu.,"Arz ve talep teorisine göre, piyasalar zaman içinde doğal olarak fiyat dengesine doğru eğilim gösterecektir."
+449,ortadan kaldırmak,Bir şeyi tamamen yok etmek veya ortadan kaldırmak.,"Dünya Sağlık Örgütü'nün küresel çapta çocuk felcini ortadan kaldırma hedefi, evrensel aşılama kapsamını gerektiriyor."
+450,ekstrapolasyon,Bilinen verileri kullanarak bilinmeyen durumları tahmin etmek.,"Araştırmacılar, küçük örneklemlerden elde edilen bulguları tüm popülasyonlara genellemeye çalışırken dikkatli olmalıdırlar."
+451,imal etmek,Yanlış bilgi uydurmak; üretmek.,"Delil uyduran gazeteciler, medyaya olan kamu güvenini zedeliyor ve demokratik söyleme zarar veriyor."
+452,fizibilite,Mümkün ve pratik olma niteliği.,Büyük ölçekli altyapı projelerinin onaylanmasından önce kapsamlı bir fizibilite çalışması yapılması gerekmektedir.
+453,mali açık,Devlet harcamaları gelirlerini aştığında.,"Artan bütçe açığı, hükümetleri ya vergileri artırmaya ya da temel kamu harcamalarını kısmaya zorluyor."
+454,çığır açan,Yenilikçi ve öncü; yeni fikirler sunan.,"Gen düzenleme alanındaki çığır açan araştırmalar, kalıtsal hastalıkların tedavisinde yeni olanaklar açmıştır."
+455,bütünsel,"Sistemin parçalarını değil, tamamını ele almak.","Halk sağlığına yönelik bütüncül bir yaklaşım, sosyal, ekonomik ve çevresel belirleyicileri eş zamanlı olarak ele almalıdır."
+456,homojen,Benzer veya tek tip unsurlardan oluşan.,"Giderek homojenleşen kent kültürleri, geleneksel yerel toplulukların zengin çeşitliliğini aşındırabilir."
+457,engellemek,İlerlemeyi veya hareketi engellemek veya sekteye uğratmak.,Yolsuz bürokratik uygulamalar ekonomik kalkınmayı engeller ve doğrudan yabancı yatırımları caydırır.
+458,yeni başlayan,Oluşmaya veya gelişmeye başlamış; erken aşamalarda.,Başlangıç ​​aşamasındaki ekonomik gerilemenin tam bir durgunluğa dönüşmesini önlemek için erken müdahale çok önemlidir.
+459,ayrım gözetmeksizin,Dikkatli bir değerlendirme yapılmadan; rastgele ve özensizce yapılmış.,"Pestisitlerin ayrım gözetmeksizin kullanılması, ekosistemlere zarar verir ve hedeflenen türlerin çok ötesindeki türlere de olumsuz etkilerde bulunur."
+460,doğuştan,Daimi ve temel bir özellik olarak var olmak.,Ekonomik büyümeyi en üst düzeye çıkarmak ile doğal çevreyi korumak arasında doğal bir gerilim söz konusudur.
+461,kışkırtmak,Bir eylemi veya olayı başlatmak veya meydana getirmek.,Sivil toplum grupları genellikle hükümet kurumları üzerinde kamuoyu baskısı oluşturarak politika değişikliğini tetiklerler.
+462,hafifletmek,Bir şeyin şiddetini veya etkisini azaltmak.,"Şehirlerde ağaç dikmek, yoğun nüfuslu şehirlerdeki ısı adası etkisini azaltmaya yardımcı olabilir."
+463,sürdürmek,Bir şeyin süresiz olarak devam etmesini sağlamak.,"Mevcut sınıf yapılarını yansıtan eğitim sistemleri, sosyal eşitsizliği azaltmaktan ziyade pekiştirme eğilimindedir."
+464,pragmatik,"Sorunlara teorik değil, pratik bir şekilde yaklaşmak.","Göç politikasına pragmatik bir yaklaşım, insani yükümlülükleri gerçekçi sosyal kapasiteyle dengeler."
+465,tehlikeli,Belirsiz ve muhtemelen kötüleşecek; istikrarsız.,"Sıfır saatlik sözleşmelerin yaygınlaşması, birçok işçiyi mali açıdan riskli ve güvencesiz bir duruma düşürdü."
+466,önleyici,Beklenen bir olayı önlemek için önceden harekete geçmek.,"Bazı hükümetler, yakın bir güvenlik tehdidiyle karşı karşıya kalındığında önleyici askeri harekatın haklı olduğunu savunmaktadır."
+467,yankı,Bir olayın veya eylemin dolaylı sonucu.,"Ticaret savaşları, doğrudan dahil olan ülkelerin çok ötesindeki ülkeler için de ciddi ekonomik sonuçlar doğurabilir."
+468,sıkı,"Sıkı, hassas ve zorlu uyumluluk.",Şirketlerin kirlilik maliyetlerini dış kaynaklara yüklemesini önlemek için sıkı çevre düzenlemeleri gereklidir.
+469,baltalamak,Bir şeyi yavaş yavaş zayıflatmak veya zarar vermek.,"Yaygın yolsuzluk, halkın demokratik kurumlara ve hukukun üstünlüğüne olan güvenini zedeliyor."
+470,yeniden kalibre et,Yeni koşullara yanıt olarak ayarlamak veya sıfırlamak.,"Hükümetler, hızla değişen küresel piyasa koşullarına yanıt olarak ekonomik politikalarını yeniden düzenlemek zorunda kalabilirler."
+471,kültürel uyum,Başka bir gruba ait kültürel özellikleri benimsemek.,"Göçmen topluluklarının kültürel uyum süreci, miras ve ev sahibi kültürün normları arasında karmaşık bir müzakereyi içerir."
+472,yargılamak,Resmi bir karar veya hüküm vermek.,"Uluslararası mahkemeler, ülkeler arasında ikili yollarla çözülemeyen anlaşmazlıkları karara bağlamak için vardır."
+473,zıt,Bir şeye doğrudan zıt veya onunla çelişkili.,"Konuşma özgürlüğünün bastırılması, liberal demokratik yönetimin temel ilkelerine aykırıdır."
+474,gelişmekte olan,Hızlı ve güçlü bir şekilde büyüyen veya gelişen.,"Güneydoğu Asya'da hızla büyüyen orta sınıf, tüketici talebinde benzeri görülmemiş bir artışa yol açıyor."
+475,birleşmek,Bir araya gelerek tek bir bütün oluşturmak.,"Birbirinden farklı aktivist gruplar, çevresel ve sosyal adalet konusunda ortak bir gündem etrafında birleşmeye başladılar."
+476,bilinçli,Bir şey hakkında bilgi sahibi olmak veya farkında olmak.,"Politika yapıcılar, sanayi gelişiminin uzun vadeli çevresel sonuçlarının tam olarak farkında olmalıdır."
+477,ters etki,İstenilen etkinin tam tersini yaratmak.,"Aşırı cezalandırıcı uyuşturucu politikaları, madde bağımlılığını azaltmak yerine suç oranını artırarak ters etki yaratabilir."
+478,döngüsel,Tekrarlanan bir dizi aracılığıyla düzenli olarak tekrar eden.,Yoksulluk genellikle döngüseldir ve yetersiz eğitim ve fırsatlara erişim nedeniyle nesilden nesile aktarılır.
+479,demagoji,Popülist duygusal çağrılar yoluyla siyasi manipülasyon.,"Demokratik toplumlarda demagojinin yükselişi, rasyonel ve kanıta dayalı yönetişim için ciddi bir tehdit oluşturmaktadır."
+480,endemik,Belirli bir bölgede düzenli olarak bulunan ve yaygın olan.,"Kamu kurumlarındaki yaygın yolsuzluk, ihtiyaç sahibi vatandaşlara etkili hizmet sunulmasını engelliyor."
+481,epistemik,Bilgiyle veya bilginin doğrulanma derecesiyle ilgili.,"Bilgiye dayalı alçakgönüllülük, kamu politikası oluştururken neleri bilebileceğimizin sınırlarını kabul etmeyi gerektirir."
+482,acil,Acil müdahale veya dikkat gerektiren; acil.,"Mülteci krizinin acil talepleri, acil ve koordineli bir uluslararası müdahale gerektiriyordu."
+483,sınır ötesi,Bölgesel sınırların ötesine uzanan veya bu sınırların ötesinde faaliyet gösteren.,"Bazı ülkeler, yurt dışında işlenen rüşvet suçları nedeniyle şirketleri yargılamak için uluslararası hukuk kurallarını uygulamaktadır."
+484,jeopolitik,Coğrafyanın etkilediği siyasetle ilgili.,"Kritik öneme sahip mineral kaynakları için yaşanan rekabet, büyük güçler arasındaki jeopolitik gerilimleri giderek artırıyor."
+485,heterojen,Çeşitli nitelikte veya farklı unsurlardan oluşmuş.,"Çeşitli bakış açılarına sahip heterojen bir iş gücü, daha büyük kurumsal inovasyonu teşvik edebilir."
+486,sezgisel,Deneme yanılma ve pratik yöntemler yoluyla keşfi mümkün kılmak.,"Davranışsal iktisat, bilişsel sezgisel yöntemlerin bireyleri sistematik olarak mantıksız kararlar almaya nasıl yönlendirebileceğini ortaya koymaktadır."
+487,melezleme,İki farklı elementi birleştirme süreci.,"Küreselleşmiş şehirlerdeki kültürel melezleşme, birden fazla gelenekten beslenen yeni yaratıcı biçimler ortaya çıkarıyor."
+488,değişmez,Zaman içinde değişmez; değiştirilmesi imkansızdır.,"Bazı filozoflar ahlaki gerçeklerin değişmez olduğunu savunurken, diğerleri bunların toplumla birlikte evrim geçirdiğini ileri sürer."
+489,amansız,Durdurulması veya önlenmesi imkansız; amansız.,"Deniz seviyesinin amansız yükselişi, dünya genelindeki alçak kıyı toplulukları için varoluşsal bir tehdit oluşturmaktadır."
+490,sinsi,"Yavaş yavaş, sinsice ve gizli bir şekilde zarar verir.","Bilinçsiz önyargı, işe alım kararları üzerinde sinsi bir etkiye sahip olabilir ve iş yerindeki sistemik eşitsizliği sürdürebilir."
+491,inatçı,"Yönetilmesi, çözülmesi veya ele alınması çok zor.","İsrail-Filistin çatışması, on yıllarca süren uluslararası diplomatik çabalara rağmen çözümsüz kalmıştır."
+492,çok yönlü,Birçok farklı yönü veya boyutu olan.,"İklim değişikliğiyle mücadele, teknolojik, politik ve davranışsal değişiklikleri birleştiren çok yönlü bir yaklaşım gerektirir."
+493,yeni başlayan,Henüz var olmaya veya gelişmeye yeni başlamış.,"Yenilenebilir enerji sektörüne yapılan yatırımlar, ülkelerin fosil yakıtlara olan bağımlılıktan kurtulmasına yardımcı olabilir."
+494,normatif,Davranış standartlarıyla ilgili veya bu standartları belirleyen.,"Cinsiyet rolleri hakkındaki normatif varsayımlar, eğitim ve iş yeri politikalarının tasarımını önemli ölçüde etkileyebilir."
+495,gizlemek,Bir şeyi belirsiz veya anlaşılması zor hale getirmek.,Siyasetçiler bazen halktan hoşlanmadıkları kararları gizlemek için teknik terimler kullanırlar.
+496,paradoksal,Görünüşte çelişkili ama muhtemelen doğru.,Bilgiye erişimin artmasının her zaman kamuoyunun siyasi katılımının artmasına yol açmaması paradoksal bir durumdur.
+497,simbiyotik,İki taraf arasında karşılıklı fayda sağlamayı içerir.,"Üniversiteler ve sanayi arasındaki karşılıklı bağımlılık ilişkisi, inovasyonu ve ekonomik rekabet gücünü artırır."
+498,geçici,Kısa süreliğine süren; geçici.,Emtia ihracatına dayalı ekonomik patlamalar genellikle geçicidir ve kalıcı kalkınma yaratmakta başarısız olur.
+499,her yerde bulunan,Aynı anda her yerde mevcut ve bulunuyor.,"Akıllı telefonlar o kadar yaygınlaştı ki, dijital dışlanma artık ciddi bir sosyal dezavantaj biçimi olarak kabul ediliyor."
+500,hegemonik,Başkaları üzerinde egemen güç sahibi olmakla ilgili.,"Eleştirmenler, hegemonik Batı kültürel normlarının genellikle küresel kurumlar aracılığıyla gelişmekte olan ülkelere dayatıldığını savunuyor."

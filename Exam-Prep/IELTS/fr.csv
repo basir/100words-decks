@@ -1,0 +1,501 @@
+id,front,back,example
+1,atteindre,Réussir à atteindre un objectif ou un résultat.,Les étudiants qui se fixent des objectifs clairs ont plus de chances de réussir leurs études.
+2,affecter,Avoir un impact ou une influence sur quelque chose.,La pollution atmosphérique peut nuire à la santé des populations urbaines.
+3,analyser,Examiner quelque chose en détail pour le comprendre.,Les chercheurs doivent analyser soigneusement les données avant de tirer des conclusions.
+4,approche,Une méthode ou une manière de traiter quelque chose.,Une approche holistique de l'éducation prend en compte les besoins sociaux et émotionnels des élèves.
+5,aspect,Une partie ou une caractéristique particulière de quelque chose.,Un aspect essentiel du développement durable est la réduction des émissions de carbone.
+6,évaluer,Évaluer ou juger la qualité de quelque chose.,Les gouvernements doivent évaluer l'impact environnemental des nouveaux projets industriels.
+7,supposer,Accepter quelque chose comme vrai sans preuve.,On suppose souvent que la croissance économique améliore automatiquement le niveau de vie.
+8,attitude,Une opinion ou un sentiment bien arrêté sur quelque chose.,L’opinion publique à l’égard des énergies renouvelables a considérablement évolué ces dernières années.
+9,disponible,Utilisable ou pouvant être obtenu.,"L'accès à Internet devrait être garanti à tous les citoyens, quel que soit leur revenu."
+10,avantage,Un avantage ou un résultat positif découlant de quelque chose.,L'exercice physique régulier offre de nombreux bienfaits pour la santé physique et mentale.
+11,cause,Quelque chose qui produit un effet ou un résultat.,La pauvreté est fréquemment citée comme une cause profonde des inégalités sociales.
+12,défi,Un problème ou une tâche difficile qui exige des efforts.,Le changement climatique représente l'un des plus grands défis auxquels est confrontée la société moderne.
+13,citoyen,Un membre légalement reconnu d'un État.,Il est du devoir de chaque citoyen de participer aux élections démocratiques.
+14,réclamer,Affirmer quelque chose comme une vérité ou revendiquer un droit.,Certains chercheurs affirment que les réseaux sociaux sont néfastes pour la santé mentale des adolescents.
+15,classer,Classer les choses par catégories ou groupes.,Les scientifiques classent les organismes selon leurs caractéristiques génétiques et physiques.
+16,communauté,Un groupe de personnes partageant un lieu ou un intérêt commun.,Des réseaux de soutien communautaires solides contribuent à réduire l'isolement social chez les personnes âgées.
+17,comparer,Examiner les similitudes et les différences entre les choses.,Cet essai comparera l'efficacité des systèmes de santé publics et privés.
+18,complexe,Composé de nombreuses parties interconnectées ; difficile à comprendre.,La relation entre pauvreté et criminalité est extrêmement complexe et multiforme.
+19,concept,Une idée abstraite ou un principe général.,Le concept de durabilité est central dans la politique environnementale moderne.
+20,préoccupation,Un souci ou un problème qui suscite de l'anxiété ou de l'intérêt.,L'inquiétude croissante face à la pollution plastique a incité de nombreux gouvernements à agir.
+21,conclure,Parvenir à une décision ou à un jugement après raisonnement.,L'étude conclut que l'exercice physique régulier réduit significativement le risque de dépression.
+22,condition,L'état ou les circonstances qui affectent quelque chose.,L’amélioration des conditions de vie dans les zones rurales demeure une priorité pour les décideurs politiques.
+23,conduire,Exécuter une activité ; un comportement ou une manière.,L'université mènera une étude longitudinale sur le bien-être des étudiants sur une période de cinq ans.
+24,conséquence,Un résultat ou un effet d'une action ou d'un événement.,La déforestation a de graves conséquences sur la biodiversité et les régimes climatiques mondiaux.
+25,considérer,Réfléchir attentivement avant de prendre une décision.,Les décideurs politiques doivent prendre en compte les conséquences à long terme du relèvement de l'âge de la retraite.
+26,consister,Être composé de parties.,"Un régime alimentaire équilibré doit comprendre des protéines, des glucides, des lipides, des vitamines et des minéraux."
+27,consommer,Utiliser une ressource ou manger/boire quelque chose.,Les pays développés consomment beaucoup plus de ressources naturelles par habitant que les pays en développement.
+28,contribuer,Contribuer à un effort ou à un résultat collectif.,Le bénévolat peut contribuer grandement au développement personnel et au bien-être de la communauté.
+29,contrôle,Réglementer ou avoir du pouvoir sur quelque chose.,Un contrôle gouvernemental plus strict des émissions industrielles est nécessaire pour lutter contre la pollution atmosphérique.
+30,créer,Faire exister quelque chose.,L'investissement dans les énergies renouvelables peut créer des milliers de nouveaux emplois dans tous les secteurs de l'économie.
+31,culture,"Les croyances, les coutumes et les arts d'une société.",La mondialisation a à la fois enrichi et menacé les cultures locales à travers le monde.
+32,données,Faits ou statistiques recueillis à des fins d'analyse.,Des données fiables sont essentielles à l'élaboration de politiques de santé publique efficaces.
+33,déclin,Diminuer ou devenir plus petit avec le temps.,Ces dernières décennies ont été marquées par un net déclin de la biodiversité dû à l'activité humaine.
+34,définir,Énoncer la signification ou la nature de quelque chose.,Il est important de définir clairement le terme « durabilité » avant d'aborder les solutions politiques.
+35,demande,Le besoin ou le désir d'un bien ou d'un service.,La demande croissante de véhicules électriques stimule l'innovation dans le domaine des technologies de batteries.
+36,dépendre,Compter sur quelqu'un ou quelque chose pour obtenir du soutien.,De nombreux pays en développement dépendent fortement de l'aide étrangère pour le développement de leurs infrastructures de base.
+37,décrire,Décrire quelque chose avec des mots.,Le rapport décrit une augmentation significative des températures moyennes mondiales depuis 1950.
+38,développer,"Grandir, progresser ou créer quelque chose de nouveau.",Les pays doivent développer une agriculture durable pour répondre aux besoins d'une population croissante.
+39,différence,Une façon dont les choses diffèrent les unes des autres.,Il existe une différence significative de niveaux de revenus entre les populations urbaines et rurales.
+40,distribuer,Répandre ou distribuer quelque chose sur une zone.,Les gouvernements ont la responsabilité de répartir équitablement les ressources publiques entre les citoyens.
+41,divers,Y compris de nombreux types ou variétés différents.,Une main-d'œuvre diversifiée apporte un plus large éventail de perspectives et d'idées à une organisation.
+42,économique,Relatif à la production et à l'utilisation de la monnaie.,Le développement économique rapide a sorti des millions de personnes de la pauvreté en Asie.
+43,éducation,Le processus de réception d'un enseignement systématique.,L'accès à une éducation de qualité est largement considéré comme un droit humain fondamental.
+44,effet,Un changement ou un résultat produit par une cause.,Les effets à long terme du manque de sommeil sur les fonctions cognitives sont bien documentés.
+45,émerger,Apparaître ou se faire connaître.,De nouvelles technologies continuent d'émerger comme solutions à la crise énergétique mondiale.
+46,employer,Embaucher quelqu'un pour travailler contre rémunération.,Le secteur manufacturier continue d'employer une part importante de la population active nationale.
+47,énergie,Énergie issue de ressources naturelles ou transformées.,La transition vers les sources d'énergie renouvelables est essentielle pour réduire les émissions de gaz à effet de serre.
+48,environnement,Le monde naturel ou l'environnement d'un organisme.,La protection de l'environnement naturel devrait être une priorité tant pour les gouvernements que pour les individus.
+49,établir,Mettre en place ou créer quelque chose de manière solide.,Le gouvernement a créé un nouvel organisme de réglementation chargé de superviser le secteur financier.
+50,évaluer,Évaluer la valeur ou la qualité de quelque chose.,Il est essentiel d'évaluer de manière critique les sources d'information avant de les citer.
+51,preuve,Des faits ou des informations étayant une conclusion.,Il existe de solides preuves empiriques liant le tabagisme à diverses maladies graves.
+52,examiner,Examiner ou inspecter quelque chose attentivement.,Cet essai examinera la relation entre les inégalités économiques et les taux de criminalité.
+53,développer,"Augmenter en taille, en nombre ou en portée.",De nombreuses entreprises cherchent à étendre leurs activités aux marchés émergents d'Asie.
+54,attendre,Croire que quelque chose se produira dans le futur.,On s'attend généralement à ce que l'automatisation transforme le paysage de l'emploi d'ici quelques décennies.
+55,expérience,Connaissances ou compétences acquises par la pratique.,Les stages en entreprise permettent aux étudiants de développer des compétences pratiques pour leur futur emploi.
+56,expliquer,Clarifier quelque chose en le décrivant.,La capacité de la professeure à expliquer clairement des théories complexes lui a valu un grand respect.
+57,facteur,Un élément qui contribue à un résultat.,L'alimentation et l'exercice physique sont des facteurs clés pour déterminer la santé à long terme d'un individu.
+58,fonctionnalité,Une caractéristique ou un attribut distinctif de quelque chose.,Un élément clé d'une planification urbaine réussie est la mise à disposition d'espaces verts accessibles.
+59,se concentrer,Concentrer son attention ou ses efforts sur quelque chose.,La politique gouvernementale devrait se concentrer sur la fourniture de logements abordables aux familles à faibles revenus.
+60,fonction,Le but ou le rôle que quelque chose est conçu pour remplir.,La fonction principale du système immunitaire est de protéger l'organisme contre les maladies.
+61,générer,Produire ou créer quelque chose.,Les panneaux solaires peuvent produire suffisamment d'électricité pour alimenter une maison entière.
+62,mondial,Relatif au monde entier ou le couvrant.,La coopération mondiale est essentielle pour relever efficacement les défis du changement climatique.
+63,gouverner,Contrôler ou diriger un pays ou une organisation.,Les nations démocratiques doivent être gouvernées de manière à refléter la volonté du peuple.
+64,croissance,Le processus d'augmentation de la taille ou de la valeur.,Une croissance économique soutenue est nécessaire pour réduire le chômage et améliorer le niveau de vie.
+65,nuire,Dommages physiques ou psychologiques causés à quelque chose.,L’utilisation excessive des réseaux sociaux peut causer des dommages psychologiques aux jeunes vulnérables.
+66,santé,L'état d'être exempt de maladie ou de blessure.,Les gouvernements doivent investir dans les infrastructures de santé publique pour prévenir la propagation des maladies.
+67,impact,Un effet ou une influence importante sur quelque chose.,L'urbanisation a un impact significatif sur les écosystèmes locaux et les ressources en eau.
+68,mettre en œuvre,Mettre en œuvre un plan ou une décision.,Le gouvernement prévoit de mettre en œuvre de nouvelles réglementations pour réduire les émissions de carbone industrielles.
+69,améliorer,Améliorer ou devenir de meilleure qualité.,L'investissement dans l'éducation est le moyen le plus efficace d'améliorer les résultats économiques à long terme.
+70,augmenter,Devenir ou augmenter la quantité de quelque chose.,Le nombre de véhicules électriques vendus dans le monde a connu une augmentation spectaculaire.
+71,indiquer,Montrer ou désigner quelque chose comme probable.,Des études récentes indiquent qu'une activité physique régulière réduit le risque de maladies chroniques.
+72,individuel,"Une personne seule, distincte d'un groupe.",La protection des droits individuels est une pierre angulaire de toute société démocratique.
+73,influence,Le pouvoir d'avoir un effet sur les personnes ou les choses.,Les réseaux sociaux exercent une profonde influence sur les opinions politiques des jeunes.
+74,infrastructure,Systèmes physiques de base soutenant une communauté.,Investir dans les infrastructures de transport est essentiel pour stimuler le développement économique régional.
+75,initiative,Un nouveau plan ou une nouvelle action visant à résoudre un problème.,"Le gouvernement a lancé une nouvelle initiative pour encourager les jeunes à s'orienter vers des carrières dans les domaines des sciences, de la technologie, de l'ingénierie et des mathématiques (STEM)."
+76,institution,Une organisation établie ayant une vocation sociale.,Les institutions démocratiques doivent rester indépendantes pour garantir une société juste et équitable.
+77,impliquer,Inclure ou exiger quelque chose comme partie intégrante.,Une planification urbaine efficace doit impliquer activement les résidents dans le processus décisionnel.
+78,problème,Un sujet ou un problème important à discuter.,Le changement climatique est l'un des problèmes les plus urgents auxquels la communauté internationale est confrontée aujourd'hui.
+79,justifier,Démontrer ou prouver que quelque chose est juste ou raisonnable.,Les gouvernements doivent pouvoir justifier l'augmentation des dépenses de défense auprès de leurs citoyens.
+80,manque,Une absence ou une pénurie de quelque chose de nécessaire.,Le manque d'accès à l'eau potable demeure un défi majeur dans les pays en développement.
+81,limite,Un point au-delà duquel quelque chose ne peut aller.,Les nations doivent s'entendre sur des limites juridiquement contraignantes en matière d'émissions de dioxyde de carbone.
+82,maintenir,Maintenir quelque chose dans son état ou sa condition actuelle.,Il est de plus en plus difficile de préserver la biodiversité dans les zones fortement urbanisées.
+83,majeur,D'une grande importance ou d'une gravité considérable.,La pollution atmosphérique constitue un problème majeur de santé publique dans de nombreuses grandes villes du monde.
+84,gérer,Être responsable de quelque chose ou le contrôler.,Le développement durable exige des gouvernements qu'ils gèrent soigneusement les ressources naturelles.
+85,mesure,Une action entreprise pour atteindre un objectif ; quantifier.,Les gouvernements doivent prendre des mesures décisives pour s'attaquer au problème croissant du chômage des jeunes.
+86,méthode,Une manière particulière de faire quelque chose de façon systématique.,Les scientifiques doivent adopter des méthodes de recherche rigoureuses pour garantir la validité de leurs résultats.
+87,émigrer,Se déplacer d'une région ou d'un pays à un autre.,De nombreux travailleurs ruraux migrent vers les villes à la recherche de meilleures opportunités d'emploi.
+88,moderne,Relatif à l'époque actuelle ; contemporain.,Les technologies modernes ont fondamentalement changé la façon dont les gens communiquent et accèdent à l'information.
+89,moniteur,Observer et vérifier quelque chose au fil du temps.,Les autorités sanitaires doivent surveiller en permanence la qualité de l'air dans les zones urbaines densément peuplées.
+90,national,Relatif à ou typique d'une nation entière.,Le gouvernement a mis en place un programme national afin d'uniformiser l'éducation dans tout le pays.
+91,naturel,Existant dans la nature ou produit par elle.,La surexploitation des ressources naturelles constitue une grave menace pour la durabilité écologique.
+92,nécessaire,Obligatoire ou absolument nécessaire.,Il est nécessaire que les gouvernements investissent dans les infrastructures pour soutenir la croissance économique.
+93,négatif,Nuisible ou défavorable par nature ou par effet.,L'exposition prolongée au harcèlement en ligne peut avoir de graves conséquences négatives sur la santé mentale.
+94,obtenir,Obtenir ou acquérir quelque chose par l'effort.,Les étudiants doivent obtenir une note minimale pour être admissibles aux programmes de bourses universitaires.
+95,se produire,Se produire ou avoir lieu.,On prévoit que les catastrophes naturelles seront plus fréquentes en raison du changement climatique.
+96,opportunité,Une situation favorable qui permet le progrès.,L'accès à une éducation de qualité offre aux jeunes de meilleures perspectives économiques.
+97,résultat,Le résultat ou la conséquence d'une action.,Les programmes d'intervention précoce tendent à produire de meilleurs résultats scolaires pour les enfants.
+98,participer,Participer à une activité ou à un événement.,Il convient d'encourager les citoyens à participer activement à la prise de décision au niveau local.
+99,politique,Un plan ou une ligne de conduite adoptés par une autorité.,Une politique énergétique efficace est essentielle pour réduire l'empreinte carbone d'un pays.
+100,polluer,Contaminer l'environnement avec des substances nocives.,Les activités industrielles continuent de polluer les rivières et de nuire aux écosystèmes aquatiques à l'échelle mondiale.
+101,population,Tous les habitants d'un lieu donné.,Le vieillissement de la population pose des défis importants aux systèmes de retraite et de santé.
+102,positif,Qui a un effet bénéfique ou positif.,Une attitude positive envers l'apprentissage tout au long de la vie peut améliorer considérablement les perspectives de carrière.
+103,potentiel,Avoir la capacité de développer ou de réaliser quelque chose.,L'intelligence artificielle a le potentiel de transformer le diagnostic et le traitement des soins de santé.
+104,prévenir,Pour empêcher quelque chose de se produire.,Les programmes de vaccination constituent l'un des moyens les plus efficaces de prévenir la propagation des maladies.
+105,primaire,Le plus important ou premier par ordre de priorité.,L'objectif premier de tout système de santé devrait être de protéger et de promouvoir le bien-être.
+106,processus,Une série d'étapes pour atteindre un résultat.,Le processus démocratique repose sur l'accès des citoyens à une information impartiale et exacte.
+107,produire,Fabriquer ou créer quelque chose.,Les usines qui produisent des niveaux élevés d'émissions doivent être soumises à des réglementations plus strictes.
+108,promouvoir,Soutenir ou encourager le développement de quelque chose.,Les campagnes de promotion de saines habitudes alimentaires peuvent contribuer à réduire les taux d'obésité infantile.
+109,proposer,Proposer un plan ou une suggestion.,Plusieurs économistes ont proposé une taxe carbone comme solution pour réduire les émissions.
+110,protéger,Pour se protéger de tout danger ou dommage.,Les gouvernements ont le devoir de protéger les citoyens des conséquences de la pollution environnementale.
+111,fournir,Mettre quelque chose à la disposition de quelqu'un.,L’État doit fournir des services de santé de base à tous les citoyens sans discrimination.
+112,but,La raison d'être de quelque chose ou de ce qui est fait.,L'objectif principal de l'enseignement supérieur est de doter les étudiants de compétences en pensée critique.
+113,augmenter,Accroître ou attirer l'attention sur un sujet.,Les organisations internationales continuent de sensibiliser l'opinion publique aux effets du changement climatique.
+114,réduire,Réduire la quantité de quelque chose.,Le gouvernement vise à réduire les émissions de carbone de 50 % au cours des vingt prochaines années.
+115,refléter,Montrer ou réfléchir profondément à quelque chose.,Les politiques gouvernementales doivent refléter fidèlement les besoins et les valeurs de l'ensemble de la population.
+116,région,Une vaste zone aux caractéristiques distinctes.,Le développement économique varie considérablement entre les régions côtières et les régions intérieures du pays.
+117,réglementer,Contrôler quelque chose au moyen de règles.,Les gouvernements doivent réglementer l'utilisation des plateformes de médias sociaux afin de protéger les jeunes utilisateurs.
+118,se rapporter,Avoir un lien ou une connexion avec quelque chose.,Les fortes inégalités sont étroitement liées à l'augmentation des taux de criminalité et des troubles sociaux.
+119,libérer,Permettre à quelque chose d'être libéré ou déchargé.,Les procédés industriels continuent de rejeter de grandes quantités de polluants dans l'atmosphère.
+120,compter sur,Dépendre de quelqu'un ou de quelque chose.,De nombreux pays en développement dépendent encore fortement des combustibles fossiles pour leurs besoins énergétiques.
+121,représenter,Défendre ou agir au nom de quelque chose.,Les élus ont le devoir de représenter équitablement les intérêts de leurs électeurs.
+122,exiger,Avoir besoin de quelque chose d'essentiel ou d'obligatoire.,La lutte contre le changement climatique exige une coopération internationale urgente et un engagement politique fort.
+123,recherche,Enquête systématique visant à établir de nouveaux faits.,Des investissements importants dans la recherche médicale sont nécessaires pour lutter contre les maladies infectieuses émergentes.
+124,ressource,Une ressource pouvant être utilisée dans un but précis.,Les nations doivent gérer leurs ressources naturelles de manière responsable afin d'assurer une durabilité à long terme.
+125,répondre,Réagir ou répondre à quelque chose.,Les gouvernements doivent réagir rapidement aux catastrophes naturelles afin de minimiser le nombre de victimes et les souffrances.
+126,résultat,Ce qui découle d'une action.,Une mauvaise alimentation et un mode de vie sédentaire entraînent souvent de graves problèmes de santé à long terme.
+127,retenir,Continuer à conserver ou à détenir quelque chose.,Les entreprises doivent élaborer de meilleures stratégies pour fidéliser leurs employés talentueux sur des marchés concurrentiels.
+128,révéler,Révéler quelque chose qui était auparavant caché.,Des recherches récentes révèlent une forte corrélation entre les inégalités de revenus et les mauvais résultats en matière de santé.
+129,rôle,La fonction ou la position qu'occupe une personne ou une chose.,L'éducation joue un rôle crucial dans la réduction des inégalités sociales et la promotion de la mobilité sociale.
+130,rural,Relatif à la campagne plutôt qu'aux villes.,Les communautés rurales n'ont souvent pas accès aux mêmes ressources éducatives que les populations urbaines.
+131,secteur,Une partie distincte de l'économie ou de la société.,Le secteur public joue un rôle essentiel dans la prestation de services indispensables aux citoyens.
+132,significatif,Suffisamment important ou grand pour avoir un effet.,On a constaté une réduction statistiquement significative des taux de criminalité au cours des dernières décennies.
+133,société,Une communauté de personnes vivant ensemble.,Une société juste et équitable doit garantir l'égalité des chances à tous ses citoyens.
+134,solution,Une façon de résoudre un problème.,La coopération internationale est nécessaire pour trouver des solutions durables au changement climatique mondial.
+135,source,L'origine ou la fourniture de quelque chose.,Les chercheurs doivent citer des sources fiables lorsqu'ils présentent des preuves dans des travaux universitaires.
+136,standard,Un niveau de qualité ou de réussite attendu.,L'élévation du niveau d'éducation est considérée comme essentielle pour améliorer la compétitivité économique nationale.
+137,stratégie,Un plan conçu pour atteindre un objectif à long terme.,Le gouvernement a dévoilé une nouvelle stratégie nationale pour lutter contre la hausse des taux d'obésité.
+138,structure,L'agencement organisé des parties d'un objet.,Des structures sociales rigides peuvent entraver la mobilité sociale ascendante et perpétuer les inégalités.
+139,suggérer,Proposer une idée ou une possibilité.,Des études suggèrent que l'éducation préscolaire a des effets bénéfiques durables sur le développement cognitif.
+140,soutien,Apporter son aide ou plaider en faveur de quelque chose.,Le soutien financier des gouvernements aux petites entreprises est crucial en période de ralentissement économique.
+141,soutenir,Maintenir ou faire perdurer quelque chose dans le temps.,Il est essentiel d'adopter des politiques qui soutiennent la croissance économique sans nuire à l'environnement.
+142,système,Un ensemble organisé d'éléments interdépendants.,Un système de santé bien financé est essentiel pour maintenir une population saine et productive.
+143,cible,Un objectif ou un groupe visant spécifiquement.,Les pays doivent se fixer des objectifs ambitieux de réduction des émissions de gaz à effet de serre d'ici à 2050.
+144,technologie,Connaissances scientifiques appliquées à des fins pratiques.,Les progrès technologiques ont rendu possible l'accès à l'information partout dans le monde.
+145,tendre,Avoir une inclination générale pour quelque chose.,Les pays les plus riches ont tendance à produire davantage d'émissions de carbone par habitant que les pays en développement.
+146,théorie,Un système d'idées utilisé pour expliquer les phénomènes.,La théorie de l'évolution de Darwin a fondamentalement changé notre compréhension de la vie sur Terre.
+147,traditionnel,Fondé sur des coutumes et des pratiques établies de longue date.,La mondialisation a remis en question les valeurs traditionnelles et les identités culturelles dans de nombreuses sociétés.
+148,transformer,Changer complètement la forme ou la nature de quelque chose.,Les technologies numériques ont le pouvoir de transformer la façon dont les gens travaillent et communiquent.
+149,s'orienter,Une direction générale dans laquelle quelque chose évolue.,La tendance mondiale à l'urbanisation ne montre aucun signe de ralentissement dans les décennies à venir.
+150,urbain,Relatif à une ville ou caractéristique d'une ville.,Le développement urbain rapide a exercé une pression énorme sur les infrastructures de transport public.
+151,valeur,L'importance ou la valeur attribuée à quelque chose.,Des valeurs fondamentales telles que l'égalité et la justice sous-tendent la plupart des constitutions démocratiques modernes.
+152,varier,Être différent ou changer en fonction des conditions.,L'espérance de vie varie considérablement d'un pays à l'autre en fonction du revenu et de la qualité des soins de santé.
+153,victime,Une personne lésée par un crime ou un malheur.,Des systèmes de soutien adéquats doivent être mis en place pour aider les victimes de violence domestique à se rétablir.
+154,bien-être,"La santé, le bonheur et le bien-être d'une personne.",L’État-providence offre un filet de sécurité aux citoyens pendant les périodes de chômage ou de maladie.
+155,accéder,La capacité ou le droit d'obtenir ou d'utiliser quelque chose.,Garantir l'égalité d'accès aux soins de santé est une obligation fondamentale de tout gouvernement juste.
+156,adapter,S'adapter à de nouvelles conditions ou circonstances.,Les entreprises doivent s'adapter en permanence à l'évolution rapide des conditions du marché pour rester compétitives.
+157,adresse,Aborder ou parler d'un problème.,Les décideurs politiques doivent s'attaquer d'urgence au problème croissant du sans-abrisme dans les grandes villes.
+158,adéquat,Satisfaisant ou suffisant pour un usage particulier.,Chaque enfant a le droit de recevoir une éducation et une alimentation de qualité adéquate.
+159,agence,Une organisation agissant pour le compte d'une autre ; autonomie.,Une agence gouvernementale a été créée spécifiquement pour superviser les questions de protection de l'environnement.
+160,argumenter,Présenter des arguments à l'appui d'une position.,De nombreux économistes affirment que le libre-échange profite aussi bien aux pays en développement qu'aux pays développés.
+161,conscient,Avoir connaissance ou conscience de quelque chose.,Les jeunes sont de plus en plus conscients des conséquences du changement climatique sur leur avenir.
+162,équilibre,Une distribution égale ou un équilibre stable.,Il est nécessaire d'adopter une approche équilibrée qui favorise la croissance économique tout en protégeant l'environnement.
+163,barrière,Un élément qui empêche l'accès ou la progression.,Les obstacles financiers continuent d'empêcher de nombreux étudiants talentueux d'accéder à l'enseignement supérieur.
+164,comportement,La manière dont une personne ou un organisme agit.,Les programmes éducatifs peuvent modifier efficacement les comportements et promouvoir des choix de vie plus sains.
+165,budget,Une estimation des recettes et des dépenses pour une période donnée.,Les gouvernements doivent consacrer une part suffisante du budget national à l'éducation publique.
+166,capital,La richesse utilisée pour générer des revenus ; le siège du gouvernement d'un pays.,Investir dans le capital humain par le biais de l'éducation génère des retours économiques importants à long terme.
+167,graphique,Une représentation visuelle des données ; enregistrer les données.,Le graphique illustre une augmentation constante des températures moyennes mondiales de 1980 à 2020.
+168,choix,Une sélection effectuée parmi les alternatives disponibles.,Les gouvernements devraient respecter le choix individuel tout en veillant à ce que les citoyens soient bien informés.
+169,collecter,Rassembler des éléments ou des informations.,Les chercheurs recueillent des données auprès de milliers de participants afin de garantir la fiabilité statistique.
+170,commettre,S'engager ou se consacrer à une ligne de conduite.,Les nations doivent s'engager par des accords contraignants pour réduire significativement leurs émissions de gaz à effet de serre.
+171,communiquer,Partager ou échanger des informations efficacement.,La capacité à communiquer clairement et de manière persuasive est essentielle dans la vie académique et professionnelle.
+172,rivaliser,Lutter contre les autres pour atteindre le même objectif.,Les nations doivent investir dans l'éducation et l'innovation pour être compétitives dans l'économie mondiale.
+173,conflit,Un désaccord grave ou une lutte prolongée.,Les conflits armés continuent de déplacer des millions de personnes dans différentes régions du monde.
+174,contracter,Un accord légal formel entre les parties.,Les travailleurs doivent toujours lire attentivement un contrat de travail avant de signer tout document.
+175,faire face,Pour gérer efficacement une situation difficile.,De nombreuses communautés peinent à faire face à la fréquence croissante des catastrophes naturelles.
+176,corrompu,Malhonnête ou prêt à agir de manière contraire à l'éthique pour en tirer profit.,Les fonctionnaires corrompus qui détournent les fonds publics sapent la confiance que les citoyens placent dans le gouvernement.
+177,coût,Le montant nécessaire pour acheter ou faire quelque chose.,La hausse du coût de la vie rend l'accès au logement de plus en plus difficile pour les familles à faibles revenus.
+178,crime,Un acte illégal punissable par la loi.,S’attaquer aux causes profondes de la pauvreté est essentiel pour réduire les taux de criminalité violente.
+179,crise,Une période de grande difficulté ou de danger.,La crise financière mondiale de 2008 a démontré à quel point les économies modernes sont devenues interconnectées.
+180,critique,Nécessitant une analyse approfondie ; d'une grande importance.,La pensée critique est une compétence essentielle pour analyser les problèmes complexes dans la vie académique et professionnelle.
+181,diminuer,Diminuer en taille ou en quantité.,On observe une diminution constante du nombre de personnes vivant dans l'extrême pauvreté à l'échelle mondiale.
+182,démocratie,Un système de gouvernement par des représentants élus.,Une démocratie dynamique repose sur des citoyens bien informés et une presse libre.
+183,détecter,Découvrir ou identifier la présence de quelque chose.,Les outils de dépistage avancés permettent de détecter certains cancers à un stade précoce et plus facile à traiter.
+184,maladie,Une maladie causée par une infection ou un dysfonctionnement.,Prévenir la propagation des maladies infectieuses nécessite des investissements importants dans les infrastructures de santé publique.
+185,domestique,Relatif à la maison ou à son propre pays.,Les décisions de politique intérieure peuvent avoir des conséquences importantes sur la réputation internationale d'une nation.
+186,dominer,Avoir le plus de pouvoir ou d'influence sur les autres.,Un petit nombre de sociétés multinationales dominent le commerce mondial de la production alimentaire.
+187,économie,Le système de production et de consommation d'un pays.,La diversification de l'économie nationale réduit la vulnérabilité d'un pays aux chocs des prix des matières premières.
+188,émission,La production et le rejet de gaz dans l'atmosphère.,La réduction des émissions de carbone est un élément central des efforts internationaux déployés pour lutter contre le changement climatique.
+189,imposer,Pour contraindre au respect d'une loi ou d'un règlement.,"Sans ressources adéquates, les gouvernements ne peuvent pas appliquer efficacement les lois de protection de l'environnement."
+190,identifier,Reconnaître ou établir l'identité de quelque chose.,L'étude vise à identifier les principaux facteurs contribuant à la hausse du chômage des jeunes.
+191,observer,Observer attentivement ou remarquer quelque chose.,Les scientifiques observent le comportement animal dans leurs habitats naturels afin de mieux comprendre les systèmes écologiques.
+192,catégorie,Une classe ou un groupe de choses ayant des qualités communes.,"Le rapport divise les déchets en trois grandes catégories : recyclables, organiques et dangereux."
+193,principe,Une vérité fondamentale ou une règle guidant le comportement.,Le principe d'égalité sous-tend le droit international des droits de l'homme et la gouvernance démocratique.
+194,publier,Mettre des informations ou des travaux à la disposition du public.,Les chercheurs doivent publier leurs résultats dans des revues scientifiques crédibles pour contribuer à l'avancement des connaissances scientifiques.
+195,innover,Introduire de nouvelles idées ou méthodes.,Les entreprises qui n'innovent pas risquent d'être devancées sur le marché par des concurrents plus agiles.
+196,intégrer,Combiner ou incorporer des parties en un tout.,Des politiques efficaces sont nécessaires pour aider les réfugiés à s'intégrer dans leurs communautés d'accueil.
+197,allouer,Répartir les ressources dans un but précis.,Les gouvernements doivent allouer des fonds suffisants pour maintenir et améliorer les services de santé publique.
+198,coordonner,Organiser des personnes ou des groupes pour qu'ils travaillent ensemble.,Les agences internationales doivent coordonner leurs efforts de secours en cas de catastrophe afin d'en maximiser l'efficacité.
+199,débat,Une discussion formelle des points de vue opposés.,Les effets à long terme de la mondialisation sur les inégalités font l'objet d'un débat permanent parmi les économistes.
+200,exposer,Révéler ou laisser sans protection face à quelque chose.,Les enfants exposés à la violence dans les médias peuvent développer une insensibilité face à la violence.
+201,accélérer,Augmenter la vitesse ou le rythme.,L'innovation technologique a accéléré la croissance économique dans de nombreux pays en développement.
+202,accommoder,Prévoir de l'espace ou s'adapter aux besoins.,Les villes doivent développer leurs infrastructures pour accueillir la population urbaine croissante.
+203,accumuler,Se rassembler ou s'accumuler progressivement au fil du temps.,"Dans les pays développés, les ménages ont tendance à accumuler davantage de richesses au fil des générations."
+204,reconnaître,Reconnaître ou admettre l'existence de quelque chose.,Les gouvernements doivent reconnaître le rôle de la pauvreté dans la formation des inégalités sociales.
+205,acquisition,L'action d'obtenir ou de gagner quelque chose.,L'acquisition précoce du langage est essentielle à la réussite scolaire à long terme d'un enfant.
+206,négatif,Nocif ou ayant un effet défavorable.,Une exposition prolongée à la pollution peut avoir des effets néfastes sur la santé publique.
+207,avocat,Soutenir publiquement une cause ou une politique.,De nombreux éducateurs préconisent des classes de taille réduite pour améliorer les résultats d'apprentissage.
+208,soulager,Pour atténuer une souffrance ou un problème.,Les programmes d'aide étrangère visent à réduire la pauvreté dans les pays les moins développés du monde.
+209,ambitieux,Avoir une forte volonté d'atteindre des objectifs ambitieux.,Le gouvernement s'est fixé un objectif ambitieux : réduire les émissions de carbone de 50 % d'ici 2030.
+210,amplifier,Augmenter la force ou l'effet de quelque chose.,"Les réseaux sociaux peuvent amplifier le débat public, mais aussi propager rapidement la désinformation."
+211,anticiper,Prédire ou anticiper quelque chose avant que cela ne se produise.,Les décideurs politiques doivent anticiper les évolutions démographiques futures lorsqu'ils planifient les services publics.
+212,apparent,Clairement visible ou évident ; qui semble vrai.,Il est évident que l'accès à une éducation de qualité reste inégal selon les classes sociales.
+213,attribut,Considérer quelque chose comme étant causé par un facteur.,Les chercheurs attribuent l'augmentation de l'obésité principalement à de mauvaises habitudes alimentaires et à la sédentarité.
+214,autonome,"Agir de manière indépendante, sans contrôle extérieur.",Les véhicules autonomes devraient transformer l'industrie mondiale des transports.
+215,biodiversité,Diversité de la faune et de la flore dans un habitat.,La déforestation constitue une menace importante pour la biodiversité des forêts tropicales humides.
+216,fardeau,Une lourde charge ou responsabilité ; surcharger.,La hausse des coûts des soins de santé représente un fardeau considérable pour les particuliers comme pour les gouvernements.
+217,capacité,La quantité maximale qu'un objet peut contenir ou faire.,Les pays en développement doivent renforcer leurs capacités institutionnelles pour lutter efficacement contre le changement climatique.
+218,empreinte carbone,Total des gaz à effet de serre produits par une entité.,Les individus peuvent réduire considérablement leur empreinte carbone en adoptant un régime alimentaire à base de plantes.
+219,chronique,Persistant longtemps ; récurrent constamment.,Le chômage chronique en milieu rural contribue à la pauvreté généralisée et à l'exclusion sociale.
+220,civique,En lien avec les citoyens et leurs responsabilités.,L'engagement civique est essentiel au maintien d'une démocratie saine et fonctionnelle.
+221,collaboration,Travailler en collaboration avec d'autres pour atteindre un objectif.,La collaboration internationale est nécessaire pour relever les défis mondiaux tels que le changement climatique.
+222,compétence,La capacité de faire quelque chose efficacement.,Les employeurs valorisent de plus en plus les compétences numériques au même titre que les qualifications académiques traditionnelles.
+223,conformité,"Se conformer aux règles, aux normes ou aux lois.",Le strict respect des réglementations environnementales est essentiel au développement industriel durable.
+224,complet,Y compris tous les aspects ; de manière approfondie et complète.,Une approche globale de la santé publique doit prendre en compte à la fois la prévention et le traitement.
+225,contrainte,Une limitation ou une restriction d'action.,Les contraintes budgétaires empêchent souvent les gouvernements d'investir suffisamment dans les infrastructures publiques.
+226,consommation,"L'utilisation de biens, de ressources ou d'énergie.",Réduire la consommation d'énergie est une stratégie clé pour lutter contre le changement climatique à l'échelle mondiale.
+227,contemporain,Existant ou se produisant au présent.,La société contemporaine est confrontée à des défis sans précédent liés aux technologies numériques et à la protection de la vie privée.
+228,controversé,Provoquer de forts désaccords ou débats.,Le recours à l'énergie nucléaire demeure un sujet très controversé dans les débats environnementaux.
+229,corrélatif,Pour montrer une relation mutuelle entre deux choses.,Les recherches montrent que des niveaux d'éducation plus élevés sont fortement corrélés à de meilleurs résultats économiques.
+230,programme d'études,Matières enseignées dans une école ou un cours.,De nombreux éducateurs estiment que le programme scolaire national devrait inclure davantage de compétences en matière de pensée critique.
+231,déboisement,Déboisement à grande échelle par l'homme.,La déforestation en Amazonie est principalement due à l'expansion agricole et à l'élevage bovin.
+232,démographique,Données statistiques relatives à un groupe de population.,L’évolution démographique vers une population vieillissante exercera une pression considérable sur les systèmes de retraite.
+233,épuiser,Réduire ou épuiser les stocks de quelque chose.,La surpêche continue d'épuiser les ressources marines à un rythme alarmant et non durable.
+234,détériorer,Se dégrader progressivement.,"Sans intervention urgente, les conditions environnementales dans les zones urbaines continueront de se détériorer."
+235,numérique,Relatif à l'informatique et à Internet.,La fracture numérique entre pays riches et pays pauvres risque d'aggraver encore les inégalités mondiales.
+236,diminuer,Réduire ou diminuer son importance.,L'automatisation pourrait réduire la demande de main-d'œuvre peu qualifiée dans les secteurs manufacturiers.
+237,divergence,Une différence entre des choses qui devraient correspondre.,Il existe un décalage notable entre les objectifs affichés par le gouvernement et ses politiques réelles.
+238,discrimination,Traitement injuste fondé sur l'appartenance à un groupe.,La discrimination au travail à l'égard des femmes demeure un obstacle important à l'égalité des sexes.
+239,disparité,Une grande différence entre les choses ou les groupes.,L'accroissement des inégalités de richesse entre les citoyens les plus riches et les plus pauvres menace la cohésion sociale.
+240,déplacement,Expulsion forcée des personnes de leur domicile.,Les conflits armés ont provoqué le déplacement de millions de personnes à travers le Moyen-Orient.
+241,perturbation,Une perturbation qui interrompt l'activité normale.,L'innovation numérique a profondément bouleversé les modèles commerciaux et les industries traditionnels.
+242,dominant,"Le plus puissant, le plus important ou le plus influent.",L'anglais est devenu la langue dominante du commerce international et de la recherche universitaire.
+243,sécheresse,Une période prolongée de précipitations anormalement faibles.,La sécheresse prolongée en Afrique subsaharienne a dévasté la production agricole et la sécurité alimentaire.
+244,écologique,Relatif aux relations entre les organismes et leur environnement.,Les pratiques agricoles industrielles ont causé de graves dommages écologiques aux sols et aux cours d'eau.
+245,accent,Importance particulière accordée à quelque chose.,On accorde une importance croissante au développement des compétences transversales dans les programmes scolaires modernes.
+246,épidémie,Une maladie qui se propage largement dans une région.,L'épidémie d'obésité dans les pays riches est liée à la sédentarité et à une mauvaise alimentation.
+247,égalité,L'état d'égalité des droits et des chances.,Parvenir à l'égalité des sexes sur le lieu de travail nécessite à la fois une réforme législative et un changement culturel.
+248,éthique,Relatif aux principes moraux et à la bonne conduite.,L’utilisation de l’intelligence artificielle soulève d’importantes questions éthiques concernant la vie privée et la responsabilité.
+249,dépense,La somme d'argent dépensée pour quelque chose.,L'augmentation des dépenses publiques en matière d'éducation peut engendrer d'importants bénéfices économiques à long terme.
+250,exploiter,Utiliser une ressource de manière abusive ou en faire un mauvais usage.,Les entreprises multinationales ont été critiquées pour leur exploitation de la main-d'œuvre bon marché dans les pays en développement.
+251,extinction,La disparition complète d'une espèce.,L'activité humaine pousse de nombreuses espèces végétales et animales vers une extinction rapide.
+252,faciliter,Faciliter une action ou un processus.,L'amélioration des infrastructures de transport peut faciliter le commerce et stimuler considérablement le développement économique.
+253,fiscal,Relatif aux recettes et à la fiscalité publiques.,Les gouvernements doivent adopter des politiques budgétaires prudentes afin d'éviter une accumulation excessive de la dette nationale.
+254,flexible,Capable de s'adapter facilement aux conditions changeantes.,Il a été démontré que des modalités de travail flexibles améliorent le bien-être et la productivité des employés.
+255,combustibles fossiles,Source d'énergie formée à partir de matière organique ancienne.,La combustion continue des énergies fossiles est la principale cause du changement climatique mondial.
+256,fragile,Facilement cassable ou endommageable ; délicat et vulnérable.,"Les petits États insulaires possèdent des écosystèmes particulièrement fragiles, menacés par la montée du niveau de la mer."
+257,cadre,Une structure ou un système de base pour guider l'action.,Un cadre juridique clair est nécessaire pour réglementer de manière éthique l'utilisation de l'intelligence artificielle.
+258,fondamental,Constituer une base ou un noyau essentiel.,L'accès à l'eau potable est un droit humain fondamental dont beaucoup de personnes sont encore privées.
+259,mondialisation,Intégration économique et culturelle mondiale croissante.,"La mondialisation a créé de nouvelles opportunités commerciales, mais elle a également accru la concurrence économique."
+260,soins de santé,Fourniture organisée de services médicaux à la population.,"L'accès universel aux soins de santé garantit à tous les citoyens l'accès à des soins médicaux, quel que soit leur revenu."
+261,hypothèse,Une explication proposée qui nécessite des tests supplémentaires.,Le chercheur a émis l'hypothèse que l'alimentation influence directement le développement cognitif chez l'enfant.
+262,identique,Identiques en tous points.,L'étude a révélé des résultats quasi identiques dans deux groupes ayant des niveaux d'éducation différents.
+263,implication,Une conséquence probable ou une signification suggérée.,L'essor de l'automatisation a des conséquences importantes sur l'emploi et la répartition des revenus à l'avenir.
+264,incitation,Quelque chose qui encourage une action souhaitée.,Les incitations fiscales peuvent encourager les entreprises à investir dans les technologies des énergies renouvelables.
+265,inégalité,Répartition inégale des ressources ou des opportunités.,L’accroissement des inégalités de revenus est l’un des défis sociaux les plus urgents de l’ère moderne.
+266,inévitable,C'est certain ; impossible à éviter.,Certains économistes affirment que le chômage technologique est une conséquence inévitable de l'automatisation.
+267,inflation,Une hausse générale des prix au fil du temps.,Une forte inflation érode le pouvoir d'achat et touche de manière disproportionnée les ménages à faibles revenus.
+268,innovation,"Introduction de nouvelles idées, méthodes ou produits.",L'innovation continue dans le domaine des énergies renouvelables est essentielle à la réalisation des objectifs mondiaux de développement durable.
+269,interaction,Action ou communication réciproque entre les parties.,L'interaction en face à face est essentielle au développement des compétences sociales fondamentales chez les jeunes enfants.
+270,intervention,Mesures prises pour améliorer ou prévenir une situation.,Une intervention gouvernementale rapide est essentielle pour éviter l'aggravation d'une crise financière.
+271,investissement,Allouer des ressources en prévision de bénéfices futurs.,Les investissements directs étrangers jouent un rôle crucial dans l'accélération de la croissance économique des pays en développement.
+272,législation,Lois ou ensemble de lois promulguées par le gouvernement.,Une législation plus stricte est nécessaire pour protéger les travailleurs contre les conditions de travail dangereuses.
+273,alphabétisation,"La capacité de lire, d'écrire ou d'utiliser une compétence.",Des taux d'alphabétisation élevés sont fortement associés à une meilleure productivité économique et à de meilleurs résultats sociaux.
+274,marginaliser,Traiter un groupe comme étant sans importance ou périphérique.,Les politiques économiques qui ignorent les zones rurales ont tendance à marginaliser davantage des communautés déjà vulnérables.
+275,mécanisme,Un système ou un processus permettant d'obtenir un résultat.,Des mécanismes de régulation efficaces sont indispensables pour prévenir les pratiques monopolistiques sur les marchés libres.
+276,méthodologie,Un système de méthodes utilisées en recherche.,Les conclusions de l'étude ont été remises en question en raison de failles importantes dans sa méthodologie de recherche.
+277,migration,Déplacement de personnes d'un lieu à un autre.,L'exode rural économique vers les centres urbains s'est accéléré dans de nombreux pays en développement au cours des dernières décennies.
+278,état d'esprit,Un ensemble établi d'attitudes ou de croyances.,Un état d'esprit de croissance encourage les élèves à considérer les erreurs comme des occasions d'apprentissage.
+279,mobilité,La possibilité de se déplacer librement entre les positions.,L'éducation est largement considérée comme le principal moteur de la mobilité sociale dans les sociétés modernes.
+280,mortalité,Le taux de mortalité au sein d'une population.,L'amélioration des conditions sanitaires a permis de réduire considérablement les taux de mortalité infantile dans les pays en développement.
+281,motivation,La raison ou la motivation qui sous-tend l'action d'une personne.,Les élèves dotés d'une forte motivation intrinsèque ont tendance à obtenir de meilleurs résultats que ceux qui sont motivés uniquement par des récompenses externes.
+282,municipal,Relatif à l'administration d'une ville ou d'une municipalité.,Les autorités municipales sont responsables de la gestion des systèmes de collecte des déchets et de transport public.
+283,narratif,Un récit oral ou écrit des événements.,Les médias jouent un rôle déterminant dans la construction du discours public sur l'immigration.
+284,négocier,Parvenir à un accord par la discussion.,Les dirigeants mondiaux doivent négocier des accords contraignants pour lutter efficacement contre le changement climatique mondial.
+285,obésité,L'état d'obésité excessive.,Les taux d'obésité infantile ont fortement augmenté dans de nombreux pays en raison de mauvaises habitudes alimentaires.
+286,obligation,Un devoir moral ou légal de faire quelque chose.,Les pays riches ont l'obligation morale d'aider les pays les plus touchés par le changement climatique.
+287,obstacle,Ce qui bloque la progression ou la réussite.,Le manque de financement demeure un obstacle majeur à la réforme de l'éducation dans de nombreux pays.
+288,opposition,Résistance ou conflit contre quelque chose.,Le projet d'élargissement de la route s'est heurté à une vive opposition de la part des groupes environnementaux locaux.
+289,organique,Produit sans produits chimiques artificiels ; d'origine naturelle.,"La demande en aliments biologiques a considérablement augmenté, les consommateurs étant de plus en plus soucieux de leur santé."
+290,surpeuplement,Trop de monde dans un espace restreint.,L'urbanisation rapide a entraîné un surpeuplement grave dans les grandes villes des pays en développement.
+291,pandémie,Une maladie qui se propage à travers des pays entiers dans le monde entier.,La pandémie de COVID-19 a mis en lumière des faiblesses critiques dans l'infrastructure mondiale de santé publique.
+292,peine,Une punition pour avoir enfreint une règle ou une loi.,L’introduction de sanctions financières plus lourdes en cas de pollution pourrait dissuader les industries de commettre des infractions environnementales.
+293,perception,Une croyance ou une interprétation de quelque chose.,La perception du public concernant l'immigration est souvent façonnée par la couverture médiatique plutôt que par des données statistiques.
+294,perspective,Un point de vue particulier ou une façon de voir les choses.,Il est essentiel d'examiner la question du point de vue des personnes les plus directement concernées.
+295,phénomène,"Un fait ou un événement observable, souvent remarquable.",L'urbanisation est un phénomène mondial qui présente à la fois des opportunités et des défis importants.
+296,pauvreté,L'état d'extrême pauvreté.,L’éradication de l’extrême pauvreté demeure l’un des objectifs les plus importants du développement international.
+297,préjugé,"Une opinion injuste, non fondée sur la raison.",Lutter contre les préjugés raciaux exige à la fois une réforme juridique et des initiatives éducatives de grande envergure.
+298,priorité,Quelque chose de considéré comme le plus important.,Améliorer l'accès à une éducation de qualité devrait être la priorité absolue de tout gouvernement responsable.
+299,productivité,L'efficacité de la production par unité d'entrée.,Investir dans la formation des employés est l'un des moyens les plus efficaces d'accroître la productivité au travail.
+300,progressif,Favorable aux réformes et au progrès social.,Un système d'imposition progressif garantit que les contribuables aux revenus les plus élevés contribuent davantage.
+301,proportion,Une partie d'un tout ; un rapport comparatif.,Une part disproportionnée de la richesse nationale est détenue par une petite proportion de la population.
+302,psychologique,Relatif à l'esprit et aux processus mentaux.,"Le chômage peut avoir de graves conséquences psychologiques, notamment la dépression et la perte d'identité."
+303,récession,Une période de déclin économique important.,"En période de récession, la hausse du chômage et la baisse des dépenses de consommation créent un cercle vicieux."
+304,réhabilitation,Processus de rétablissement de la santé ou d'une vie normale.,Investir dans des programmes de réhabilitation réduit plus efficacement les taux de récidive que l'emprisonnement seul.
+305,renouvelable,Une ressource qui peut se renouveler naturellement.,L'investissement dans les sources d'énergie renouvelables est essentiel pour réduire la dépendance aux combustibles fossiles à l'échelle mondiale.
+306,restriction,Une règle ou une condition qui limite l'activité.,Les restrictions de voyage imposées pendant la pandémie ont fortement perturbé le tourisme mondial.
+307,revenu,Revenus générés par un gouvernement ou une entreprise.,Les gouvernements dépendent des recettes fiscales pour financer les services publics essentiels tels que la santé et l'éducation.
+308,révolution,Un changement radical et fondamental dans la société.,La révolution industrielle a fondamentalement transformé l'économie mondiale et les modes de travail humain.
+309,sanitaire,Systèmes de maintien de l'hygiène et de gestion des déchets.,L'insuffisance des services d'assainissement dans les zones urbaines densément peuplées contribue à la propagation des maladies infectieuses.
+310,rareté,Approvisionnement insuffisant en une ressource nécessaire.,La pénurie d'eau constitue l'une des menaces les plus graves pour la survie de l'humanité au cours des prochaines décennies.
+311,sceptique,Enclin à remettre en question ou à douter des affirmations.,De nombreux économistes restent sceptiques quant à la viabilité à long terme des dépenses publiques actuelles.
+312,mobilité sociale,Capacité à passer d'une classe sociale à l'autre.,L'éducation est largement considérée comme l'outil le plus puissant pour améliorer la mobilité sociale.
+313,stéréotype,Une image figée et simplifiée à l'extrême d'un groupe.,Les représentations médiatiques renforcent souvent des stéréotypes néfastes sur les communautés minoritaires.
+314,stimulus,Quelque chose qui provoque une réaction ou une activité.,Le gouvernement a lancé un vaste plan de relance pour redynamiser l'économie après la récession.
+315,banlieue,Un quartier résidentiel en périphérie d'une ville.,L'expansion des banlieues a accru la dépendance à la voiture et contribué à l'étalement urbain.
+316,surveillance,"Surveillance étroite, notamment par les autorités.",La surveillance de masse exercée par les gouvernements soulève de sérieuses inquiétudes quant au respect de la vie privée et des libertés civiles.
+317,imposition,Le système de prélèvement des impôts sur les citoyens.,Une fiscalité juste et progressive est essentielle pour financer les services publics et réduire les inégalités.
+318,transition,Un changement d'état.,Une transition rapide vers les énergies renouvelables est essentielle pour limiter la hausse des températures mondiales.
+319,transparence,Ouverture et clarté des processus ou de la gouvernance.,Une plus grande transparence dans les dépenses publiques peut contribuer à réduire la corruption et à renforcer la confiance du public.
+320,chômage,L'état de personne sans emploi rémunéré.,Le chômage structurel causé par l'automatisation représente un défi majeur pour les gouvernements du monde entier.
+321,urbanisation,Proportion croissante de personnes vivant en ville.,"L'urbanisation rapide en Asie a créé des mégapoles, mais aussi de graves problèmes d'infrastructures."
+322,vaccination,Un traitement qui confère une immunité contre la maladie.,Les programmes de vaccination de masse ont permis d'éradiquer des maladies comme la variole et de contrôler la poliomyélite à l'échelle mondiale.
+323,volontaire,"Fait volontairement, sans contrainte extérieure.",Les organisations du secteur bénévole jouent un rôle crucial dans le soutien aux membres vulnérables de la société.
+324,vulnérabilité,Être exposé à un danger ou à une difficulté.,Les petits États insulaires sont extrêmement vulnérables aux conséquences de la montée du niveau de la mer.
+325,répandu,Trouvé ou réparti sur une vaste zone.,L'accès généralisé à Internet a transformé la communication et l'accès à l'information à l'échelle mondiale.
+326,effectifs,Toutes les personnes disponibles pour un emploi.,Le vieillissement de la population active pose des défis importants aux systèmes de retraite des pays développés.
+327,rendement,Produire ou fournir un résultat ou une récolte.,L'amélioration des techniques agricoles a permis aux agriculteurs d'obtenir des récoltes plus abondantes dans les régions sujettes à la sécheresse.
+328,exacerber,Aggraver un problème ou une situation.,Le changement climatique devrait aggraver les problèmes de sécurité alimentaire déjà existants dans les régions vulnérables.
+329,allocation,La répartition des ressources dans un but précis.,Une allocation efficace des fonds publics est essentielle pour améliorer les résultats nationaux en matière de santé publique.
+330,intégration,Le processus qui consiste à combiner des parties pour former un tout.,La réussite de l'intégration sociale des migrants nécessite des investissements dans l'enseignement des langues et le soutien communautaire.
+331,responsabilité,Responsabilité de ses actes et de ses décisions.,Une plus grande responsabilisation des institutions publiques est essentielle pour maintenir la confiance des citoyens envers le gouvernement.
+332,adaptatif,Capable de s'adapter à de nouvelles conditions.,Les stratégies de gestion adaptatives permettent aux organisations de répondre efficacement à des environnements en constante évolution.
+333,aggraver,Pour aggraver un problème ou une situation.,Une réponse gouvernementale inadéquate peut aggraver les conséquences sociales d'une récession économique.
+334,anthropique,Causé ou produit par l'activité humaine.,Les scientifiques s'accordent à dire que les émissions anthropiques de gaz à effet de serre sont la principale cause du réchauffement climatique.
+335,assimilation,L'absorption d'un groupe par une culture dominante.,L’assimilation culturelle forcée des peuples autochtones a été largement condamnée par les organisations de défense des droits de l’homme.
+336,austérité,Réduction drastique des dépenses publiques pour diminuer la dette.,Les mesures d'austérité imposées après la crise financière ont entraîné de fortes réductions des services publics.
+337,automation,Utilisation de la technologie pour automatiser les tâches.,L'automatisation des processus de fabrication a considérablement réduit le besoin en main-d'œuvre non qualifiée.
+338,biodégradable,Décomposable par des organismes naturels.,Remplacer le plastique par des emballages biodégradables est une étape clé pour réduire la pollution environnementale.
+339,bureaucratie,Un système complexe de règles et de procédures officielles.,Une bureaucratie excessive au sein des institutions publiques peut entraver la prestation efficace des services essentiels.
+340,catalyseur,Un élément qui déclenche ou accélère un processus.,La pandémie a agi comme catalyseur pour l'adoption généralisée du télétravail à l'échelle mondiale.
+341,engagement civique,Participation active à la vie communautaire et politique.,Le faible niveau d'engagement civique chez les jeunes constitue une menace importante pour la gouvernance démocratique.
+342,coexistence,Vivre ensemble pacifiquement malgré les différences.,Parvenir à une coexistence pacifique entre diverses communautés ethniques exige le respect et la compréhension mutuels.
+343,cognitif,Relatif aux processus mentaux de la pensée et de l'apprentissage.,L'éducation préscolaire a un impact profond sur le développement cognitif à long terme et les performances scolaires.
+344,cohésion,La qualité de former un tout uni.,Des inégalités importantes sapent la cohésion sociale et augmentent le risque de troubles civils.
+345,marchandiser,Traiter quelque chose comme un produit commercial.,Les critiques affirment que les gouvernements ne devraient pas marchandiser l'éducation en la traitant comme un produit commercial.
+346,obligatoire,Obligatoire en vertu de la loi ou des règlements ; obligatoire.,Les lois sur l'instruction obligatoire ont joué un rôle déterminant dans l'amélioration des taux d'alphabétisation à travers le monde.
+347,concevoir,Former ou développer une idée ou un plan.,Il est difficile d'imaginer un avenir durable sans un changement radical dans la consommation d'énergie.
+348,consolider,Se combiner ou se renforcer en un tout unifié.,La fusion a permis aux deux entreprises de consolider leurs ressources et d'améliorer leur efficacité opérationnelle.
+349,contamination,La présence de polluants nocifs dans une substance.,Les déchets industriels ont provoqué une contamination généralisée des eaux souterraines dans les communautés rurales environnantes.
+350,contention,Un point de désaccord ou une dispute animée.,La politique d'immigration demeure un sujet de discorde majeur dans les débats politiques de nombreux pays.
+351,décentraliser,Transférer le pouvoir du centre aux collectivités locales.,Les efforts de décentralisation de la gouvernance peuvent renforcer le pouvoir des communautés locales et améliorer la prestation des services publics.
+352,volontaire,Fait intentionnellement ; à bien réfléchir.,L'exclusion des voix minoritaires des discussions politiques semble être une stratégie politique délibérée.
+353,dépendance,L'état de dépendance excessive à quelque chose.,De nombreux pays en développement peinent à réduire leur dépendance économique à l'égard d'un seul produit d'exportation.
+354,privation,Un manque préjudiciable de produits de première nécessité.,Les enfants élevés dans des zones de grande précarité ont beaucoup moins de chances de réussir scolairement.
+355,désertification,Dégradation des terres en conditions désertiques.,La désertification menace les moyens de subsistance de millions de personnes vivant dans les régions semi-arides du monde entier.
+356,détérioration,Un processus d'aggravation progressive.,La dégradation des infrastructures urbaines pose de sérieux risques pour la sécurité des habitants de nombreuses villes.
+357,disproportionné,Trop grand ou trop petit par rapport à autre chose.,Les communautés marginalisées supportent de manière disproportionnée les conséquences de la pollution environnementale.
+358,électoral,Relatif aux élections ou au processus de vote.,La réforme électorale est essentielle pour garantir que tous les citoyens soient équitablement représentés au sein du gouvernement.
+359,émigration,Quitter son pays pour s'installer ailleurs.,Des taux d'émigration élevés peuvent priver les pays en développement de leurs citoyens les plus qualifiés et les plus instruits.
+360,empirique,Fondé sur l'observation et les preuves plutôt que sur la théorie.,Les décisions politiques judicieuses doivent se fonder sur des preuves empiriques plutôt que sur des hypothèses idéologiques.
+361,approbation,Déclaration publique de soutien ou d'approbation.,Le soutien d'une célébrité peut influencer considérablement l'opinion publique sur des questions sociales et politiques importantes.
+362,l'entrepreneuriat,L'activité de création et de gestion d'entreprises.,Les gouvernements peuvent stimuler la croissance économique en créant des conditions favorables à l'entrepreneuriat et à l'innovation.
+363,dilemme éthique,Un conflit nécessitant un choix entre des principes moraux.,Les progrès du génie génétique posent à la société de profonds dilemmes éthiques qui exigent une réflexion approfondie.
+364,exacerbation,Le processus qui consiste à aggraver un problème.,La croissance démographique rapide exacerbe les pénuries de ressources dans des régions déjà en difficulté.
+365,exclusion,Le fait de refuser l'accès ou l'adhésion.,L'exclusion sociale des groupes vulnérables constitue un obstacle majeur à la réalisation d'une véritable égalité sociale.
+366,exploitation,Utilisation abusive d'une personne ou d'une chose à des fins lucratives.,L’exploitation de la main-d’œuvre bon marché dans les pays en développement par les sociétés multinationales soulève de graves questions d’éthique.
+367,exponentiel,Augmenter ou diminuer à un rythme d'accélération rapide.,La croissance exponentielle de l'utilisation des médias sociaux a transformé la façon dont les gens consomment l'information à l'échelle mondiale.
+368,fluctuation,Variation ou changement irrégulier au fil du temps.,De fortes fluctuations des prix mondiaux du pétrole peuvent déstabiliser les économies des pays dépendants du pétrole.
+369,formuler,Créer ou concevoir de manière systématique.,Les gouvernements doivent élaborer avec soin des politiques qui concilient croissance économique et protection de l'environnement.
+370,fragmentation,La décomposition de quelque chose en petites parties isolées.,La fragmentation des partis politiques rend de plus en plus difficile la formation de gouvernements stables.
+371,produit intérieur brut,Valeur monétaire totale de la production annuelle d'un pays.,De nombreux économistes affirment que le produit intérieur brut est une mesure inadéquate du bien-être national.
+372,hégémonie,Domination d'un groupe sur les autres.,L'hégémonie culturelle des nations occidentales a considérablement influencé les médias mondiaux et les préférences des consommateurs.
+373,homogénéisation,Rendre les choses uniformes ou similaires partout.,Les critiques affirment que la mondialisation conduit à l'homogénéisation culturelle des sociétés au détriment de la diversité.
+374,humanitaire,Soucieux d'améliorer le bien-être et de soulager la souffrance humaine.,L'aide humanitaire internationale est vitale pour soutenir les populations touchées par les conflits armés et les catastrophes.
+375,idéologie,Un système de croyances qui sous-tend l'action politique.,La politique économique est souvent davantage façonnée par l'idéologie politique que par des données empiriques et des recherches.
+376,imposer,Imposer quelque chose à autrui par l'autorité.,Les instances internationales peuvent imposer des sanctions aux gouvernements qui violent les accords relatifs aux droits de l'homme.
+377,incarcération,L'état d'être emprisonné.,Les taux d'incarcération élevés observés dans certains pays soulèvent de sérieuses questions concernant la justice et la réinsertion.
+378,création,Le début ou l'établissement de quelque chose.,"Depuis sa création, l'organisation a réalisé des progrès significatifs dans la lutte contre la pauvreté mondiale."
+379,compris,Sans exclure aucun groupe ni individu.,Un système éducatif inclusif garantit que les enfants handicapés bénéficient de chances égales d'apprentissage.
+380,indigène,Originaire naturellement d'une région particulière.,Les droits des peuples autochtones sur leurs terres ancestrales doivent être protégés par le droit international.
+381,industrialisation,Transition vers une production industrielle à grande échelle.,"L'industrialisation des pays en développement a engendré une croissance économique, mais aussi d'importants dommages environnementaux."
+382,inefficacité,Ne pas optimiser l'utilisation du temps ou des ressources.,L'inefficacité bureaucratique généralisée empêche les gouvernements de fournir des services de manière efficace et équitable.
+383,institutionnel,Relatif aux organisations ou systèmes établis.,Le racisme institutionnel ancré dans les systèmes juridiques continue de désavantager les communautés minoritaires dans le monde entier.
+384,interdépendance,Dépendance mutuelle entre deux ou plusieurs groupes.,La pandémie mondiale a démontré la profonde interdépendance des économies nationales dans le monde moderne.
+385,intimidation,Utiliser la peur ou les menaces pour contraindre quelqu'un.,L’intimidation des électeurs compromet le processus démocratique et empêche la tenue d’élections libres et équitables.
+386,juridiction,L'autorité officielle chargée d'appliquer les lois.,La cybercriminalité présente des défis complexes car elle se produit fréquemment dans plusieurs juridictions juridiques.
+387,juxtaposer,Placer deux choses côte à côte pour faire ressortir le contraste.,Le rapport met en parallèle les modes de vie de l'élite fortunée et ceux des personnes vivant dans l'extrême pauvreté.
+388,légitime,Conforme à la loi ou aux normes acceptées.,Un gouvernement légitime doit rendre des comptes à ses citoyens et respecter les droits fondamentaux de la personne.
+389,malnutrition,Une mauvaise santé due à une alimentation insuffisante ou déséquilibrée.,La malnutrition généralisée dans les zones de conflit représente une crise humanitaire mondiale grave et urgente.
+390,manifestation,Un signe visible ou une expression de quelque chose.,Le phénomène des sans-abri est une manifestation flagrante de l'échec des politiques de logement dans de nombreuses villes développées.
+391,marginalisation,Le processus consistant à traiter un groupe comme périphérique.,La marginalisation des minorités ethniques sur le marché du travail perpétue les cycles de pauvreté et d'inégalité.
+392,méritocratie,Un système où la progression est basée sur les compétences.,Les critiques affirment qu'une véritable méritocratie est impossible tant que les inégalités systémiques ne sont pas prises en compte.
+393,atténuation,Action visant à réduire la gravité d'un élément nuisible.,Des stratégies d'atténuation efficaces sont nécessaires de toute urgence pour limiter les pires conséquences du changement climatique mondial.
+394,monopole,Contrôle exclusif d'un marché par une seule entité.,Les monopoles non contrôlés réduisent la concurrence et entraînent finalement une hausse des prix pour les consommateurs.
+395,multilatéral,Impliquant plus de deux parties ou nations.,"Pour lutter efficacement contre le changement climatique, une coopération multilatérale entre tous les principaux pays émetteurs est indispensable."
+396,négligence,Négliger de prendre soin de quelque chose ou de s'en occuper.,Des années de négligence politique ont laissé de nombreuses communautés rurales sans soins de santé ni éducation adéquats.
+397,néolibéral,"En faveur des marchés libres, de la privatisation et de la déréglementation.",Les critiques affirment que les politiques économiques néolibérales ont creusé l'écart entre riches et pauvres à l'échelle mondiale.
+398,normes,Normes de comportement acceptées dans une société.,L'évolution des normes sociales relatives aux rôles de genre a progressivement transformé le monde du travail moderne.
+399,obsolète,N'est plus utilisé ; obsolète et remplacé.,Les progrès technologiques rapides ont rendu obsolètes de nombreuses compétences manufacturières traditionnelles.
+400,oppression,Autorité ou contrôle injuste et prolongé sur autrui.,L'oppression historique des groupes minoritaires a créé des inégalités profondément ancrées qui persistent encore aujourd'hui.
+401,épidémie,Une apparition soudaine de maladie ou de violence.,L'apparition d'une nouvelle maladie virale a immédiatement déclenché des mesures d'urgence sanitaire internationale.
+402,par habitant,Pour chaque personne au sein d'une population donnée.,Le PIB par habitant est couramment utilisé pour comparer le niveau de vie moyen entre différents pays.
+403,polarisation,Division en deux groupes fortement contrastés.,La polarisation politique a rendu la coopération bipartite sur les grandes questions nationales de plus en plus difficile.
+404,privatisation,Transfert des actifs publics à des propriétaires privés.,La privatisation des services publics tels que l'eau et l'énergie a été largement critiquée pour avoir réduit l'accessibilité.
+405,prolifération,Augmentation rapide du nombre de quelque chose.,La prolifération de la désinformation sur les réseaux sociaux constitue une grave menace pour les processus démocratiques.
+406,proximité,"Proximité spatiale, temporelle ou relationnelle.",La proximité géographique des centres économiques influence considérablement le développement et la croissance d'une région.
+407,ratifier,Approuver formellement un accord ou une loi.,Davantage de pays doivent ratifier l'Accord de Paris pour que les engagements climatiques mondiaux aient un impact significatif.
+408,récidive,Tendance à la récidive après une condamnation antérieure.,Il a été prouvé que les programmes de réadaptation efficaces réduisent les taux de récidive chez les anciens délinquants.
+409,redistribution,Réaffectation des ressources pour parvenir à une plus grande égalité.,L'impôt progressif permet la redistribution des richesses des plus riches vers les plus défavorisés.
+410,renforcer,Renforcer ou soutenir une idée ou une structure existante.,"La représentation du crime dans les médias peut, involontairement, renforcer les stéréotypes négatifs concernant certains groupes sociaux."
+411,résilience,Capacité à se remettre rapidement des difficultés.,Renforcer la résilience communautaire est essentiel pour aider les populations à résister aux impacts du changement climatique.
+412,représailles,Mesures prises en réponse à une blessure ou à une agression.,Les représailles commerciales entre les grandes économies peuvent déclencher un cycle dommageable d'escalade des droits de douane.
+413,ségrégation,La séparation forcée des groupes au sein de la société.,La ségrégation raciale dans les systèmes éducatifs a des effets négatifs durables sur l'égalité sociale.
+414,socio-économique,Cela concerne à la fois des facteurs sociaux et économiques.,Le milieu socio-économique d'un enfant demeure l'un des facteurs prédictifs les plus importants de sa réussite scolaire.
+415,souveraineté,Autorité suprême et indépendance d'un État.,Les accords internationaux entrent parfois en conflit avec le désir des nations de préserver leur pleine souveraineté économique.
+416,subventionner,Apporter un soutien financier grâce à des fonds publics.,De nombreux gouvernements subventionnent les énergies renouvelables pour les rendre plus compétitives par rapport aux combustibles fossiles.
+417,sensible,Susceptible d'être affecté par quelque chose ou vulnérable à quelque chose.,Les personnes âgées sont particulièrement vulnérables aux formes graves de maladies infectieuses respiratoires.
+418,systémique,Relatif à un système dans son ensemble plutôt qu'à une seule partie.,Lutter contre la pauvreté exige un changement systémique plutôt que des interventions ponctuelles ciblant des symptômes individuels.
+419,reformuler,Exprimer ou concevoir à nouveau sous une forme nouvelle.,"À la lumière de nouvelles données, les gouvernements pourraient devoir reformuler leur approche en matière de politique de santé publique."
+420,contraction,Une réduction de la production ou de l'activité économique.,La forte contraction du commerce mondial pendant la pandémie a mis en évidence la fragilité des chaînes d'approvisionnement.
+421,aberration,Un écart par rapport à ce qui est normal ou attendu.,Certains économistes considèrent la crise financière de 2008 comme une aberration plutôt que comme une défaillance structurelle des marchés.
+422,abdiquer,Manquer à ses devoirs ou à ses responsabilités.,Les gouvernements qui réduisent les services publics peuvent être accusés d'abdiquer leur responsabilité envers les citoyens vulnérables.
+423,acrimonie,Hostilité amère dans les paroles ou les manières.,Les négociations sur le Brexit ont été marquées par une forte acrimonie entre les représentants de l'UE et du Royaume-Uni.
+424,fusionner,Se combiner ou s'unir en un seul corps.,Plusieurs petits services ont été fusionnés afin d'améliorer l'efficacité administrative et de réduire les coûts opérationnels.
+425,améliorer,Rendre une mauvaise situation meilleure ou plus supportable.,Les programmes d'aide internationale visent à améliorer les conditions de vie des populations déplacées dans les zones de conflit.
+426,anachronisme,Quelque chose d'incongru pour son époque.,Les critiques affirment que la chambre haute non élue est devenue un anachronisme démocratique dans la société moderne.
+427,asymétrie,Absence d'égalité ou d'équivalence entre les parties.,L'asymétrie d'information entre acheteurs et vendeurs peut entraîner des défaillances de marché et des résultats inefficaces.
+428,usure,Réduction progressive par pression ou perte soutenue.,Le conflit prolongé s'est transformé en une guerre d'usure qui a épuisé les ressources des deux camps opposés.
+429,bifurcation,Une division en deux branches ou parties.,L'accroissement des inégalités a entraîné une bifurcation de la société en deux groupes économiques de plus en plus déconnectés.
+430,circonvenir,Trouver un moyen de contourner une règle ou un obstacle.,Les sociétés multinationales ont été accusées d'utiliser des comptes offshore pour contourner leurs obligations fiscales nationales.
+431,coercitif,Utiliser la force ou les menaces pour contraindre à agir.,Le recours à des mesures coercitives pour réprimer la dissidence politique viole les principes démocratiques fondamentaux.
+432,marchandisation,Le processus consistant à traiter quelque chose comme une marchandise commercialisable.,La marchandisation de l'enseignement supérieur a transformé les universités d'institutions publiques en entreprises commerciales.
+433,complaisance,Une autosatisfaction satisfaite malgré les dangers évidents.,L’inaction politique face à la montée des inégalités a permis aux divisions sociales de s’aggraver considérablement.
+434,conjecture,Une opinion formée sans preuves suffisantes.,"En l'absence de données empiriques, les affirmations concernant l'impact économique de cette politique restent de pures conjectures."
+435,contingent,Sous réserve de circonstances ou de conditions incertaines.,Le succès du programme de réforme dépend d'un engagement politique soutenu et d'un financement adéquat.
+436,corroborer,Confirmer ou étayer par des preuves.,De nombreuses études indépendantes corroborent le constat que la pollution atmosphérique augmente significativement les taux de mortalité.
+437,réduire,Réduire ou restreindre quelque chose de manière significative.,Une législation d'urgence a été promulguée pour restreindre les libertés civiles au plus fort de la crise sanitaire nationale.
+438,tracer,Décrire ou indiquer avec précision et clarté.,Les traités internationaux doivent clairement définir les responsabilités de chaque nation signataire.
+439,dividende démographique,Croissance économique grâce à une population en âge de travailler plus nombreuse.,L’Afrique subsaharienne a l’opportunité de tirer profit de son dividende démographique grâce à des investissements dans l’éducation.
+440,dissuader,Décourager l'action par la peur ou le doute.,Des sanctions plus sévères pour les infractions environnementales pourraient dissuader les entreprises de polluer illégalement les cours d'eau.
+441,dichotomie,Une nette division en deux catégories contrastées.,La dichotomie entre croissance économique et protection de l'environnement est souvent présentée comme un faux dilemme.
+442,diffusion,La propagation de quelque chose sur une vaste zone.,La diffusion rapide des technologies numériques a transformé la manière dont l'information est produite et consommée à l'échelle mondiale.
+443,privation du droit de vote,Priver quelqu'un de ses droits ou privilèges.,"Les exigences complexes en matière d'inscription sur les listes électorales peuvent priver de leurs droits civiques, de manière disproportionnée, les communautés à faibles revenus et les minorités."
+444,disparate,Essentiellement différents par nature ; incomparables.,Cette politique doit tenir compte des besoins de communautés disparates présentant des situations économiques très différentes.
+445,efficacité,La capacité à produire le résultat souhaité.,Les essais cliniques doivent tester rigoureusement l'efficacité des nouveaux traitements avant leur approbation pour un usage public.
+446,égalitariste,Croire en l'égalité des droits pour tous ou la défendre.,Une société véritablement égalitaire doit prendre en compte à la fois l'égalité juridique formelle et l'égalité réelle des chances.
+447,retranché,Solidement ancré et difficile à changer.,Les préjugés sexistes profondément ancrés dans les pratiques d'embauche continuent de désavantager les femmes occupant des postes de direction.
+448,équilibre,Un état d'équilibre entre des forces opposées.,La théorie de l'offre et de la demande soutient que les marchés tendent naturellement vers un équilibre des prix au fil du temps.
+449,éradiquer,Détruire ou éliminer complètement quelque chose.,L'objectif de l'Organisation mondiale de la santé d'éradiquer la poliomyélite à l'échelle mondiale nécessite une couverture vaccinale universelle.
+450,extrapoler,Étendre les données connues pour prédire des situations inconnues.,Les chercheurs doivent faire preuve de prudence lorsqu'ils tentent d'extrapoler les résultats obtenus à partir de petits échantillons à des populations entières.
+451,fabriquer,Inventer de fausses informations ; fabriquer.,Les journalistes qui fabriquent de fausses preuves sapent la confiance du public dans les médias et nuisent au débat démocratique.
+452,faisabilité,La qualité d'être possible et pratique.,Une étude de faisabilité exhaustive est requise avant l'approbation des projets d'infrastructure de grande envergure.
+453,déficit budgétaire,Lorsque les dépenses publiques dépassent les recettes.,"Un déficit budgétaire croissant oblige les gouvernements soit à augmenter les impôts, soit à réduire les dépenses publiques essentielles."
+454,révolutionnaire,Innovant et pionnier ; introduisant de nouvelles idées.,Les recherches novatrices sur l'édition génique ont ouvert de nouvelles perspectives pour le traitement des maladies héréditaires.
+455,holistique,S'intéresser au système dans son ensemble plutôt qu'à ses parties.,"Une approche holistique de la santé publique doit prendre en compte simultanément les déterminants sociaux, économiques et environnementaux."
+456,homogène,Composé d'éléments similaires ou uniformes.,L’homogénéisation croissante des cultures urbaines risque d’éroder la riche diversité des communautés locales traditionnelles.
+457,entraver,Entraver ou bloquer la progression ou le mouvement.,Les pratiques bureaucratiques corrompues entravent le développement économique et découragent les investissements directs étrangers.
+458,naissant,Qui commence à se produire ou à se développer ; aux premiers stades.,Une intervention précoce est essentielle pour empêcher qu'un ralentissement économique naissant ne se transforme en récession complète.
+459,indiscriminé,Fait sans discernement ; au hasard et avec négligence.,L’utilisation indiscriminée de pesticides endommage les écosystèmes et nuit aux espèces bien au-delà de la cible visée.
+460,inhérent,Existant en tant que caractéristique essentielle permanente.,Il existe des tensions inhérentes entre la maximisation de la croissance économique et la protection de l'environnement naturel.
+461,susciter,Provoquer ou initier une action ou un événement.,Les groupes de la société civile provoquent souvent des changements politiques en mobilisant la pression publique sur les institutions gouvernementales.
+462,atténuer,Atténuer la gravité ou l'impact de quelque chose.,Planter des arbres en milieu urbain peut contribuer à atténuer l'effet d'îlot de chaleur dans les villes densément peuplées.
+463,perpétuer,Faire en sorte que quelque chose continue indéfiniment.,Les systèmes éducatifs qui reflètent les structures de classe existantes tendent à perpétuer plutôt qu'à réduire les inégalités sociales.
+464,pragmatique,Aborder les choses de manière pratique plutôt que théorique.,Une approche pragmatique de la politique migratoire concilie les obligations humanitaires et les capacités sociales réalistes.
+465,précaire,Incertain et susceptible de se détériorer ; instable.,La multiplication des contrats zéro heure a plongé de nombreux travailleurs dans une situation financière précaire et instable.
+466,de préemption,Agir à l'avance pour prévenir un événement anticipé.,Certains gouvernements estiment qu'une action militaire préventive est justifiée face à une menace imminente pour la sécurité.
+467,répercussion,Une conséquence indirecte d'un événement ou d'une action.,Les guerres commerciales peuvent avoir de graves répercussions économiques pour des pays bien au-delà de ceux directement impliqués.
+468,strict,"Conformité stricte, précise et exigeante.",Des réglementations environnementales strictes sont nécessaires pour empêcher les entreprises d'externaliser les coûts de la pollution.
+469,saper,Affaiblir ou endommager quelque chose progressivement.,La corruption généralisée mine la confiance du public dans les institutions démocratiques et l'état de droit.
+470,recalibrer,S'adapter ou se réinitialiser en fonction des nouvelles conditions.,Les gouvernements pourraient devoir réajuster leur politique économique en réponse à l'évolution rapide des conditions du marché mondial.
+471,acculturation,Adopter des traits culturels d'un autre groupe.,L'acculturation des communautés migrantes implique une négociation complexe entre les normes culturelles d'origine et celles du pays d'accueil.
+472,juger,Rendre un jugement ou une décision officielle.,Les tribunaux internationaux existent pour trancher les différends entre nations qui ne peuvent être résolus bilatéralement.
+473,antithétique,Directement opposé ou contradictoire à quelque chose.,La suppression de la liberté d'expression est contraire aux principes fondateurs de la gouvernance démocratique libérale.
+474,en pleine expansion,Qui croît ou se développe rapidement et vigoureusement.,L'essor de la classe moyenne en Asie du Sud-Est entraîne une croissance sans précédent de la demande des consommateurs.
+475,se fondre,Se rassembler pour former un tout unifié.,Des groupes militants disparates ont commencé à se rassembler autour d'un programme commun de justice environnementale et sociale.
+476,conscient,Avoir connaissance ou conscience de quelque chose.,Les décideurs politiques doivent être pleinement conscients des conséquences environnementales à long terme du développement industriel.
+477,contreproductif,Produisant l'effet inverse de celui recherché.,"Des politiques antidrogue excessivement punitives peuvent être contre-productives, augmentant la criminalité au lieu de réduire la toxicomanie."
+478,cyclique,Se répétant régulièrement selon une séquence répétée.,"La pauvreté est souvent cyclique, se transmettant de génération en génération en raison d'un accès insuffisant à l'éducation et aux opportunités."
+479,démagogie,Manipulation politique par le biais d'appels émotionnels populistes.,La montée de la démagogie dans les sociétés démocratiques constitue une menace sérieuse pour une gouvernance rationnelle et fondée sur des preuves.
+480,endémique,On le trouve régulièrement et il est largement répandu dans une zone particulière.,La corruption endémique au sein des institutions publiques empêche la prestation efficace de services aux citoyens qui en ont besoin.
+481,épistémique,Relatif à la connaissance ou à son degré de validation.,L’humilité épistémique exige de reconnaître les limites de ce que nous pouvons savoir lors de l’élaboration de politiques publiques.
+482,exigeant,Nécessitant une action ou une attention immédiate ; urgent.,L’urgence de la crise des réfugiés exigeait une réponse internationale immédiate et coordonnée.
+483,extra-territorial,S'étendre ou opérer au-delà des frontières territoriales.,Certains pays appliquent des lois extraterritoriales pour poursuivre les entreprises pour des actes de corruption commis à l'étranger.
+484,géopolitique,Relatif à la politique influencée par la géographie.,La concurrence pour les ressources minérales critiques alimente de plus en plus les tensions géopolitiques entre les grandes puissances.
+485,hétérogène,De nature diverse ou composée d'éléments différents.,Une main-d'œuvre hétérogène apporte des perspectives diverses qui peuvent stimuler l'innovation organisationnelle.
+486,heuristique,Permettre la découverte par l'expérimentation et des méthodes pratiques.,L'économie comportementale révèle comment les heuristiques cognitives peuvent amener les individus à prendre des décisions systématiquement irrationnelles.
+487,hybridation,Le processus de combinaison de deux éléments distincts.,L'hybridation culturelle dans les villes mondialisées produit de nouvelles formes créatives puisant dans de multiples traditions.
+488,immuable,Inchangé au fil du temps ; impossible à changer.,"Certains philosophes estiment que les vérités morales sont immuables, tandis que d'autres soutiennent qu'elles évoluent avec la société."
+489,inexorable,Impossible à arrêter ou à empêcher ; implacable.,La montée inexorable du niveau de la mer constitue une menace existentielle pour les communautés côtières de faible altitude du monde entier.
+490,insidieux,"Nocif progressivement, de manière subtile et dissimulée.","Les préjugés inconscients peuvent avoir un effet insidieux sur les décisions d'embauche, perpétuant ainsi les inégalités systémiques au travail."
+491,intraitable,"Trop difficile à gérer, à résoudre ou à traiter.",Le conflit israélo-palestinien s'est avéré insoluble malgré des décennies d'efforts diplomatiques internationaux.
+492,multifacettes,Présentant de nombreux aspects ou dimensions différents.,"La lutte contre le changement climatique exige une approche multidimensionnelle combinant changements technologiques, politiques et comportementaux."
+493,naissant,Tout juste en train d'exister ou de se développer.,Investir dans un secteur naissant des énergies renouvelables peut aider les nations à se détacher de leur dépendance aux combustibles fossiles.
+494,normatif,Relatif aux normes de comportement ou à leur établissement.,Les hypothèses normatives concernant les rôles de genre peuvent influencer considérablement la conception des politiques éducatives et professionnelles.
+495,obscurcir,Rendre quelque chose d'obscur ou de difficile à comprendre.,Les hommes politiques utilisent parfois un langage technique pour dissimuler des décisions impopulaires au grand public.
+496,paradoxal,"Cela semble contradictoire, mais c'est peut-être vrai.",Il est paradoxal que l'accès accru à l'information n'ait pas toujours conduit à un engagement politique public plus important.
+497,symbiotique,Impliquant un bénéfice mutuel entre deux entités.,La relation symbiotique entre les universités et l'industrie stimule l'innovation et la compétitivité économique.
+498,transitoire,Qui ne dure que peu de temps ; temporaire.,Les périodes de croissance économique alimentées par les exportations de matières premières sont souvent transitoires et ne parviennent pas à créer un développement durable.
+499,omniprésent,Présent et présent partout simultanément.,Les smartphones sont devenus si omniprésents que l'exclusion numérique constitue désormais une forme grave de désavantage social.
+500,hégémonique,Relatif au pouvoir dominant sur les autres.,Les critiques affirment que les normes culturelles occidentales hégémoniques sont souvent imposées aux pays en développement par le biais des institutions mondiales.

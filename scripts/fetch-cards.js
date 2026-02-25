@@ -19,7 +19,7 @@ const cards = data.cards.map(({ id, front, back, example }) => ({ id, front, bac
 
 const header = 'id,front,back,example';
 const rows = cards.map(c =>
-    [c.id, c.front, c.back, c.example].map(v => `${String(v ?? '').replace(/"/g, '""')}`).join(',')
+    [c.id, c.front, c.back, c.example].map(v => `"${String(v ?? '').replace(/"/g, '""')}"`).join(',')
 );
 const csv = [header, ...rows].join('\n');
 

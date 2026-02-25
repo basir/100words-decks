@@ -5,7 +5,7 @@
   "main": "gen-trans.js",
   "scripts": {
     "fc": "node scripts/fetch-cards.js Exam-Prep/IELTS",
-    "gn": " node scripts/gen-trans.js Exam-Prep/IELTS fa"
+    "gn": " node scripts/gen-trans.js Exam-Prep/IELTS id"
   },
   "repository": {
     "type": "git",

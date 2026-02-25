@@ -1,0 +1,501 @@
+id,front,back,example
+1,đạt được,Đạt được mục tiêu hoặc kết quả một cách thành công.,Những học sinh đặt ra mục tiêu rõ ràng có nhiều khả năng đạt được thành công trong học tập hơn.
+2,ảnh hưởng,Gây ảnh hưởng hoặc tác động đến điều gì đó.,Ô nhiễm không khí có thể ảnh hưởng xấu đến sức khỏe của người dân đô thị.
+3,phân tích,Xem xét kỹ lưỡng một vấn đề để hiểu rõ nó.,Các nhà nghiên cứu phải phân tích dữ liệu cẩn thận trước khi đưa ra kết luận.
+4,tiếp cận,Phương pháp hoặc cách thức giải quyết một vấn đề nào đó.,Cách tiếp cận toàn diện trong giáo dục cần xem xét đến nhu cầu về mặt xã hội và cảm xúc của học sinh.
+5,diện mạo,Một phần hoặc đặc điểm cụ thể của một cái gì đó.,Một khía cạnh quan trọng của phát triển bền vững là giảm lượng khí thải carbon.
+6,đánh giá,Đánh giá hoặc nhận xét chất lượng của một thứ gì đó.,Chính phủ phải đánh giá tác động môi trường của các dự án công nghiệp mới.
+7,cho rằng,Chấp nhận một điều gì đó là đúng mà không cần bằng chứng.,Người ta thường cho rằng tăng trưởng kinh tế sẽ tự động cải thiện mức sống.
+8,thái độ,Một quan điểm hoặc cảm nhận đã được định hình về một điều gì đó.,Thái độ của công chúng đối với năng lượng tái tạo đã thay đổi đáng kể trong những năm gần đây.
+9,có sẵn,Có thể sử dụng hoặc có được.,"Mọi công dân, bất kể thu nhập, đều nên được tiếp cận internet."
+10,lợi ích,Một lợi thế hoặc kết quả tích cực từ một điều gì đó.,Tập thể dục thường xuyên mang lại nhiều lợi ích cho cả sức khỏe thể chất và tinh thần.
+11,gây ra,Thứ gì đó tạo ra hiệu ứng hoặc kết quả.,Nghèo đói thường được coi là nguyên nhân gốc rễ của bất bình đẳng xã hội.
+12,thử thách,Một vấn đề hoặc nhiệm vụ khó khăn đòi hỏi nhiều nỗ lực.,Biến đổi khí hậu là một trong những thách thức lớn nhất mà xã hội hiện đại đang phải đối mặt.
+13,công dân,Một thành viên được pháp luật công nhận của một quốc gia.,Tham gia bầu cử dân chủ là nghĩa vụ của mỗi công dân.
+14,khẳng định,Khẳng định điều gì đó là đúng hoặc yêu cầu như một quyền lợi.,Một số nhà nghiên cứu cho rằng mạng xã hội gây hại cho sức khỏe tâm thần của thanh thiếu niên.
+15,phân loại,Sắp xếp mọi thứ thành các loại hoặc nhóm.,Các nhà khoa học phân loại sinh vật dựa trên đặc điểm di truyền và hình thái của chúng.
+16,cộng đồng,Một nhóm người cùng chia sẻ một địa điểm hoặc sở thích.,Mạng lưới hỗ trợ cộng đồng vững mạnh giúp giảm thiểu sự cô lập xã hội ở người cao tuổi.
+17,so sánh,Để so sánh những điểm giống và khác nhau giữa các sự vật.,Bài luận này sẽ so sánh hiệu quả của hệ thống chăm sóc sức khỏe công lập và tư nhân.
+18,tổ hợp,Được cấu tạo từ nhiều bộ phận liên kết với nhau; rất khó hiểu.,Mối quan hệ giữa nghèo đói và tội phạm vô cùng phức tạp và đa chiều.
+19,ý tưởng,Một ý tưởng trừu tượng hoặc nguyên tắc chung.,Khái niệm về tính bền vững là trọng tâm của chính sách môi trường hiện đại.
+20,bận tâm,Một mối lo lắng hoặc vấn đề gây ra sự băn khoăn hoặc quan tâm.,Mối lo ngại ngày càng tăng về ô nhiễm nhựa đã thúc đẩy nhiều chính phủ hành động.
+21,kết luận,Đưa ra quyết định hoặc phán đoán sau khi suy luận.,Nghiên cứu kết luận rằng tập thể dục thường xuyên làm giảm đáng kể nguy cơ mắc bệnh trầm cảm.
+22,tình trạng,Tình trạng hoặc hoàn cảnh ảnh hưởng đến một điều gì đó.,Cải thiện điều kiện sống ở khu vực nông thôn vẫn là ưu tiên hàng đầu của các nhà hoạch định chính sách.
+23,chỉ đạo,Thực hiện một hoạt động; hành vi hoặc cách thức.,Trường đại học sẽ tiến hành một nghiên cứu dài hạn về sức khỏe tinh thần của sinh viên trong vòng 5 năm.
+24,kết quả,Kết quả hoặc tác động của một hành động hoặc sự kiện.,Nạn phá rừng gây ra những hậu quả nghiêm trọng đối với đa dạng sinh học và các mô hình khí hậu toàn cầu.
+25,coi như,Suy nghĩ kỹ lưỡng trước khi quyết định.,Các nhà hoạch định chính sách cần xem xét những hệ quả lâu dài của việc nâng tuổi nghỉ hưu.
+26,bao gồm,Được cấu thành hoặc bao gồm nhiều bộ phận.,"Một chế độ ăn uống cân bằng nên bao gồm protein, carbohydrate, chất béo, vitamin và khoáng chất."
+27,tiêu thụ,Sử dụng hết một nguồn tài nguyên hoặc ăn/uống một thứ gì đó.,Các quốc gia phát triển tiêu thụ tài nguyên thiên nhiên bình quân đầu người nhiều hơn rất nhiều so với các quốc gia đang phát triển.
+28,đóng góp,Góp phần vào nỗ lực hoặc kết quả chung.,Hoạt động tình nguyện có thể đóng góp rất lớn vào sự phát triển cá nhân và phúc lợi cộng đồng.
+29,điều khiển,Điều chỉnh hoặc có quyền lực đối với một điều gì đó.,Việc chính phủ kiểm soát chặt chẽ hơn lượng khí thải công nghiệp là cần thiết để chống ô nhiễm không khí.
+30,tạo nên,Tạo ra một thứ gì đó.,Đầu tư vào năng lượng tái tạo có thể tạo ra hàng ngàn việc làm mới trên toàn nền kinh tế.
+31,văn hoá,"Niềm tin, phong tục và nghệ thuật của một xã hội.",Toàn cầu hóa vừa làm giàu vừa đe dọa các nền văn hóa địa phương trên khắp thế giới.
+32,dữ liệu,Các dữ liệu hoặc số liệu thống kê được thu thập để phân tích.,Dữ liệu đáng tin cậy là yếu tố thiết yếu để xây dựng các chính sách y tế công cộng hiệu quả.
+33,sự suy sụp,Giảm dần hoặc trở nên nhỏ hơn theo thời gian.,"Trong những thập kỷ gần đây, đa dạng sinh học đã suy giảm mạnh do hoạt động của con người."
+34,định nghĩa,Để diễn đạt ý nghĩa hoặc bản chất của một điều gì đó.,Điều quan trọng là phải định nghĩa rõ ràng thuật ngữ 'bền vững' trước khi thảo luận về các giải pháp chính sách.
+35,yêu cầu,Nhu cầu hoặc mong muốn về một loại hàng hóa hoặc dịch vụ.,Nhu cầu ngày càng tăng đối với xe điện đang thúc đẩy sự đổi mới trong công nghệ pin.
+36,phụ thuộc,Dựa dẫm vào ai đó hoặc điều gì đó để được hỗ trợ.,Nhiều quốc gia đang phát triển phụ thuộc rất nhiều vào viện trợ nước ngoài để phát triển cơ sở hạ tầng cơ bản.
+37,mô tả,Trình bày sự việc bằng lời nói.,Báo cáo mô tả sự gia tăng đáng kể nhiệt độ trung bình toàn cầu kể từ năm 1950.
+38,phát triển,"Phát triển, tiến bộ hoặc tạo ra điều gì đó mới.",Các quốc gia cần phát triển nền nông nghiệp bền vững để đáp ứng nhu cầu của dân số ngày càng tăng.
+39,sự khác biệt,Một cách mà mọi thứ không giống nhau.,Có sự khác biệt đáng kể về mức thu nhập giữa dân cư thành thị và nông thôn.
+40,phân phát,Phân phối hoặc truyền tải một thứ gì đó trên một khu vực.,Chính phủ có trách nhiệm phân bổ nguồn lực công một cách công bằng cho người dân.
+41,phong phú,Bao gồm nhiều loại hoặc biến thể khác nhau.,Một lực lượng lao động đa dạng mang đến nhiều góc nhìn và ý tưởng phong phú hơn cho tổ chức.
+42,thuộc kinh tế,Liên quan đến việc sản xuất và sử dụng tiền.,Sự phát triển kinh tế nhanh chóng đã giúp hàng triệu người thoát nghèo ở châu Á.
+43,giáo dục,Quá trình tiếp nhận hướng dẫn một cách có hệ thống.,Tiếp cận với nền giáo dục chất lượng được xem là một quyền cơ bản của con người.
+44,tác dụng,Sự thay đổi hoặc kết quả do một nguyên nhân nào đó tạo ra.,Tác động lâu dài của việc thiếu ngủ đối với chức năng nhận thức đã được ghi nhận rõ ràng.
+45,xuất hiện,Xuất hiện hoặc được biết đến.,Các công nghệ mới tiếp tục xuất hiện như những giải pháp cho cuộc khủng hoảng năng lượng toàn cầu.
+46,thuê,Thuê người làm việc để nhận tiền công.,Ngành sản xuất vẫn tiếp tục sử dụng một tỷ lệ lớn lực lượng lao động quốc gia.
+47,năng lượng,Năng lượng được tạo ra từ các nguồn tài nguyên thiên nhiên hoặc được chuyển hóa.,Việc chuyển đổi sang các nguồn năng lượng tái tạo là rất quan trọng để giảm phát thải khí nhà kính.
+48,môi trường,Thế giới tự nhiên hoặc môi trường xung quanh của một sinh vật.,Bảo vệ môi trường tự nhiên nên là ưu tiên hàng đầu của cả chính phủ và cá nhân.
+49,thành lập,Thiết lập hoặc tạo ra một cái gì đó trên cơ sở vững chắc.,Chính phủ đã thành lập một cơ quan quản lý mới để giám sát lĩnh vực tài chính.
+50,đánh giá,Đánh giá giá trị hoặc chất lượng của một thứ gì đó.,Việc đánh giá kỹ lưỡng các nguồn thông tin trước khi trích dẫn là điều vô cùng cần thiết.
+51,chứng cớ,Các sự kiện hoặc thông tin hỗ trợ cho kết luận.,Có nhiều bằng chứng thực nghiệm mạnh mẽ cho thấy mối liên hệ giữa hút thuốc và nhiều bệnh nghiêm trọng.
+52,nghiên cứu,Điều tra hoặc kiểm tra kỹ lưỡng một vấn đề nào đó.,Bài luận này sẽ xem xét mối quan hệ giữa bất bình đẳng kinh tế và tỷ lệ tội phạm.
+53,mở rộng,"Tăng về kích thước, số lượng hoặc phạm vi.",Nhiều tập đoàn đang tìm cách mở rộng hoạt động kinh doanh sang các thị trường mới nổi ở châu Á.
+54,trông chờ,Tin rằng điều gì đó sẽ xảy ra trong tương lai.,Người ta dự đoán rộng rãi rằng tự động hóa sẽ làm thay đổi diện mạo việc làm trong vòng vài thập kỷ tới.
+55,kinh nghiệm,Kiến thức hoặc kỹ năng thu được thông qua thực hành.,Các chương trình thực tập giúp sinh viên phát triển các kỹ năng thực tiễn cần thiết cho công việc trong tương lai.
+56,giải thích,Làm cho điều gì đó trở nên rõ ràng hơn bằng cách mô tả nó.,Khả năng giải thích rõ ràng các lý thuyết phức tạp đã giúp vị giáo sư này được mọi người kính trọng.
+57,nhân tố,Một yếu tố góp phần tạo nên kết quả.,Chế độ ăn uống và tập luyện là những yếu tố quan trọng quyết định sức khỏe lâu dài của một người.
+58,tính năng,Một đặc điểm hoặc thuộc tính riêng biệt của một sự vật nào đó.,Một đặc điểm quan trọng của quy hoạch đô thị thành công là việc cung cấp các không gian xanh dễ tiếp cận.
+59,tập trung,Tập trung sự chú ý hoặc nỗ lực vào một việc gì đó.,Chính sách của chính phủ nên tập trung vào việc cung cấp nhà ở giá rẻ cho các gia đình có thu nhập thấp.
+60,chức năng,Mục đích hoặc vai trò mà một vật được thiết kế để thực hiện.,Chức năng chính của hệ miễn dịch là bảo vệ cơ thể khỏi bệnh tật.
+61,phát ra,Sản xuất hoặc tạo ra một cái gì đó.,Tấm pin mặt trời có thể tạo ra đủ điện năng để cung cấp điện cho toàn bộ một hộ gia đình.
+62,toàn cầu,Liên quan đến hoặc bao trùm toàn bộ thế giới.,Hợp tác toàn cầu là điều thiết yếu để giải quyết hiệu quả những thách thức của biến đổi khí hậu.
+63,quản lý,Kiểm soát hoặc điều hành một quốc gia hoặc tổ chức.,Các quốc gia dân chủ phải được quản lý theo cách phản ánh ý chí của người dân.
+64,sự phát triển,Quá trình tăng trưởng về kích thước hoặc giá trị.,Tăng trưởng kinh tế bền vững là điều cần thiết để giảm tỷ lệ thất nghiệp và nâng cao mức sống.
+65,làm hại,Thiệt hại về thể chất hoặc tâm lý gây ra cho một vật nào đó.,Lạm dụng mạng xã hội có thể gây tổn hại tâm lý cho những người trẻ dễ bị tổn thương.
+66,sức khỏe,Trạng thái không bị bệnh tật hoặc thương tích.,Chính phủ cần đầu tư vào cơ sở hạ tầng y tế công cộng để ngăn chặn sự lây lan của dịch bệnh.
+67,sự va chạm,Tác động hoặc ảnh hưởng mạnh mẽ lên điều gì đó.,Quá trình đô thị hóa có tác động đáng kể đến hệ sinh thái địa phương và nguồn nước.
+68,thực hiện,Đưa một kế hoạch hoặc quyết định vào thực thi.,Chính phủ có kế hoạch ban hành các quy định mới để giảm lượng khí thải carbon công nghiệp.
+69,cải thiện ,Làm cho chất lượng tốt hơn hoặc trở nên tốt hơn.,Đầu tư vào giáo dục là cách hiệu quả nhất để cải thiện kết quả kinh tế dài hạn.
+70,tăng,Trở nên hoặc làm cho thứ gì đó trở nên lớn hơn về số lượng.,Số lượng xe điện bán ra trên toàn cầu đã tăng lên đáng kể.
+71,biểu thị,Để chỉ ra hoặc nhấn mạnh điều gì đó có khả năng xảy ra.,Các nghiên cứu gần đây chỉ ra rằng hoạt động thể chất thường xuyên giúp giảm nguy cơ mắc các bệnh mãn tính.
+72,cá nhân,"Một cá nhân riêng biệt, khác với một nhóm người.",Bảo vệ quyền cá nhân là nền tảng của bất kỳ xã hội dân chủ nào.
+73,ảnh hưởng,Khả năng tác động đến con người hoặc sự vật.,Mạng xã hội có ảnh hưởng sâu sắc đến quan điểm chính trị của giới trẻ.
+74,cơ sở hạ tầng,Các hệ thống vật chất cơ bản hỗ trợ một cộng đồng.,Đầu tư vào cơ sở hạ tầng giao thông là yếu tố then chốt để thúc đẩy phát triển kinh tế khu vực.
+75,sáng kiến,Một kế hoạch hoặc hành động mới nhằm giải quyết một vấn đề.,"Chính phủ đã khởi xướng một sáng kiến ​​mới nhằm khuyến khích giới trẻ theo đuổi các ngành nghề liên quan đến STEM (Khoa học, Công nghệ, Kỹ thuật và Toán học)."
+76,tổ chức,Một tổ chức đã được thành lập với mục đích xã hội.,Các thể chế dân chủ phải duy trì tính độc lập để đảm bảo một xã hội công bằng và chính trực.
+77,liên quan,Bao gồm hoặc yêu cầu một cái gì đó như một phần.,Quy hoạch đô thị hiệu quả cần tích cực thu hút người dân tham gia vào quá trình ra quyết định.
+78,vấn đề,Một chủ đề hoặc vấn đề quan trọng cần thảo luận.,Biến đổi khí hậu là một trong những vấn đề cấp bách nhất mà cộng đồng quốc tế đang phải đối mặt hiện nay.
+79,biện minh,Để chứng minh điều gì đó là đúng hoặc hợp lý.,Các chính phủ phải có khả năng chứng minh cho người dân thấy việc tăng chi tiêu quốc phòng là hợp lý.
+80,thiếu,Sự thiếu hụt hoặc không có một thứ gì đó cần thiết.,Việc thiếu nước sạch vẫn là một thách thức lớn ở các quốc gia đang phát triển.
+81,giới hạn,Điểm mà vật thể không thể vượt qua.,Các quốc gia phải nhất trí về các giới hạn ràng buộc pháp lý đối với lượng khí thải carbon dioxide.
+82,duy trì,Giữ nguyên trạng thái hiện tại của một vật gì đó.,Việc duy trì đa dạng sinh học ngày càng trở nên khó khăn ở các khu vực đô thị hóa cao.
+83,lớn lao,Có tầm quan trọng hoặc mức độ nghiêm trọng rất lớn.,Ô nhiễm không khí là một vấn đề sức khỏe cộng đồng nghiêm trọng ở nhiều thành phố lớn nhất thế giới.
+84,quản lý,Chịu trách nhiệm hoặc kiểm soát một việc gì đó.,Phát triển bền vững đòi hỏi các chính phủ phải quản lý cẩn thận các nguồn tài nguyên thiên nhiên.
+85,đo lường,Hành động được thực hiện để đạt được mục tiêu; để định lượng.,Các chính phủ phải có những biện pháp quyết liệt để giải quyết vấn đề thất nghiệp ngày càng gia tăng trong giới trẻ.
+86,phương pháp,Một phương pháp cụ thể để thực hiện một việc gì đó một cách có hệ thống.,Các nhà khoa học phải áp dụng các phương pháp nghiên cứu nghiêm ngặt để đảm bảo tính xác thực của các phát hiện của họ.
+87,di cư,Di chuyển từ vùng này sang vùng khác hoặc từ quốc gia này sang quốc gia khác.,Nhiều lao động nông thôn di cư đến thành phố để tìm kiếm cơ hội việc làm tốt hơn.
+88,hiện đại,Liên quan đến thời điểm hiện tại; đương đại.,Công nghệ hiện đại đã thay đổi căn bản cách thức con người giao tiếp và tiếp cận thông tin.
+89,màn hình,Quan sát và kiểm tra một điều gì đó theo thời gian.,Các cơ quan y tế phải liên tục giám sát chất lượng không khí tại các khu vực đô thị đông dân cư.
+90,quốc gia,Liên quan đến hoặc mang tính đặc trưng của cả một quốc gia.,Chính phủ đã ban hành chương trình giáo dục quốc gia nhằm chuẩn hóa nền giáo dục trên toàn quốc.
+91,tự nhiên,Tồn tại trong tự nhiên hoặc được tạo ra bởi tự nhiên.,Việc khai thác quá mức tài nguyên thiên nhiên là mối đe dọa nghiêm trọng đối với sự bền vững sinh thái.
+92,cần thiết,Cần thiết hoặc hoàn toàn bắt buộc.,Việc chính phủ đầu tư vào cơ sở hạ tầng là cần thiết để hỗ trợ tăng trưởng kinh tế.
+93,tiêu cực,Có tính chất hoặc tác động bất lợi.,Tiếp xúc lâu dài với nạn bắt nạt trực tuyến có thể gây ra những ảnh hưởng tiêu cực nghiêm trọng đến sức khỏe tâm thần.
+94,đạt được,Đạt được hoặc có được điều gì đó thông qua nỗ lực.,Sinh viên phải đạt điểm tối thiểu để đủ điều kiện tham gia các chương trình học bổng của trường đại học.
+95,xảy ra,Xảy ra hoặc diễn ra.,Biến đổi khí hậu được dự đoán sẽ dẫn đến tần suất xảy ra thiên tai ngày càng cao.
+96,cơ hội,Một tình huống thuận lợi cho phép tiến bộ.,Tiếp cận với nền giáo dục chất lượng mang lại cho giới trẻ nhiều cơ hội kinh tế hơn.
+97,kết quả,Kết quả hoặc hậu quả của một hành động.,Các chương trình can thiệp sớm thường mang lại kết quả học tập tốt hơn cho trẻ em.
+98,tham gia,Tham gia vào một hoạt động hoặc sự kiện.,Cần khuyến khích người dân tích cực tham gia vào quá trình ra quyết định của chính quyền địa phương.
+99,chính sách,Kế hoạch hoặc phương án hành động được một cơ quan có thẩm quyền thông qua.,Chính sách năng lượng hiệu quả là yếu tố thiết yếu để giảm lượng khí thải carbon của một quốc gia.
+100,ô nhiễm,Gây ô nhiễm môi trường bằng các chất độc hại.,Các hoạt động công nghiệp tiếp tục gây ô nhiễm sông ngòi và làm tổn hại hệ sinh thái thủy sinh trên toàn cầu.
+101,dân số,Tất cả cư dân của một địa điểm cụ thể.,Dân số già hóa đặt ra những thách thức đáng kể đối với hệ thống lương hưu và chăm sóc sức khỏe.
+102,tích cực,Có tác dụng có lợi hoặc tốt.,Thái độ tích cực đối với việc học tập suốt đời có thể cải thiện đáng kể triển vọng nghề nghiệp.
+103,tiềm năng,Có khả năng phát triển hoặc đạt được điều gì đó.,Trí tuệ nhân tạo có tiềm năng cách mạng hóa việc chẩn đoán và điều trị trong lĩnh vực chăm sóc sức khỏe.
+104,ngăn chặn,Ngăn chặn điều gì đó xảy ra.,Các chương trình tiêm chủng là một trong những cách hiệu quả nhất để ngăn ngừa sự lây lan của bệnh tật.
+105,sơ đẳng,Quan trọng nhất hoặc ưu tiên hàng đầu.,Mục tiêu chính của bất kỳ hệ thống y tế nào cũng phải là bảo vệ và nâng cao sức khỏe.
+106,quá trình,Một chuỗi các bước để đạt được kết quả.,Quá trình dân chủ dựa trên việc công dân được tiếp cận với thông tin khách quan và chính xác.
+107,sản xuất,Tạo ra hoặc làm ra một thứ gì đó.,Các nhà máy thải ra lượng khí thải cao phải tuân thủ các quy định nghiêm ngặt hơn.
+108,khuyến khích,Hỗ trợ hoặc khuyến khích sự phát triển của một điều gì đó.,Các chiến dịch thúc đẩy thói quen ăn uống lành mạnh có thể giúp giảm tỷ lệ béo phì ở trẻ em.
+109,đề xuất,Đưa ra một kế hoạch hoặc đề xuất.,Một số nhà kinh tế đã đề xuất thuế carbon như một giải pháp để giảm lượng khí thải.
+110,bảo vệ,Để bảo vệ khỏi tổn hại hoặc hư hỏng.,Chính phủ có trách nhiệm bảo vệ người dân khỏi những hậu quả của ô nhiễm môi trường.
+111,cung cấp,Cung cấp thứ gì đó cho ai đó.,Nhà nước phải cung cấp các dịch vụ chăm sóc sức khỏe cơ bản cho tất cả công dân mà không có sự phân biệt đối xử.
+112,mục đích,Lý do tồn tại hoặc được thực hiện của một điều gì đó.,Mục đích chính của giáo dục đại học là trang bị cho sinh viên kỹ năng tư duy phản biện.
+113,nâng lên,Làm rõ thêm hoặc thu hút sự chú ý đến một vấn đề nào đó.,Các tổ chức quốc tế tiếp tục nâng cao nhận thức về tác động của biến đổi khí hậu.
+114,giảm bớt,Làm cho thứ gì đó nhỏ hơn hoặc ít hơn về số lượng.,Chính phủ đặt mục tiêu giảm lượng khí thải carbon xuống 50% trong vòng 20 năm tới.
+115,phản ánh,Thể hiện hoặc suy nghĩ sâu sắc về một điều gì đó.,Các chính sách của chính phủ cần phản ánh chính xác nhu cầu và giá trị của đông đảo người dân.
+116,vùng đất,Một khu vực rộng lớn với những đặc điểm riêng biệt.,Sự phát triển kinh tế có sự khác biệt rất lớn giữa các vùng ven biển và nội địa của đất nước.
+117,điều chỉnh,Kiểm soát một thứ gì đó bằng các quy tắc.,Chính phủ cần ban hành quy định về việc sử dụng các nền tảng mạng xã hội để bảo vệ người dùng trẻ tuổi.
+118,liên quan,Có mối liên hệ hoặc liên kết với điều gì đó.,Mức độ bất bình đẳng cao có liên quan mật thiết đến tỷ lệ tội phạm và bất ổn xã hội gia tăng.
+119,giải phóng,Cho phép một thứ gì đó được tự do hoặc được giải phóng.,Các quy trình công nghiệp tiếp tục thải ra một lượng lớn chất gây ô nhiễm vào khí quyển.
+120,phụ thuộc,Phụ thuộc vào ai đó hoặc điều gì đó.,Nhiều quốc gia đang phát triển vẫn phụ thuộc rất nhiều vào nhiên liệu hóa thạch để đáp ứng nhu cầu năng lượng của mình.
+121,đại diện,Đại diện hoặc hành động thay mặt cho một điều gì đó.,Các quan chức được bầu có nghĩa vụ đại diện cho quyền lợi của cử tri một cách công bằng.
+122,yêu cầu,Cần một thứ gì đó thiết yếu hoặc bắt buộc.,Giải quyết vấn đề biến đổi khí hậu đòi hỏi sự hợp tác quốc tế khẩn cấp và cam kết chính trị mạnh mẽ.
+123,nghiên cứu,Tiến hành điều tra có hệ thống để xác lập những sự thật mới.,Cần đầu tư đáng kể vào nghiên cứu y khoa để chống lại các bệnh truyền nhiễm mới nổi.
+124,nguồn lực,Nguồn cung cấp có thể được sử dụng cho một mục đích cụ thể.,Các quốc gia phải quản lý tài nguyên thiên nhiên của mình một cách có trách nhiệm để đảm bảo tính bền vững lâu dài.
+125,trả lời,Phản ứng hoặc đáp lại điều gì đó.,Chính phủ phải phản ứng nhanh chóng trước các thảm họa thiên nhiên để giảm thiểu thương vong và thiệt hại.
+126,kết quả,Điều gì đó xảy ra sau một hành động.,Chế độ ăn uống kém và lối sống ít vận động thường dẫn đến các vấn đề sức khỏe nghiêm trọng về lâu dài.
+127,giữ lại,Tiếp tục giữ hoặc nắm giữ một thứ gì đó.,Các công ty cần phát triển những chiến lược tốt hơn để giữ chân nhân tài trong thị trường cạnh tranh.
+128,tiết lộ,Làm cho điều gì đó trước đây bị che giấu trở nên công khai.,Nghiên cứu gần đây cho thấy mối tương quan mạnh mẽ giữa bất bình đẳng thu nhập và kết quả sức khỏe kém.
+129,vai trò,Chức năng hoặc vị trí mà một người hoặc một vật nào đó nắm giữ.,Giáo dục đóng vai trò then chốt trong việc giảm thiểu bất bình đẳng xã hội và thúc đẩy sự dịch chuyển xã hội.
+130,nông thôn,Liên quan đến vùng nông thôn hơn là thành thị.,Các cộng đồng nông thôn thường thiếu các nguồn lực giáo dục tương tự như dân cư thành thị.
+131,lĩnh vực,Một bộ phận riêng biệt của nền kinh tế hoặc xã hội.,Khu vực công đóng vai trò quan trọng trong việc cung cấp các dịch vụ thiết yếu cho người dân.
+132,có ý nghĩa,Quan trọng hoặc đủ lớn để gây ảnh hưởng.,Tỷ lệ tội phạm đã giảm đáng kể về mặt thống kê trong những thập kỷ gần đây.
+133,xã hội,Một cộng đồng người cùng chung sống.,Một xã hội công bằng và chính trực phải đảm bảo cơ hội bình đẳng cho tất cả công dân.
+134,giải pháp,Một cách giải quyết vấn đề.,Hợp tác quốc tế là cần thiết để tìm ra các giải pháp lâu dài cho biến đổi khí hậu toàn cầu.
+135,nguồn,Nguồn gốc hoặc sự cung cấp của một thứ gì đó.,Các nhà nghiên cứu phải trích dẫn các nguồn đáng tin cậy khi trình bày bằng chứng trong các công trình học thuật.
+136,tiêu chuẩn,Mức độ chất lượng hoặc thành tích được kỳ vọng.,Nâng cao chất lượng giáo dục được xem là yếu tố thiết yếu để cải thiện khả năng cạnh tranh kinh tế quốc gia.
+137,chiến lược,Một kế hoạch được thiết kế để đạt được mục tiêu dài hạn.,Chính phủ vừa công bố một chiến lược quốc gia mới nhằm giải quyết vấn nạn béo phì ngày càng gia tăng.
+138,kết cấu,Sự sắp xếp có tổ chức các bộ phận trong một vật thể nào đó.,Các cấu trúc xã hội cứng nhắc có thể cản trở sự thăng tiến xã hội và duy trì bất bình đẳng.
+139,gợi ý,Đưa ra một ý tưởng hoặc khả năng nào đó.,Các bằng chứng cho thấy giáo dục mầm non mang lại những lợi ích lâu dài cho sự phát triển nhận thức.
+140,ủng hộ,Hỗ trợ hoặc tranh luận ủng hộ một điều gì đó.,Hỗ trợ tài chính của chính phủ dành cho các doanh nghiệp nhỏ là vô cùng quan trọng trong thời kỳ suy thoái kinh tế.
+141,duy trì,Duy trì hoặc giữ cho một điều gì đó tiếp diễn theo thời gian.,Việc áp dụng các chính sách duy trì tăng trưởng kinh tế mà không gây hại đến môi trường là vô cùng quan trọng.
+142,hệ thống,Một tập hợp có tổ chức gồm các yếu tố liên quan với nhau.,Một hệ thống chăm sóc sức khỏe được đầu tư đầy đủ là điều thiết yếu để duy trì một dân số khỏe mạnh và năng suất.
+143,mục tiêu,Một mục tiêu hoặc một nhóm được nhắm đến một cách cụ thể.,Các quốc gia cần đặt ra những mục tiêu đầy tham vọng để giảm phát thải khí nhà kính vào năm 2050.
+144,công nghệ,Ứng dụng kiến ​​thức khoa học vào thực tiễn.,Những tiến bộ trong công nghệ đã giúp việc tiếp cận thông tin ở bất cứ đâu trên thế giới trở nên khả thi.
+145,có khuynh hướng,Có khuynh hướng chung về một điều gì đó.,Các quốc gia giàu có thường thải ra lượng khí thải carbon bình quân đầu người cao hơn so với các nước đang phát triển.
+146,lý thuyết,Một hệ thống các ý tưởng được sử dụng để giải thích các hiện tượng.,Thuyết tiến hóa của Darwin đã thay đổi căn bản sự hiểu biết của chúng ta về sự sống trên Trái đất.
+147,truyền thống,Dựa trên các phong tục và tập quán lâu đời.,Toàn cầu hóa đã thách thức các giá trị truyền thống và bản sắc văn hóa trong nhiều xã hội.
+148,biến đổi,Thay đổi hoàn toàn một thứ gì đó về hình thức hoặc bản chất.,Công nghệ kỹ thuật số có khả năng thay đổi cách thức làm việc và giao tiếp của con người.
+149,xu hướng,Hướng phát triển tổng quát của một sự việc nào đó.,Xu hướng đô thị hóa toàn cầu không có dấu hiệu chậm lại trong những thập kỷ tới.
+150,đô thị,Liên quan đến hoặc mang đặc điểm của một thành phố.,Quá trình đô thị hóa nhanh chóng đã tạo ra áp lực rất lớn lên cơ sở hạ tầng giao thông công cộng.
+151,giá trị,Tầm quan trọng hoặc giá trị được gán cho một điều gì đó.,Các giá trị cốt lõi như bình đẳng và công lý là nền tảng của hầu hết các hiến pháp dân chủ hiện đại.
+152,thay đổi,Khác biệt hoặc thay đổi tùy thuộc vào hoàn cảnh.,Tuổi thọ trung bình khác nhau đáng kể giữa các quốc gia tùy thuộc vào thu nhập và chất lượng chăm sóc sức khỏe.
+153,nạn nhân,Người bị tổn hại do tội ác hoặc rủi ro.,Cần phải có các hệ thống hỗ trợ đầy đủ để giúp nạn nhân của bạo lực gia đình phục hồi.
+154,phúc lợi,"Sức khỏe, hạnh phúc và sự an lành của một người.",Hệ thống phúc lợi xã hội cung cấp mạng lưới an sinh xã hội cho người dân trong thời kỳ thất nghiệp hoặc ốm đau.
+155,truy cập,Khả năng hoặc quyền được có được hoặc sử dụng một thứ gì đó.,Đảm bảo quyền tiếp cận bình đẳng đối với dịch vụ chăm sóc sức khỏe là nghĩa vụ cơ bản của bất kỳ chính phủ công bằng nào.
+156,thích nghi,Thích nghi với điều kiện hoặc hoàn cảnh mới.,"Để duy trì khả năng cạnh tranh, các doanh nghiệp phải liên tục thích ứng với điều kiện thị trường thay đổi nhanh chóng."
+157,Địa chỉ,Giải quyết hoặc nói về một vấn đề.,Các nhà hoạch định chính sách cần khẩn trương giải quyết vấn đề gia tăng tình trạng vô gia cư tại các thành phố lớn.
+158,đủ,Đạt yêu cầu hoặc đáp ứng đủ mục đích cụ thể.,Mỗi đứa trẻ đều có quyền được hưởng một nền giáo dục và dinh dưỡng đạt tiêu chuẩn đầy đủ.
+159,hãng,Một tổ chức hành động thay mặt cho một tổ chức khác; quyền tự chủ.,Một cơ quan chính phủ đã được thành lập với mục đích cụ thể là giám sát các vấn đề bảo vệ môi trường.
+160,tranh cãi,Đưa ra các lý do để ủng hộ một quan điểm.,Nhiều nhà kinh tế cho rằng thương mại tự do mang lại lợi ích cho cả các nước đang phát triển và các nước phát triển.
+161,nhận thức,Có kiến ​​thức hoặc nhận thức về một điều gì đó.,Giới trẻ ngày càng nhận thức rõ hơn về những hậu quả của biến đổi khí hậu đối với tương lai của họ.
+162,THĂNG BẰNG,Phân phối đồng đều hoặc trạng thái cân bằng ổn định.,Cần có một cách tiếp cận cân bằng nhằm thúc đẩy tăng trưởng kinh tế đồng thời bảo vệ môi trường.
+163,rào cản,Điều gì đó cản trở sự tiếp cận hoặc tiến bộ.,Những rào cản về tài chính vẫn tiếp tục ngăn cản nhiều sinh viên tài năng tiếp cận giáo dục đại học.
+164,hành vi,Cách thức hành động của một người hoặc một sinh vật.,Các chương trình giáo dục có thể thay đổi hành vi một cách hiệu quả và thúc đẩy lối sống lành mạnh hơn.
+165,ngân sách,Ước tính thu nhập và chi tiêu trong một khoảng thời gian.,Chính phủ phải phân bổ một phần ngân sách quốc gia đủ lớn cho giáo dục công lập.
+166,thủ đô,Tài sản được sử dụng để tạo ra thu nhập; nơi đặt trụ sở chính phủ của một quốc gia.,Đầu tư vào nguồn vốn con người thông qua giáo dục mang lại lợi ích kinh tế lâu dài đáng kể.
+167,biểu đồ,Hình thức trực quan hóa dữ liệu; dùng để ghi lại dữ liệu.,Biểu đồ minh họa sự gia tăng ổn định của nhiệt độ trung bình toàn cầu từ năm 1980 đến năm 2020.
+168,sự lựa chọn,Sự lựa chọn được thực hiện từ các phương án có sẵn.,Chính phủ nên tôn trọng sự lựa chọn cá nhân đồng thời đảm bảo người dân được cung cấp đầy đủ thông tin.
+169,sưu tầm,Thu thập các vật phẩm hoặc thông tin lại với nhau.,Các nhà nghiên cứu thu thập dữ liệu từ hàng nghìn người tham gia để đảm bảo độ tin cậy về mặt thống kê.
+170,làm,Cam kết hoặc cống hiến hết mình cho một hướng hành động nào đó.,Các quốc gia phải cam kết thực hiện các thỏa thuận ràng buộc để giảm đáng kể lượng khí thải nhà kính của mình.
+171,giao tiếp,Để chia sẻ hoặc trao đổi thông tin một cách hiệu quả.,Khả năng giao tiếp rõ ràng và thuyết phục là điều thiết yếu trong đời sống học thuật và nghề nghiệp.
+172,hoàn thành,Cùng nhau nỗ lực vượt qua thử thách để đạt được mục tiêu chung.,Các quốc gia cần đầu tư vào giáo dục và đổi mới sáng tạo để cạnh tranh hiệu quả trong nền kinh tế toàn cầu.
+173,xung đột,Một sự bất đồng nghiêm trọng hoặc một cuộc đấu tranh kéo dài.,Xung đột vũ trang tiếp tục khiến hàng triệu người phải di dời ở nhiều khu vực trên thế giới.
+174,hợp đồng,Một thỏa thuận pháp lý chính thức giữa các bên.,Người lao động luôn nên đọc kỹ hợp đồng lao động trước khi ký bất kỳ văn bản nào.
+175,đối phó,Để xử lý hiệu quả một tình huống khó khăn.,Nhiều cộng đồng đang phải vật lộn để đối phó với tần suất ngày càng gia tăng của các thảm họa thiên nhiên.
+176,tham nhũng,Không trung thực hoặc sẵn sàng hành động phi đạo đức để đạt được lợi ích.,Các quan chức tham nhũng lạm dụng công quỹ làm suy yếu lòng tin của người dân đối với chính phủ.
+177,trị giá,Số tiền cần thiết để mua hoặc làm một việc gì đó.,Chi phí sinh hoạt ngày càng tăng cao khiến các gia đình có thu nhập thấp gặp khó khăn hơn trong việc mua nhà.
+178,tội phạm,Hành vi bất hợp pháp có thể bị pháp luật trừng phạt.,Giải quyết tận gốc nguyên nhân gây ra nghèo đói là điều thiết yếu để giảm tỷ lệ tội phạm bạo lực.
+179,khủng hoảng,Một thời điểm vô cùng khó khăn hoặc nguy hiểm.,Cuộc khủng hoảng tài chính toàn cầu năm 2008 đã chứng minh nền kinh tế hiện đại ngày càng trở nên liên kết chặt chẽ với nhau.
+180,phê bình,Cần phân tích kỹ lưỡng; có tầm quan trọng rất lớn.,Tư duy phản biện là một kỹ năng thiết yếu để phân tích các vấn đề phức tạp trong đời sống học thuật và nghề nghiệp.
+181,giảm bớt,Trở nên nhỏ hơn về kích thước hoặc số lượng.,Số người sống trong cảnh nghèo cùng cực trên toàn cầu đã giảm đều đặn.
+182,nền dân chủ,Một hệ thống chính phủ do các đại diện được bầu chọn.,Một nền dân chủ sôi động phụ thuộc vào một tầng lớp công dân được thông tin đầy đủ và một nền báo chí tự do.
+183,phát hiện,Phát hiện hoặc nhận biết sự hiện diện của một thứ gì đó.,"Các công cụ sàng lọc tiên tiến có thể phát hiện một số loại ung thư ở giai đoạn sớm hơn, giúp việc điều trị dễ dàng hơn."
+184,bệnh,Bệnh do nhiễm trùng hoặc rối loạn chức năng gây ra.,Ngăn ngừa sự lây lan của bệnh truyền nhiễm đòi hỏi đầu tư đáng kể vào cơ sở hạ tầng y tế công cộng.
+185,nội địa,Liên quan đến nhà cửa hoặc đất nước của một người.,Các quyết định chính sách trong nước có thể gây ra những hậu quả đáng kể đối với vị thế quốc tế của một quốc gia.
+186,thống trị,Có quyền lực hoặc tầm ảnh hưởng lớn nhất đối với người khác.,Một số ít tập đoàn đa quốc gia thống trị thương mại toàn cầu trong lĩnh vực sản xuất thực phẩm.
+187,kinh tế,Hệ thống sản xuất và tiêu dùng trong một quốc gia.,Đa dạng hóa nền kinh tế quốc gia giúp giảm thiểu sự dễ tổn thương của một quốc gia trước những biến động giá cả hàng hóa.
+188,khí thải,Quá trình sản sinh và thải khí vào khí quyển.,Giảm phát thải carbon là yếu tố then chốt trong các nỗ lực quốc tế nhằm giải quyết vấn đề biến đổi khí hậu.
+189,thực thi,Buộc tuân thủ luật hoặc quy định.,"Nếu không có đủ nguồn lực, chính phủ không thể thực thi hiệu quả các luật bảo vệ môi trường."
+190,nhận dạng,Nhận biết hoặc xác định danh tính của một thứ gì đó.,Nghiên cứu này nhằm mục đích xác định các yếu tố chính góp phần làm gia tăng tỷ lệ thất nghiệp trong giới trẻ.
+191,quan sát,Quan sát kỹ lưỡng hoặc để ý đến điều gì đó.,Các nhà khoa học quan sát hành vi của động vật trong môi trường sống tự nhiên để hiểu rõ hơn về các hệ sinh thái.
+192,loại,Một lớp hoặc nhóm các sự vật có chung đặc điểm.,"Báo cáo chia chất thải thành ba loại chính: chất thải tái chế, chất thải hữu cơ và chất thải nguy hại."
+193,nguyên tắc,Một chân lý hoặc quy tắc cơ bản định hướng hành vi.,Nguyên tắc bình đẳng là nền tảng của luật nhân quyền quốc tế và quản trị dân chủ.
+194,xuất bản,Cung cấp thông tin hoặc tác phẩm cho công chúng.,Các nhà nghiên cứu phải công bố kết quả nghiên cứu của mình trên các tạp chí uy tín để đóng góp vào tri thức khoa học.
+195,đổi mới,Giới thiệu những ý tưởng hoặc phương pháp mới.,Các công ty không đổi mới sẽ có nguy cơ bị các đối thủ nhanh nhẹn hơn vượt mặt trên thị trường.
+196,tích hợp,Kết hợp hoặc gộp các phần lại thành một chỉnh thể.,Cần có những chính sách hiệu quả để giúp người tị nạn hòa nhập vào cộng đồng sở tại.
+197,phân bổ,Phân bổ nguồn lực cho một mục đích cụ thể.,Chính phủ phải phân bổ đủ kinh phí để duy trì và cải thiện các dịch vụ y tế công cộng.
+198,điều phối,Tổ chức mọi người hoặc các nhóm để cùng nhau làm việc.,Các tổ chức quốc tế phải phối hợp các nỗ lực cứu trợ thiên tai để đạt hiệu quả tối đa.
+199,tranh luận,Một cuộc thảo luận chính thức về các quan điểm trái ngược.,Hiện vẫn đang có cuộc tranh luận giữa các nhà kinh tế về những tác động lâu dài của toàn cầu hóa đối với bất bình đẳng.
+200,phơi ra,Để lộ ra hoặc không được bảo vệ khỏi điều gì đó.,Trẻ em tiếp xúc với bạo lực trên phương tiện truyền thông có thể hình thành thái độ chai sạn trước những hành vi gây hại.
+201,tăng tốc,Tăng tốc độ hoặc tỷ lệ.,Đổi mới công nghệ đã thúc đẩy tăng trưởng kinh tế ở nhiều quốc gia đang phát triển.
+202,chứa,Cung cấp không gian hoặc thích ứng với các nhu cầu.,Các thành phố cần mở rộng cơ sở hạ tầng để đáp ứng nhu cầu ngày càng tăng của dân số đô thị.
+203,tích lũy,Tích lũy hoặc thu thập dần dần theo thời gian.,Các hộ gia đình ở các nước phát triển có xu hướng tích lũy được nhiều của cải hơn qua nhiều thế hệ.
+204,thừa nhận,Nhận biết hoặc thừa nhận sự tồn tại của một điều gì đó.,Các chính phủ phải thừa nhận vai trò của nghèo đói trong việc thúc đẩy bất bình đẳng xã hội.
+205,sự mua lại,Hành động giành được hoặc đạt được điều gì đó.,Việc tiếp thu ngôn ngữ sớm đóng vai trò rất quan trọng đối với thành công học tập lâu dài của trẻ.
+206,bất lợi,Có tác động bất lợi hoặc gây hại.,Tiếp xúc lâu dài với ô nhiễm có thể gây ra những tác động xấu đến sức khỏe cộng đồng.
+207,người ủng hộ,Công khai ủng hộ một lý tưởng hoặc chính sách nào đó.,Nhiều nhà giáo dục ủng hộ việc giảm sĩ số lớp học để cải thiện kết quả học tập.
+208,giảm nhẹ,Làm cho nỗi đau khổ hoặc vấn đề trở nên bớt nghiêm trọng hơn.,Các chương trình viện trợ nước ngoài nhằm mục đích giảm nghèo ở các quốc gia kém phát triển nhất thế giới.
+209,tham vọng,Có khát vọng mạnh mẽ để đạt được những mục tiêu đầy thách thức.,Chính phủ đã đặt ra mục tiêu đầy tham vọng là giảm lượng khí thải carbon 50% vào năm 2030.
+210,khoa trương,Tăng cường sức mạnh hoặc hiệu quả của một चीज nào đó.,Mạng xã hội có thể khuếch đại các cuộc thảo luận công khai nhưng cũng có thể lan truyền thông tin sai lệch một cách nhanh chóng.
+211,dự đoán,Mong đợi hoặc dự đoán điều gì đó trước khi nó xảy ra.,Các nhà hoạch định chính sách cần phải dự đoán những thay đổi nhân khẩu học trong tương lai khi lập kế hoạch cung cấp dịch vụ công.
+212,rõ ràng,Rõ ràng hoặc hiển nhiên; có vẻ đúng.,Rõ ràng là việc tiếp cận giáo dục chất lượng vẫn còn bất bình đẳng giữa các tầng lớp xã hội.
+213,thuộc tính,Coi một sự việc nào đó là do một yếu tố nào đó gây ra.,Các nhà nghiên cứu cho rằng sự gia tăng béo phì chủ yếu là do thói quen ăn uống không lành mạnh và thiếu vận động.
+214,tự động,"Hoạt động độc lập, không cần sự kiểm soát từ bên ngoài.",Xe tự lái được kỳ vọng sẽ làm thay đổi ngành vận tải toàn cầu.
+215,sự đa dạng sinh học,Đa dạng sinh vật thực vật và động vật trong một môi trường sống.,Nạn phá rừng gây ra mối đe dọa đáng kể đối với đa dạng sinh học trong các khu rừng mưa nhiệt đới.
+216,gánh nặng,Gánh nặng hoặc trách nhiệm lớn; quá tải.,Chi phí chăm sóc sức khỏe ngày càng tăng cao gây ra gánh nặng đáng kể cho cả cá nhân và chính phủ.
+217,dung tích,Lượng tối đa mà một vật có thể chứa hoặc thực hiện.,Các quốc gia đang phát triển cần xây dựng năng lực thể chế để giải quyết vấn đề biến đổi khí hậu một cách hiệu quả.
+218,dấu chân carbon,Tổng lượng khí nhà kính do một thực thể phát thải.,Mỗi cá nhân có thể giảm đáng kể lượng khí thải carbon bằng cách áp dụng chế độ ăn dựa trên thực vật.
+219,mãn tính,Kéo dài trong thời gian dài; liên tục tái diễn.,Tình trạng thất nghiệp kinh niên ở vùng nông thôn góp phần gây ra nghèo đói và loại trừ xã ​​hội trên diện rộng.
+220,dân sự,Liên quan đến công dân và trách nhiệm của họ.,Sự tham gia của người dân là yếu tố thiết yếu để duy trì một nền dân chủ lành mạnh và hoạt động hiệu quả.
+221,sự hợp tác,Cùng hợp tác với người khác để đạt được mục tiêu.,Hợp tác quốc tế là cần thiết để giải quyết các thách thức toàn cầu như biến đổi khí hậu.
+222,năng lực,Khả năng thực hiện một việc gì đó một cách hiệu quả.,Các nhà tuyển dụng ngày càng coi trọng năng lực kỹ thuật số bên cạnh các bằng cấp học thuật truyền thống.
+223,Tuân thủ,"Tuân thủ các quy tắc, tiêu chuẩn hoặc luật lệ.",Tuân thủ nghiêm ngặt các quy định về môi trường là điều thiết yếu cho sự phát triển công nghiệp bền vững.
+224,toàn diện,Bao gồm tất cả các khía cạnh; kỹ lưỡng và đầy đủ.,Một cách tiếp cận toàn diện đối với y tế công cộng cần phải giải quyết cả vấn đề phòng ngừa và điều trị.
+225,ràng buộc,Sự hạn chế hoặc ràng buộc đối với hành động.,Những hạn chế về ngân sách thường ngăn cản chính phủ đầu tư đầy đủ vào cơ sở hạ tầng công cộng.
+226,sự tiêu thụ,"Việc sử dụng hàng hóa, tài nguyên hoặc năng lượng.",Giảm tiêu thụ năng lượng là một chiến lược quan trọng để chống lại biến đổi khí hậu trên toàn cầu.
+227,đồng thời,Tồn tại hoặc xảy ra ở thời điểm hiện tại.,Xã hội đương đại đang đối mặt với những thách thức chưa từng có liên quan đến công nghệ kỹ thuật số và quyền riêng tư.
+228,gây tranh cãi,Gây ra sự bất đồng hoặc tranh luận gay gắt.,Việc sử dụng năng lượng hạt nhân vẫn là một chủ đề gây tranh cãi gay gắt trong các cuộc tranh luận về môi trường.
+229,tương quan,Để thể hiện mối quan hệ tương hỗ giữa hai sự vật.,Nghiên cứu cho thấy trình độ học vấn cao hơn có mối tương quan chặt chẽ với kết quả kinh tế tốt hơn.
+230,chương trình giảng dạy,Các môn học được giảng dạy trong trường học hoặc khóa học.,Nhiều nhà giáo dục cho rằng chương trình giáo dục quốc gia nên bao gồm nhiều kỹ năng tư duy phản biện hơn.
+231,phá rừng,Việc con người phá rừng trên quy mô lớn.,Nạn phá rừng ở Amazon chủ yếu do việc mở rộng diện tích canh tác và chăn nuôi gia súc gây ra.
+232,nhân khẩu học,Dữ liệu thống kê liên quan đến một nhóm dân số.,Những thay đổi về nhân khẩu học theo hướng dân số già hóa sẽ gây áp lực đáng kể lên hệ thống lương hưu.
+233,cạn kiệt,Làm giảm hoặc làm cạn kiệt nguồn cung của một thứ gì đó.,Việc đánh bắt cá quá mức tiếp tục làm cạn kiệt tài nguyên biển với tốc độ đáng báo động và không bền vững.
+234,xấu đi,Chất lượng ngày càng trở nên tồi tệ hơn.,"Nếu không có sự can thiệp khẩn cấp, điều kiện môi trường ở các khu vực đô thị sẽ tiếp tục xấu đi."
+235,điện tử,Liên quan đến công nghệ máy tính và internet.,Khoảng cách kỹ thuật số giữa các quốc gia giàu và nghèo có nguy cơ làm trầm trọng thêm tình trạng bất bình đẳng toàn cầu.
+236,giảm bớt,Làm cho nhỏ hơn hoặc trở nên ít quan trọng hơn.,Tự động hóa có thể làm giảm nhu cầu lao động trình độ thấp trong các ngành sản xuất.
+237,sự khác biệt,Sự khác biệt giữa những thứ đáng lẽ phải khớp nhau.,Có sự khác biệt đáng kể giữa các mục tiêu mà chính phủ tuyên bố và các chính sách thực tế của họ.
+238,phân biệt,Đối xử bất công dựa trên tư cách thành viên nhóm.,Phân biệt đối xử với phụ nữ tại nơi làm việc vẫn là một rào cản đáng kể đối với bình đẳng giới.
+239,sự chênh lệch,Sự khác biệt lớn giữa các sự vật hoặc nhóm.,Sự gia tăng bất bình đẳng giàu nghèo giữa những công dân giàu nhất và nghèo nhất đang đe dọa sự gắn kết xã hội.
+240,sự dịch chuyển,Cưỡng bức di dời người dân khỏi nhà của họ.,Xung đột vũ trang đã khiến hàng triệu người phải di dời trên khắp Trung Đông.
+241,sự gián đoạn,Một sự xáo trộn làm gián đoạn hoạt động bình thường.,Đổi mới kỹ thuật số đã gây ra sự xáo trộn rộng rãi đối với các mô hình kinh doanh và ngành công nghiệp truyền thống.
+242,trội,"Quyền lực nhất, quan trọng nhất hoặc có tầm ảnh hưởng nhất.",Tiếng Anh đã trở thành ngôn ngữ chủ đạo trong kinh doanh quốc tế và nghiên cứu học thuật.
+243,hạn hán,Một thời kỳ dài lượng mưa thấp bất thường.,Hạn hán kéo dài ở khu vực cận Sahara châu Phi đã tàn phá sản lượng nông nghiệp và an ninh lương thực.
+244,sinh thái,Liên quan đến mối quan hệ giữa sinh vật và môi trường.,Các phương thức canh tác công nghiệp đã gây ra thiệt hại nghiêm trọng về mặt sinh thái đối với đất và nguồn nước.
+245,nhấn mạnh,Một điều gì đó được coi trọng đặc biệt.,Ngày càng có nhiều sự chú trọng vào việc phát triển các kỹ năng mềm trong chương trình giáo dục hiện đại.
+246,bệnh dịch,Sự bùng phát dịch bệnh trên diện rộng trong một khu vực.,Đại dịch béo phì ở các quốc gia giàu có có liên quan đến lối sống ít vận động và chế độ ăn uống không lành mạnh.
+247,bình đẳng,Trạng thái có quyền và cơ hội bình đẳng.,Đạt được bình đẳng giới tại nơi làm việc đòi hỏi cả cải cách pháp luật và thay đổi văn hóa.
+248,đạo đức,Liên quan đến các nguyên tắc đạo đức và hành vi đúng đắn.,Việc sử dụng trí tuệ nhân tạo đặt ra những câu hỏi đạo đức quan trọng về quyền riêng tư và trách nhiệm giải trình.
+249,chi tiêu,Số tiền đã chi cho một thứ gì đó.,Tăng chi tiêu của chính phủ cho giáo dục có thể mang lại những lợi ích kinh tế lâu dài đáng kể.
+250,khai thác,Sử dụng một cách không công bằng hoặc lợi dụng một nguồn lực.,Các tập đoàn đa quốc gia đã bị chỉ trích vì bóc lột lao động giá rẻ ở các nước đang phát triển.
+251,sự tuyệt chủng,Sự kết thúc hoàn toàn sự tồn tại của một loài.,Hoạt động của con người đang đẩy nhiều loài thực vật và động vật đến bờ vực tuyệt chủng nhanh chóng.
+252,tạo điều kiện,Làm cho một hành động hoặc quy trình trở nên dễ dàng hơn.,Cải thiện cơ sở hạ tầng giao thông có thể tạo điều kiện thuận lợi cho thương mại và thúc đẩy phát triển kinh tế một cách đáng kể.
+253,tài chính,Liên quan đến thu ngân sách nhà nước và thuế.,Các chính phủ phải áp dụng các chính sách tài khóa thận trọng để tránh tích lũy nợ quốc gia quá mức.
+254,linh hoạt,Có khả năng thích nghi dễ dàng với những điều kiện thay đổi.,Các hình thức làm việc linh hoạt đã được chứng minh là giúp cải thiện sức khỏe và năng suất của nhân viên.
+255,nhiên liệu hóa thạch,Nguồn năng lượng được hình thành từ vật chất hữu cơ cổ đại.,Việc tiếp tục đốt nhiên liệu hóa thạch là nguyên nhân chính gây ra biến đổi khí hậu toàn cầu.
+256,dễ vỡ,Dễ vỡ hoặc hư hỏng; mỏng manh và dễ bị tổn thương.,Các quốc đảo nhỏ có hệ sinh thái đặc biệt dễ bị tổn thương và đang bị đe dọa bởi mực nước biển dâng cao.
+257,khung,Một cấu trúc hoặc hệ thống cơ bản để hướng dẫn hành động.,Cần có một khuôn khổ pháp lý rõ ràng để điều chỉnh việc sử dụng trí tuệ nhân tạo một cách có đạo đức.
+258,cơ bản,Tạo nên nền tảng hoặc cốt lõi thiết yếu.,Tiếp cận nước sạch là một quyền cơ bản của con người mà nhiều người vẫn chưa được hưởng.
+259,toàn cầu hóa,Tăng cường hội nhập kinh tế và văn hóa toàn cầu.,Toàn cầu hóa đã tạo ra những cơ hội mới cho thương mại nhưng cũng làm gia tăng cạnh tranh kinh tế.
+260,chăm sóc sức khỏe,Tổ chức cung cấp các dịch vụ y tế cho người dân.,Hệ thống chăm sóc sức khỏe toàn dân đảm bảo rằng tất cả công dân đều được tiếp cận dịch vụ y tế bất kể thu nhập.
+261,giả thuyết,"Đây là một lời giải thích được đề xuất, cần được kiểm chứng thêm.",Nhà nghiên cứu đã đưa ra giả thuyết rằng chế độ ăn uống ảnh hưởng trực tiếp đến sự phát triển nhận thức ở trẻ em.
+262,giống hệt nhau,Giống hệt nhau đến từng chi tiết.,Nghiên cứu cho thấy kết quả gần như giống hệt nhau ở hai nhóm có trình độ học vấn khác nhau.
+263,hàm ý,Một hệ quả có thể xảy ra hoặc một ý nghĩa được gợi ý.,Sự gia tăng của tự động hóa có những tác động đáng kể đến việc làm và phân phối thu nhập trong tương lai.
+264,khích lệ,Điều gì đó khuyến khích một hành động mong muốn.,Các ưu đãi thuế có thể khuyến khích doanh nghiệp đầu tư vào công nghệ năng lượng tái tạo.
+265,bất bình đẳng,Phân bổ nguồn lực hoặc cơ hội không đồng đều.,Sự gia tăng bất bình đẳng thu nhập là một trong những thách thức xã hội cấp bách nhất của thời đại hiện đại.
+266,không thể tránh khỏi,Chắc chắn sẽ xảy ra; không thể tránh khỏi.,Một số nhà kinh tế cho rằng thất nghiệp do công nghệ là hệ quả tất yếu của tự động hóa.
+267,lạm phát,Giá cả nhìn chung tăng lên theo thời gian.,Lạm phát cao làm giảm sức mua và ảnh hưởng không cân xứng đến các hộ gia đình có thu nhập thấp.
+268,sự đổi mới,"Giới thiệu những ý tưởng, phương pháp hoặc sản phẩm mới.",Việc tiếp tục đổi mới trong lĩnh vực năng lượng tái tạo là điều thiết yếu để đạt được các mục tiêu phát triển bền vững toàn cầu.
+269,sự tương tác,Hành động hoặc sự giao tiếp qua lại giữa các bên.,Giao tiếp trực tiếp đóng vai trò thiết yếu trong việc phát triển các kỹ năng xã hội quan trọng ở trẻ nhỏ.
+270,sự can thiệp,Hành động được thực hiện để cải thiện hoặc ngăn ngừa một tình huống.,Sự can thiệp sớm của chính phủ là điều cần thiết để ngăn chặn cuộc khủng hoảng tài chính trở nên trầm trọng hơn.
+271,sự đầu tư,Phân bổ nguồn lực với kỳ vọng thu được lợi ích trong tương lai.,Đầu tư trực tiếp nước ngoài đóng vai trò then chốt trong việc thúc đẩy tăng trưởng kinh tế ở các quốc gia đang phát triển.
+272,luật pháp,Luật hoặc một tập hợp các luật do chính phủ ban hành.,Cần có luật pháp mạnh mẽ hơn để bảo vệ người lao động khỏi các điều kiện làm việc không an toàn.
+273,khả năng đọc viết,"Khả năng đọc, viết hoặc sử dụng một kỹ năng nào đó.",Tỷ lệ biết chữ cao có mối liên hệ mật thiết với năng suất kinh tế và kết quả xã hội được cải thiện.
+274,gạt ra ngoài lề,Coi một nhóm người nào đó là không quan trọng hoặc thứ yếu.,Các chính sách kinh tế bỏ qua khu vực nông thôn có xu hướng làm trầm trọng thêm tình trạng yếu thế của các cộng đồng vốn đã dễ bị tổn
+275,cơ chế,Một hệ thống hoặc quy trình để đạt được kết quả.,Các cơ chế quản lý hiệu quả là vô cùng quan trọng để ngăn chặn các hành vi độc quyền trong thị trường tự do.
+276,phương pháp luận,Một hệ thống các phương pháp được sử dụng trong nghiên cứu.,Kết luận của nghiên cứu đã bị đặt dấu hỏi do những sai sót nghiêm trọng trong phương pháp nghiên cứu.
+277,di cư,Sự di chuyển của con người từ nơi này đến nơi khác.,Di cư kinh tế về các trung tâm đô thị đã tăng tốc ở nhiều quốc gia đang phát triển trong những thập kỷ gần đây.
+278,tư duy,Một tập hợp các thái độ hoặc niềm tin đã được thiết lập.,Tư duy phát triển khuyến khích học sinh xem sai lầm như những cơ hội để học hỏi.
+279,khả năng di chuyển,Khả năng di chuyển tự do giữa các vị trí.,Giáo dục được xem là động lực chính thúc đẩy sự dịch chuyển xã hội trong các xã hội hiện đại.
+280,tỷ lệ tử vong,Tỷ lệ tử vong trong một quần thể.,Việc cải thiện điều kiện vệ sinh đã làm giảm đáng kể tỷ lệ tử vong ở trẻ em tại các nước đang phát triển.
+281,động lực,Lý do hoặc động lực đằng sau hành động của một người.,Những học sinh có động lực nội tại cao thường đạt kết quả học tập tốt hơn những học sinh chỉ được thúc đẩy bởi phần thưởng bên ngoài.
+282,thành phố,Liên quan đến chính quyền thị trấn hoặc thành phố.,Chính quyền thành phố chịu trách nhiệm quản lý việc thu gom rác thải và hệ thống giao thông công cộng.
+283,chuyện kể,Bản tường thuật bằng lời nói hoặc bằng văn bản về các sự kiện.,Truyền thông đóng vai trò vô cùng quan trọng trong việc định hình dư luận về vấn đề nhập cư.
+284,thương lượng,Đạt được sự đồng thuận thông qua thảo luận.,Các nhà lãnh đạo thế giới cần đàm phán các thỏa thuận ràng buộc để giải quyết hiệu quả vấn đề biến đổi khí hậu toàn cầu.
+285,béo phì,Tình trạng thừa cân quá mức.,Tỷ lệ béo phì ở trẻ em đã tăng mạnh ở nhiều quốc gia do thói quen ăn uống không lành mạnh.
+286,nghĩa vụ,Một nghĩa vụ đạo đức hoặc pháp lý phải làm điều gì đó.,Các quốc gia giàu có có nghĩa vụ đạo đức phải hỗ trợ những quốc gia bị ảnh hưởng nặng nề nhất bởi biến đổi khí hậu.
+287,trở ngại,Những thứ cản trở sự tiến bộ hoặc thành tựu.,Thiếu kinh phí vẫn là trở ngại đáng kể đối với cải cách giáo dục ở nhiều quốc gia.
+288,phe đối lập,Sự phản kháng hoặc xung đột chống lại điều gì đó.,Đề xuất mở rộng đường đã vấp phải sự phản đối dữ dội từ các nhóm môi trường địa phương.
+289,hữu cơ,Được sản xuất mà không sử dụng hóa chất nhân tạo; có nguồn gốc tự nhiên.,Nhu cầu về thực phẩm hữu cơ đã tăng lên đáng kể khi người tiêu dùng ngày càng quan tâm hơn đến sức khỏe.
+290,quá tải,Quá nhiều người trong một không gian hạn hẹp.,Quá trình đô thị hóa nhanh chóng đã dẫn đến tình trạng quá tải dân số nghiêm trọng tại các thành phố lớn trên khắp thế giới đang phát triển.
+291,dịch bệnh,Một căn bệnh đang lan rộng khắp các quốc gia trên toàn thế giới.,Đại dịch COVID-19 đã phơi bày những điểm yếu nghiêm trọng trong cơ sở hạ tầng y tế công cộng toàn cầu.
+292,phạt,Hình phạt dành cho hành vi vi phạm quy tắc hoặc luật lệ.,Việc áp dụng các hình phạt tài chính nặng hơn đối với hành vi gây ô nhiễm có thể ngăn chặn các ngành công nghiệp vi phạm môi trường.
+293,sự nhận thức,Một niềm tin hoặc cách hiểu về điều gì đó.,Nhận thức của công chúng về vấn đề nhập cư thường bị ảnh hưởng bởi các phương tiện truyền thông hơn là bằng chứng thống kê.
+294,luật xa gần,Một quan điểm hoặc cách nhìn nhận sự việc cụ thể.,Điều cần thiết là phải xem xét vấn đề từ góc độ của những người bị ảnh hưởng trực tiếp nhất.
+295,hiện tượng,"Một sự kiện hoặc hiện tượng có thể quan sát được, thường là đáng chú ý.",Đô thị hóa là một hiện tượng toàn cầu mang lại cả cơ hội và những thách thức đáng kể.
+296,nghèo,Tình trạng cực kỳ nghèo khổ.,Xóa bỏ nghèo cùng cực vẫn là một trong những mục tiêu quan trọng nhất của phát triển quốc tế.
+297,định kiến,"Một ý kiến ​​không công bằng, không dựa trên lý lẽ.",Việc chống lại định kiến ​​chủng tộc đòi hỏi cả cải cách pháp luật và các sáng kiến ​​giáo dục rộng rãi.
+298,sự ưu tiên,Điều được xếp hạng quan trọng nhất.,Cải thiện khả năng tiếp cận giáo dục chất lượng nên là ưu tiên hàng đầu của bất kỳ chính phủ có trách nhiệm nào.
+299,năng suất,Hiệu suất đầu ra trên mỗi đơn vị đầu vào.,Đầu tư vào đào tạo nhân viên là một trong những cách hiệu quả nhất để nâng cao năng suất lao động.
+300,tiến bộ,Ủng hộ cải cách và tiến bộ xã hội.,Hệ thống thuế lũy tiến đảm bảo rằng những người có thu nhập cao hơn sẽ đóng góp một tỷ lệ lớn hơn vào ngân sách nhà nước.
+301,tỷ lệ,Một phần của tổng thể; một tỷ lệ so sánh.,Một phần lớn tài sản quốc gia nằm trong tay một bộ phận nhỏ dân số.
+302,tâm lý,Liên quan đến tâm trí và các quá trình tư duy.,"Thất nghiệp có thể gây ra những hậu quả tâm lý nghiêm trọng, bao gồm trầm cảm và mất đi bản sắc cá nhân."
+303,suy thoái,Một giai đoạn suy thoái kinh tế nghiêm trọng.,"Trong thời kỳ suy thoái, tỷ lệ thất nghiệp gia tăng và chi tiêu tiêu dùng giảm sút tạo ra một vòng xoáy tiêu cực."
+304,phục hồi chức năng,Quá trình khôi phục sức khỏe hoặc cuộc sống bình thường.,Đầu tư vào các chương trình phục hồi chức năng giúp giảm tỷ lệ tái phạm hiệu quả hơn so với chỉ bỏ tù.
+305,năng lượng tái tạo,Một nguồn tài nguyên có thể được tái tạo tự nhiên.,Đầu tư vào các nguồn năng lượng tái tạo là vô cùng quan trọng để giảm sự phụ thuộc vào nhiên liệu hóa thạch trên toàn cầu.
+306,sự hạn chế,Một quy tắc hoặc điều kiện giới hạn hoạt động.,Các hạn chế đi lại được áp đặt trong thời kỳ đại dịch đã gây ra sự gián đoạn đáng kể cho ngành du lịch toàn cầu.
+307,doanh thu,Thu nhập do chính phủ hoặc doanh nghiệp tạo ra.,Chính phủ dựa vào nguồn thu thuế để tài trợ cho các dịch vụ công thiết yếu như y tế và giáo dục.
+308,cuộc cách mạng,Một sự thay đổi mạnh mẽ và căn bản trong xã hội.,Cuộc cách mạng công nghiệp đã làm thay đổi căn bản nền kinh tế toàn cầu và mô hình lao động của con người.
+309,vệ sinh,Các hệ thống duy trì vệ sinh và quản lý chất thải.,Điều kiện vệ sinh không đầy đủ ở các khu vực đô thị đông dân cư góp phần làm lây lan các bệnh truyền nhiễm.
+310,sự khan hiếm,Nguồn cung cấp một nguồn lực cần thiết không đủ.,Tình trạng khan hiếm nước là một trong những mối đe dọa nghiêm trọng nhất đối với sự sống còn của con người trong những thập kỷ tới.
+311,hoài nghi,Có khuynh hướng đặt câu hỏi hoặc nghi ngờ các tuyên bố.,Nhiều nhà kinh tế vẫn hoài nghi về tính bền vững lâu dài của chi tiêu chính phủ hiện tại.
+312,di chuyển xã hội,Khả năng di chuyển giữa các tầng lớp xã hội.,Giáo dục được xem là công cụ mạnh mẽ nhất để cải thiện khả năng thăng tiến xã hội.
+313,định kiến,"Một hình ảnh đơn giản hóa, cố định về một nhóm người.",Các phương tiện truyền thông thường củng cố những định kiến ​​có hại về các cộng đồng thiểu số.
+314,kích thích,Điều gì đó khơi gợi phản ứng hoặc hoạt động.,Chính phủ đã tung ra một gói kích thích kinh tế quy mô lớn để vực dậy nền kinh tế sau thời kỳ suy thoái.
+315,vùng ngoại ô,Khu dân cư nằm ở ngoại ô thành phố.,Sự phát triển của các vùng ngoại ô đã làm tăng sự phụ thuộc vào ô tô và góp phần vào sự lan rộng đô thị.
+316,giám sát,"Giám sát chặt chẽ, đặc biệt là từ phía chính quyền.",Việc giám sát quy mô lớn của chính phủ làm dấy lên những lo ngại nghiêm trọng về quyền riêng tư cá nhân và tự do dân sự.
+317,thuế,Hệ thống thu thuế từ công dân.,Chính sách thuế công bằng và lũy tiến là điều thiết yếu để tài trợ cho các dịch vụ công cộng và giảm bất bình đẳng.
+318,chuyển đổi,Sự chuyển đổi từ trạng thái này sang trạng thái khác.,Việc chuyển đổi nhanh chóng sang năng lượng tái tạo là điều cần thiết để hạn chế sự gia tăng nhiệt độ toàn cầu.
+319,minh bạch,Tính minh bạch và rõ ràng trong các quy trình hoặc quản trị.,Tăng cường tính minh bạch trong chi tiêu của chính phủ có thể giúp giảm tham nhũng và xây dựng lòng tin của công chúng.
+320,nạn thất nghiệp,Tình trạng không có việc làm được trả lương.,Tình trạng thất nghiệp cơ cấu do tự động hóa gây ra là một thách thức lớn đối với các chính phủ trên toàn thế giới.
+321,đô thị hóa,Tỷ lệ người dân sống ở thành phố ngày càng tăng.,Quá trình đô thị hóa nhanh chóng ở châu Á đã tạo ra các siêu đô thị nhưng cũng gây ra những thách thức nghiêm trọng về cơ sở hạ tầng.
+322,tiêm chủng,Phương pháp điều trị giúp tạo miễn dịch chống lại bệnh tật.,Các chương trình tiêm chủng đại trà đã xóa sổ các bệnh như đậu mùa và kiểm soát bệnh bại liệt trên toàn cầu.
+323,tự nguyện,"Thực hiện một cách tự nguyện, không có sự ép buộc từ bên ngoài.",Các tổ chức phi lợi nhuận đóng vai trò quan trọng trong việc hỗ trợ các thành viên dễ bị tổn thương trong xã hội.
+324,lỗ hổng,Bị đe dọa hoặc gặp khó khăn.,Các quốc đảo nhỏ đang đối mặt với nguy cơ cực kỳ dễ bị tổn thương trước hậu quả của mực nước biển dâng cao.
+325,phổ biến,Được tìm thấy hoặc phân bố trên một khu vực rộng lớn.,Việc phổ biến internet đã làm thay đổi cách thức giao tiếp và tiếp cận thông tin trên toàn cầu.
+326,lực lượng lao động,Tất cả những người đủ điều kiện làm việc.,Lực lượng lao động già hóa đặt ra những thách thức đáng kể đối với hệ thống lương hưu ở các nước phát triển.
+327,năng suất,Tạo ra hoặc mang lại kết quả hoặc sản phẩm.,Các kỹ thuật canh tác được cải tiến đã giúp nông dân thu được năng suất cây trồng cao hơn ở các vùng thường xuyên bị hạn hán.
+328,làm trầm trọng thêm,Làm cho vấn đề hoặc tình huống trở nên tồi tệ hơn.,Biến đổi khí hậu dự kiến ​​sẽ làm trầm trọng thêm những thách thức hiện có về an ninh lương thực ở các khu vực dễ bị tổn thương.
+329,phân bổ,Phân bổ nguồn lực cho một mục đích cụ thể.,Phân bổ nguồn ngân sách nhà nước hiệu quả là điều thiết yếu để cải thiện kết quả chăm sóc sức khỏe quốc gia.
+330,tích hợp,Quá trình kết hợp các bộ phận thành một chỉnh thể.,Việc hòa nhập xã hội thành công của người di cư đòi hỏi đầu tư vào giáo dục ngôn ngữ và hỗ trợ cộng đồng.
+331,trách nhiệm giải trình,Chịu trách nhiệm về hành động và quyết định của bản thân.,Tăng cường trách nhiệm giải trình trong các thể chế công là điều thiết yếu để duy trì lòng tin của người dân vào chính phủ.
+332,thích ứng,Có khả năng thích nghi với điều kiện mới.,Các chiến lược quản lý thích ứng cho phép các tổ chức phản ứng hiệu quả với môi trường thay đổi nhanh chóng.
+333,làm trầm trọng thêm,Làm cho vấn đề hoặc tình huống trở nên nghiêm trọng hơn.,Phản ứng không thỏa đáng của chính phủ có thể làm trầm trọng thêm những hậu quả xã hội của suy thoái kinh tế.
+334,nhân tạo,Do hoạt động của con người gây ra hoặc tạo ra.,Các nhà khoa học đều nhất trí rằng phát thải khí nhà kính do con người gây ra là nguyên nhân chính dẫn đến hiện tượng nóng lên toàn cầu.
+335,sự đồng hóa,Sự đồng hóa một nhóm người vào nền văn hóa thống trị.,Việc cưỡng bức đồng hóa văn hóa của các dân tộc bản địa đã bị các tổ chức nhân quyền lên án rộng rãi.
+336,chính sách thắt lưng buộc bụng,Cắt giảm chi tiêu chính phủ mạnh tay để giảm nợ.,Các biện pháp thắt lưng buộc bụng được áp đặt sau cuộc khủng hoảng tài chính đã dẫn đến việc cắt giảm nghiêm trọng các dịch vụ công cộng.
+337,tự động hóa,Sử dụng công nghệ để tự động hóa các tác vụ.,Việc tự động hóa các quy trình sản xuất đã làm giảm đáng kể nhu cầu về lao động không có tay nghề.
+338,phân hủy sinh học,Có khả năng bị phân hủy bởi các sinh vật tự nhiên.,Thay thế bao bì nhựa bằng bao bì tự phân hủy sinh học là một bước quan trọng hướng tới giảm thiểu ô nhiễm môi trường.
+339,bộ máy quan liêu,Một hệ thống phức tạp gồm các quy tắc và quy trình chính thức.,Thủ tục hành chính rườm rà trong các cơ quan công quyền có thể cản trở việc cung cấp các dịch vụ thiết yếu một cách hiệu quả.
+340,chất xúc tác,Một yếu tố nào đó kích hoạt hoặc thúc đẩy một quá trình.,Đại dịch đã đóng vai trò như chất xúc tác cho việc áp dụng rộng rãi các phương thức làm việc từ xa trên toàn cầu.
+341,sự tham gia của công dân,Tham gia tích cực vào đời sống cộng đồng và chính trị.,Mức độ tham gia vào các hoạt động công dân thấp trong giới trẻ là một mối đe dọa đáng kể đối với nền quản trị dân chủ.
+342,sự cùng tồn tại,Cùng tồn tại hòa bình bất chấp những khác biệt.,"Để đạt được sự chung sống hòa bình giữa các cộng đồng dân tộc khác nhau, cần có sự tôn trọng và hiểu biết lẫn nhau."
+343,nhận thức,Liên quan đến các quá trình tư duy và học tập.,Giáo dục mầm non có tác động sâu sắc đến sự phát triển nhận thức lâu dài và thành tích học tập.
+344,sự gắn kết,Phẩm chất tạo thành một thể thống nhất.,Mức độ bất bình đẳng cao làm suy yếu sự gắn kết xã hội và làm tăng nguy cơ bất ổn dân sự.
+345,biến thành hàng hóa,Coi một thứ gì đó như một sản phẩm thương mại.,Các nhà phê bình cho rằng chính phủ không nên thương mại hóa giáo dục bằng cách coi nó như một sản phẩm thị trường.
+346,bắt buộc,Theo quy định của pháp luật; bắt buộc.,Luật giáo dục bắt buộc đóng vai trò quan trọng trong việc nâng cao tỷ lệ biết chữ trên toàn thế giới.
+347,thụ thai,Hình thành hoặc phát triển một ý tưởng hoặc kế hoạch.,Khó có thể hình dung một tương lai bền vững nếu không có sự thay đổi triệt để trong việc tiêu thụ năng lượng.
+348,hợp nhất,Kết hợp hoặc củng cố thành một thể thống nhất.,Việc sáp nhập cho phép hai công ty hợp nhất nguồn lực và nâng cao hiệu quả hoạt động.
+349,sự ô nhiễm,Sự hiện diện của các chất gây ô nhiễm độc hại trong một chất.,Chất thải công nghiệp đã gây ô nhiễm nguồn nước ngầm trên diện rộng ở các cộng đồng nông thôn xung quanh.
+350,tranh cãi,Một điểm gây tranh cãi hoặc một cuộc tranh luận gay gắt.,Chính sách nhập cư vẫn là một điểm gây tranh cãi lớn trong các cuộc tranh luận chính trị ở nhiều quốc gia.
+351,phân quyền,Chuyển giao quyền lực từ chính quyền trung ương sang chính quyền địa phương.,Những nỗ lực nhằm phân quyền quản trị có thể trao quyền cho cộng đồng địa phương và cải thiện việc cung cấp dịch vụ công.
+352,cố ý,Được thực hiện một cách có chủ ý; cân nhắc kỹ lưỡng.,Việc loại trừ tiếng nói của các nhóm thiểu số khỏi các cuộc thảo luận chính sách dường như là một chiến lược chính trị có chủ đích.
+353,sự phụ thuộc,Tình trạng phụ thuộc quá nhiều vào một điều gì đó.,Nhiều quốc gia đang phát triển phải vật lộn để giảm sự phụ thuộc kinh tế vào một mặt hàng xuất khẩu duy nhất.
+354,sự thiếu thốn,Tình trạng thiếu hụt nghiêm trọng các nhu yếu phẩm cơ bản.,Trẻ em lớn lên ở những khu vực thiếu thốn nghiêm trọng có khả năng đạt được thành tích học tập thấp hơn đáng kể.
+355,sa mạc hóa,Sự suy thoái đất đai dẫn đến tình trạng giống như sa mạc.,Sa mạc hóa đe dọa sinh kế của hàng triệu người sống ở các vùng bán khô hạn trên toàn thế giới.
+356,sự suy thoái,Một quá trình ngày càng trở nên tồi tệ hơn.,Sự xuống cấp của cơ sở hạ tầng đô thị gây ra những rủi ro nghiêm trọng về an toàn cho người dân ở nhiều thành phố.
+357,không cân xứng,Quá lớn hoặc quá nhỏ so với một thứ khác.,Các cộng đồng bị thiệt thòi phải gánh chịu gánh nặng không cân xứng từ hậu quả của ô nhiễm môi trường.
+358,bầu cử,Liên quan đến bầu cử hoặc quy trình bỏ phiếu.,Cải cách bầu cử là điều thiết yếu để đảm bảo tất cả công dân đều được đại diện công bằng trong chính phủ.
+359,di cư,Rời bỏ quê hương để định cư ở nơi khác.,Tỷ lệ di cư cao có thể khiến các quốc gia đang phát triển mất đi những công dân có tay nghề và trình độ học vấn cao nhất.
+360,thực nghiệm,Dựa trên quan sát và bằng chứng hơn là lý thuyết.,Các quyết định chính sách đúng đắn nên dựa trên bằng chứng thực nghiệm hơn là các giả định mang tính ý thức hệ.
+361,sự chứng thực,Công khai tuyên bố ủng hộ hoặc tán thành.,Sự chứng thực của người nổi tiếng có thể tác động đáng kể đến dư luận về các vấn đề xã hội và chính trị quan trọng.
+362,tinh thần khởi nghiệp,Hoạt động thành lập và điều hành doanh nghiệp.,Chính phủ có thể thúc đẩy tăng trưởng kinh tế bằng cách tạo ra các điều kiện hỗ trợ tinh thần kinh doanh và đổi mới sáng tạo.
+363,tình huống khó xử về mặt đạo đức,Một cuộc xung đột đòi hỏi sự lựa chọn giữa các nguyên tắc đạo đức.,Những tiến bộ trong kỹ thuật di truyền đặt ra cho xã hội những vấn đề đạo đức nan giải cần được cân nhắc kỹ lưỡng.
+364,sự trầm trọng thêm,Quá trình làm cho một vấn đề trở nên nghiêm trọng hơn.,Tăng trưởng dân số nhanh chóng dẫn đến tình trạng thiếu hụt tài nguyên trầm trọng hơn ở những khu vực vốn đã khó khăn.
+365,loại trừ,Hành động từ chối quyền truy cập hoặc tư cách thành viên.,Việc loại trừ các nhóm dễ bị tổn thương khỏi xã hội là một trở ngại lớn để đạt được sự bình đẳng thực sự trong xã hội.
+366,khai thác,Sử dụng bất hợp pháp người hoặc vật để trục lợi.,Việc các tập đoàn đa quốc gia bóc lột lao động giá rẻ ở các nước đang phát triển đặt ra những mối lo ngại nghiêm trọng về mặt đạo đức.
+367,số mũ,Tăng hoặc giảm với tốc độ ngày càng nhanh.,Sự phát triển vượt bậc của việc sử dụng mạng xã hội đã làm thay đổi cách mọi người tiếp nhận thông tin trên toàn cầu.
+368,sự biến động,Sự biến đổi hoặc thay đổi bất thường theo thời gian.,Biến động mạnh về giá dầu toàn cầu có thể gây bất ổn cho nền kinh tế của các quốc gia phụ thuộc vào dầu mỏ.
+369,xây dựng,Tạo ra hoặc thiết kế một cách có hệ thống.,Các chính phủ cần phải xây dựng chính sách một cách cẩn trọng để cân bằng giữa tăng trưởng kinh tế và bảo vệ môi trường.
+370,sự phân mảnh,"Việc chia một thứ gì đó thành nhiều phần nhỏ, riêng biệt.",Sự phân mảnh của các đảng phái chính trị đã khiến việc thành lập các chính phủ ổn định ngày càng trở nên khó khăn.
+371,tổng sản phẩm quốc nội,Tổng giá trị tiền tệ của sản lượng hàng năm của một quốc gia.,Nhiều nhà kinh tế cho rằng tổng sản phẩm quốc nội (GDP) là một thước đo không đầy đủ về phúc lợi quốc gia.
+372,bá quyền,Sự thống trị của một nhóm đối với các nhóm khác.,Sự thống trị về văn hóa của các quốc gia phương Tây đã ảnh hưởng đáng kể đến truyền thông toàn cầu và sở thích của người tiêu dùng.
+373,đồng nhất hóa,Đảm bảo mọi thứ đồng nhất hoặc tương tự nhau ở khắp mọi nơi.,"Các nhà phê bình cho rằng toàn cầu hóa dẫn đến sự đồng nhất về văn hóa trong xã hội, làm mất đi sự đa dạng."
+374,nhân đạo,Quan tâm đến việc cải thiện phúc lợi và giảm bớt đau khổ cho con người.,Viện trợ nhân đạo quốc tế đóng vai trò thiết yếu trong việc hỗ trợ người dân bị ảnh hưởng bởi xung đột vũ trang và thiên tai.
+375,hệ tư tưởng,Một hệ thống niềm tin làm nền tảng cho hành động chính trị.,Chính sách kinh tế thường được định hình bởi hệ tư tưởng chính trị nhiều hơn là bằng chứng thực nghiệm và nghiên cứu.
+376,áp đặt,Ép buộc người khác làm điều gì đó bằng quyền lực.,Các tổ chức quốc tế có thể áp đặt trừng phạt đối với các chính phủ vi phạm các thỏa thuận về nhân quyền.
+377,giam giữ,Tình trạng bị giam cầm.,Tỷ lệ giam giữ cao ở một số quốc gia đặt ra những câu hỏi nghiêm trọng về công lý và phục hồi nhân phẩm.
+378,sự khởi đầu,Sự khởi đầu hoặc thiết lập của một điều gì đó.,"Kể từ khi thành lập, tổ chức này đã đạt được những tiến bộ đáng kể trong việc giảm thiểu nghèo đói toàn cầu."
+379,bao gồm,Không loại trừ bất kỳ nhóm hoặc cá nhân nào.,Hệ thống giáo dục hòa nhập đảm bảo rằng trẻ em khuyết tật được nhận cơ hội học tập bình đẳng.
+380,người bản địa,Có nguồn gốc tự nhiên từ một vùng cụ thể.,Quyền của người bản địa đối với vùng đất tổ tiên của họ phải được bảo vệ theo luật quốc tế.
+381,công nghiệp hóa,Chuyển đổi sang sản xuất công nghiệp quy mô lớn.,Quá trình công nghiệp hóa ở các nước đang phát triển đã mang lại tăng trưởng kinh tế nhưng cũng gây ra những thiệt hại đáng kể cho môi trường.
+382,sự không hiệu quả,Không tận dụng tối đa thời gian hoặc nguồn lực.,Tình trạng нее hiệu quả lan rộng trong bộ máy hành chính cản trở các chính phủ cung cấp dịch vụ một cách hiệu quả và công bằng.
+383,thể chế,Liên quan đến các tổ chức hoặc hệ thống đã được thiết lập.,"Nạn phân biệt chủng tộc có hệ thống, ăn sâu trong các hệ thống pháp luật, tiếp tục gây bất lợi cho các cộng đồng thiểu số trên toàn"
+384,sự phụ thuộc lẫn nhau,Sự phụ thuộc lẫn nhau giữa hai hoặc nhiều nhóm.,Đại dịch toàn cầu đã chứng minh sự phụ thuộc lẫn nhau sâu sắc giữa các nền kinh tế quốc gia trong thế giới hiện đại.
+385,sự hăm dọa,Sử dụng sự sợ hãi hoặc đe dọa để ép buộc người khác.,Hành vi đe dọa cử tri làm suy yếu tiến trình dân chủ và ngăn cản việc diễn ra các cuộc bầu cử tự do và công bằng.
+386,thẩm quyền,Cơ quan có thẩm quyền chính thức để thi hành pháp luật.,Tội phạm mạng đặt ra những thách thức phức tạp vì nó thường xảy ra trên nhiều phạm vi pháp lý khác nhau.
+387,đặt cạnh nhau,Đặt hai vật cạnh nhau để làm nổi bật sự tương phản.,Báo cáo này so sánh lối sống của giới thượng lưu giàu có với lối sống của những người sống trong cảnh nghèo cùng cực.
+388,hợp pháp,Tuân thủ pháp luật hoặc các tiêu chuẩn được chấp nhận.,Một chính phủ hợp pháp phải chịu trách nhiệm trước công dân và tôn trọng các quyền con người cơ bản.
+389,suy dinh dưỡng,Sức khỏe kém do chế độ ăn uống không đủ chất hoặc không cân bằng.,Tình trạng suy dinh dưỡng lan rộng ở các khu vực xung đột là một cuộc khủng hoảng nhân đạo toàn cầu nghiêm trọng và cấp bách.
+390,biểu hiện,Một dấu hiệu hoặc biểu hiện hữu hình của điều gì đó.,Tình trạng vô gia cư là một biểu hiện rõ rệt của sự thất bại trong chính sách nhà ở tại nhiều thành phố phát triển.
+391,sự gạt bỏ,Quá trình coi một nhóm người là bên lề.,Việc gạt bỏ các dân tộc thiểu số ra khỏi thị trường lao động làm trầm trọng thêm vòng luẩn quẩn của nghèo đói và bất bình đẳng.
+392,chế độ trọng dụng nhân tài,Một hệ thống mà sự thăng tiến dựa trên năng lực.,Các nhà phê bình cho rằng một nền dân chủ đích thực là điều không thể nếu bất bình đẳng hệ thống vẫn chưa được giải quyết.
+393,giảm thiểu,Hành động nhằm giảm mức độ nghiêm trọng của một điều gì đó có hại.,Cần khẩn cấp triển khai các chiến lược giảm thiểu hiệu quả để hạn chế những tác động tồi tệ nhất của biến đổi khí hậu toàn cầu.
+394,độc quyền,Một thực thể độc quyền kiểm soát thị trường.,Các tập đoàn độc quyền không được kiểm soát sẽ làm giảm cạnh tranh và cuối cùng dẫn đến giá cả cao hơn cho người tiêu dùng.
+395,đa phương,Liên quan đến nhiều hơn hai bên hoặc quốc gia.,Giải quyết hiệu quả vấn đề biến đổi khí hậu đòi hỏi sự hợp tác đa phương giữa tất cả các quốc gia phát thải chính.
+396,sao nhãng,Không quan tâm hoặc không để ý đến điều gì đó.,Nhiều năm bị chính quyền bỏ bê đã khiến nhiều cộng đồng nông thôn thiếu thốn dịch vụ chăm sóc sức khỏe và giáo dục đầy đủ.
+397,tân tự do,"Ủng hộ thị trường tự do, tư nhân hóa và bãi bỏ quy định.",Các nhà phê bình cho rằng các chính sách kinh tế tân tự do đã làm gia tăng khoảng cách giàu nghèo trên toàn cầu.
+398,các quy tắc,Các chuẩn mực hành vi được chấp nhận trong xã hội.,Việc thay đổi các chuẩn mực xã hội về vai trò giới tính đã dần dần làm biến đổi môi trường làm việc hiện đại.
+399,lỗi thời,Không còn được sử dụng; đã lỗi thời và được thay thế.,Sự phát triển nhanh chóng của công nghệ đã khiến nhiều kỹ năng sản xuất truyền thống trở nên lỗi thời.
+400,sự áp bức,Việc lạm dụng quyền lực hoặc kiểm soát người khác một cách bất công trong thời gian dài.,Sự áp bức trong lịch sử đối với các nhóm thiểu số đã tạo ra những bất bình đẳng ăn sâu bám rễ và vẫn tồn tại cho đến ngày nay.
+401,sự bùng phát,Một sự bùng phát đột ngột của bệnh tật hoặc bạo lực.,Sự bùng phát của một căn bệnh do virus mới đã dẫn đến các biện pháp khẩn cấp về y tế công cộng quốc tế ngay lập tức.
+402,bình quân đầu người,Đối với mỗi cá nhân trong một quần thể nhất định.,GDP bình quân đầu người thường được sử dụng để so sánh mức sống trung bình giữa các quốc gia khác nhau.
+403,sự phân cực,Chia thành hai nhóm hoàn toàn trái ngược nhau.,Sự phân cực chính trị đã khiến việc hợp tác lưỡng đảng trong các vấn đề quốc gia quan trọng ngày càng trở nên khó khăn.
+404,tư nhân hóa,Chuyển giao tài sản nhà nước sang sở hữu tư nhân.,Việc tư nhân hóa các dịch vụ công cộng như nước và năng lượng đã bị chỉ trích rộng rãi vì làm giảm khả năng tiếp cận các dịch vụ này.
+405,sự tăng sinh,Sự gia tăng nhanh chóng về số lượng của một thứ gì đó.,Sự lan tràn thông tin sai lệch trên mạng xã hội đặt ra mối đe dọa nghiêm trọng đối với các tiến trình dân chủ.
+406,sự gần gũi,"Sự gần gũi về không gian, thời gian hoặc mối quan hệ.",Vị trí địa lý gần các trung tâm kinh tế có ảnh hưởng đáng kể đến sự phát triển và tăng trưởng của một khu vực.
+407,phê chuẩn,Phê chuẩn chính thức một thỏa thuận hoặc luật.,Cần có thêm nhiều quốc gia phê chuẩn Hiệp định Paris để các cam kết toàn cầu về khí hậu có tác động thực chất.
+408,tái phạm,Có xu hướng tái phạm sau khi đã bị kết án trước đó.,Các chương trình phục hồi chức năng hiệu quả đã được chứng minh là làm giảm tỷ lệ tái phạm ở những người từng phạm tội.
+409,phân phối lại,Phân bổ lại nguồn lực để đạt được sự bình đẳng lớn hơn.,Thuế lũy tiến cho phép phân phối lại của cải từ người giàu nhất cho những người thiệt thòi nhất.
+410,củng cố,Củng cố hoặc hỗ trợ một ý tưởng hoặc cấu trúc hiện có.,Việc truyền thông miêu tả tội phạm có thể vô tình củng cố những định kiến ​​tiêu cực về các nhóm xã hội cụ thể.
+411,khả năng phục hồi,Khả năng phục hồi nhanh chóng sau những khó khăn.,Tăng cường khả năng phục hồi của cộng đồng là điều thiết yếu để giúp người dân chống chọi với tác động của biến đổi khí hậu.
+412,trả thù,Hành động được thực hiện để đáp trả lại thương tích hoặc cuộc tấn công.,Việc trả đũa thương mại giữa các nền kinh tế lớn có thể gây ra một vòng xoáy leo thang thuế quan gây thiệt hại.
+413,sự phân biệt chủng tộc,Sự phân tách bắt buộc các nhóm người trong xã hội.,Phân biệt chủng tộc trong hệ thống giáo dục có những tác động tiêu cực lâu dài đến bình đẳng xã hội.
+414,kinh tế xã hội,Liên quan đến cả các yếu tố xã hội và kinh tế.,Hoàn cảnh kinh tế xã hội của một đứa trẻ vẫn là một trong những yếu tố dự báo mạnh mẽ nhất về thành tích học tập.
+415,chủ quyền,Quyền lực tối cao và sự độc lập của một quốc gia.,Các thỏa thuận quốc tế đôi khi mâu thuẫn với mong muốn của các quốc gia trong việc duy trì chủ quyền kinh tế đầy đủ.
+416,trợ cấp,Hỗ trợ tài chính bằng nguồn kinh phí của chính phủ.,Nhiều chính phủ trợ cấp cho năng lượng tái tạo để làm cho nó cạnh tranh hơn với nhiên liệu hóa thạch.
+417,dễ bị tổn thương,Có khả năng bị ảnh hưởng hoặc dễ bị tổn thương bởi điều gì đó.,Người cao tuổi đặc biệt dễ mắc các bệnh nặng do các bệnh truyền nhiễm đường hô hấp.
+418,hệ thống,Liên quan đến toàn bộ hệ thống chứ không phải chỉ một bộ phận.,Giải quyết vấn đề nghèo đói đòi hỏi sự thay đổi mang tính hệ thống chứ không phải những can thiệp nhỏ lẻ nhằm vào từng triệu chứng riêng lẻ.
+419,tái cấu trúc,Diễn đạt hoặc sáng tạo lại dưới một hình thức mới.,"Dựa trên những bằng chứng mới, các chính phủ có thể cần phải xem xét lại cách tiếp cận của mình đối với chính sách y tế công cộng."
+420,co thắt,Sự suy giảm về sản lượng hoặc hoạt động kinh tế.,Sự sụt giảm mạnh của thương mại toàn cầu trong thời kỳ đại dịch đã phơi bày sự mong manh của các chuỗi cung ứng.
+421,sự sai lệch,Sự sai lệch so với những gì bình thường hoặc được mong đợi.,Một số nhà kinh tế cho rằng cuộc khủng hoảng tài chính năm 2008 là một sự bất thường hơn là một thất bại mang tính cấu trúc của thị trường.
+422,thoái vị,Không hoàn thành nhiệm vụ hoặc trách nhiệm.,Các chính phủ cắt giảm dịch vụ công có thể bị cáo buộc thoái thác trách nhiệm đối với những công dân dễ bị tổn thương.
+423,sự cay đắng,Thể hiện sự thù địch gay gắt trong lời nói hoặc cử chỉ.,Các cuộc đàm phán Brexit diễn ra trong bối cảnh căng thẳng đáng kể giữa các đại diện của EU và Anh.
+424,hợp nhất,Kết hợp hoặc hợp nhất thành một thể duy nhất.,Một số phòng ban nhỏ hơn đã được sáp nhập để nâng cao hiệu quả quản lý và giảm chi phí hoạt động.
+425,cải thiện,Làm cho một tình huống xấu trở nên tốt hơn hoặc dễ chịu hơn.,Các chương trình viện trợ quốc tế nhằm mục đích cải thiện điều kiện sống của người dân di tản trong các khu vực xung đột.
+426,lỗi thời,Một thứ gì đó lạc lõng trong bối cảnh lịch sử của nó.,"Các nhà phê bình cho rằng thượng viện, vốn không do dân bầu, đã trở thành một tàn dư lỗi thời trong xã hội hiện đại."
+427,bất đối xứng,Thiếu sự bình đẳng hoặc tương đương giữa các bộ phận.,Sự bất đối xứng thông tin giữa người mua và người bán có thể dẫn đến thất bại thị trường và kết quả kém hiệu quả.
+428,hao mòn,Giảm dần thông qua áp lực duy trì hoặc mất mát.,"Cuộc xung đột kéo dài đã trở thành một cuộc chiến tranh tiêu hao, làm cạn kiệt nguồn lực của cả hai bên."
+429,phân nhánh,Sự phân chia thành hai nhánh hoặc hai phần.,Sự bất bình đẳng ngày càng gia tăng đã dẫn đến sự phân hóa xã hội thành hai nhóm kinh tế ngày càng tách biệt.
+430,tránh né,Tìm cách lách luật hoặc vượt qua trở ngại.,Các tập đoàn đa quốc gia bị cáo buộc sử dụng tài khoản ở nước ngoài để trốn tránh nghĩa vụ thuế trong nước.
+431,cưỡng chế,Sử dụng vũ lực hoặc đe dọa để ép buộc hành động.,Việc sử dụng các biện pháp cưỡng chế để đàn áp sự bất đồng chính kiến ​​chính trị vi phạm các nguyên tắc dân chủ cơ bản.
+432,thương mại hóa,Quá trình coi một thứ gì đó như một mặt hàng có thể mua bán trên thị trường.,Việc thương mại hóa giáo dục đại học đã biến các trường đại học từ các tổ chức công lập thành các doanh nghiệp thương mại.
+433,sự tự mãn,Cảm giác tự mãn thỏa mãn bất chấp những nguy hiểm hiển nhiên.,Thái độ tự mãn về chính trị trước sự gia tăng bất bình đẳng đã khiến các tầng lớp xã hội ngày càng phân hóa sâu sắc.
+434,phỏng đoán,Ý kiến ​​được hình thành mà không có đủ bằng chứng.,"Nếu không có dữ liệu thực nghiệm, những nhận định về tác động kinh tế của chính sách này vẫn chỉ là suy đoán thuần túy."
+435,ngẫu nhiên,Phụ thuộc vào những hoàn cảnh hoặc điều kiện không chắc chắn.,Thành công của chương trình cải cách phụ thuộc vào cam kết chính trị bền vững và nguồn tài chính đầy đủ.
+436,xác nhận,Để xác nhận hoặc hỗ trợ bằng chứng cứ.,Nhiều nghiên cứu độc lập đã khẳng định rằng ô nhiễm không khí làm tăng đáng kể tỷ lệ tử vong.
+437,hạn chế,Giảm thiểu hoặc hạn chế điều gì đó một cách đáng kể.,Luật khẩn cấp đã được ban hành để hạn chế các quyền tự do dân sự trong thời điểm đỉnh điểm của cuộc khủng hoảng sức khỏe quốc gia.
+438,phân định,Mô tả hoặc chỉ ra một cách chính xác và rõ ràng.,Các hiệp ước quốc tế phải nêu rõ trách nhiệm của mỗi quốc gia ký kết.
+439,lợi ích nhân khẩu học,Tăng trưởng kinh tế đến từ dân số trong độ tuổi lao động ngày càng tăng.,Khu vực châu Phi cận Sahara có cơ hội khai thác lợi thế dân số thông qua đầu tư vào giáo dục.
+440,ngăn chặn,Ngăn cản hành động bằng cách gieo rắc nỗi sợ hãi hoặc nghi ngờ.,Việc áp dụng hình phạt nặng hơn đối với các hành vi vi phạm môi trường có thể ngăn cản các tập đoàn gây ô nhiễm nguồn nước bất hợp pháp.
+441,sự phân đôi,Phân chia rõ rệt thành hai nhóm trái ngược nhau.,Sự đối lập giữa tăng trưởng kinh tế và bảo vệ môi trường thường được trình bày như một sự lựa chọn sai lầm.
+442,khuếch tán,Sự lan rộng của một thứ gì đó trên một khu vực rộng lớn.,Sự lan tỏa nhanh chóng của công nghệ kỹ thuật số đã làm thay đổi cách thức sản xuất và tiêu thụ thông tin trên toàn cầu.
+443,tước quyền,Tước đoạt quyền hoặc đặc quyền của ai đó.,Các yêu cầu đăng ký cử tri phức tạp có thể tước đoạt quyền bầu cử của các cộng đồng thu nhập thấp và thiểu số một cách không cân xứng.
+444,khác biệt,"Về bản chất, chúng khác nhau; không thể so sánh được.",Chính sách này phải đáp ứng nhu cầu của các cộng đồng khác nhau với hoàn cảnh kinh tế rất khác biệt.
+445,hiệu quả,Khả năng tạo ra kết quả mong muốn.,Các thử nghiệm lâm sàng phải kiểm tra nghiêm ngặt hiệu quả của các phương pháp điều trị mới trước khi chúng được phê duyệt để sử dụng rộng rãi.
+446,bình đẳng,Tin tưởng hoặc ủng hộ quyền bình đẳng cho tất cả mọi người.,Một xã hội thực sự bình đẳng phải giải quyết cả sự bình đẳng về mặt pháp lý hình thức và sự bình đẳng về cơ hội thực chất.
+447,ăn sâu,Đã được thiết lập vững chắc và khó thay đổi.,Sự thiên vị giới tính ăn sâu trong thực tiễn tuyển dụng tiếp tục gây bất lợi cho phụ nữ trong các vị trí cấp cao.
+448,trạng thái cân bằng,Trạng thái cân bằng giữa các lực lượng đối lập.,Lý thuyết cung cầu cho rằng thị trường sẽ tự nhiên hướng tới trạng thái cân bằng giá theo thời gian.
+449,xóa bỏ,Phá hủy hoặc loại bỏ hoàn toàn một thứ gì đó.,Mục tiêu của Tổ chức Y tế Thế giới về việc xóa sổ bệnh bại liệt trên toàn cầu đòi hỏi phải có độ bao phủ tiêm chủng toàn diện.
+450,ngoại suy,Mở rộng dữ liệu đã biết để dự đoán các tình huống chưa biết.,Các nhà nghiên cứu cần thận trọng khi cố gắng ngoại suy kết quả từ các mẫu nhỏ sang toàn bộ quần thể.
+451,chế tạo,Tạo ra thông tin sai lệch; bịa đặt.,Các nhà báo bịa đặt bằng chứng làm suy yếu lòng tin của công chúng vào giới truyền thông và gây tổn hại đến diễn ngôn dân chủ.
+452,tính khả thi,Phẩm chất của sự khả thi và tính thực tiễn.,Cần phải tiến hành một nghiên cứu khả thi toàn diện trước khi phê duyệt các dự án cơ sở hạ tầng quy mô lớn.
+453,thâm hụt ngân sách,Khi chi tiêu của chính phủ vượt quá thu nhập.,Thâm hụt ngân sách ngày càng tăng buộc các chính phủ phải tăng thuế hoặc cắt giảm chi tiêu công thiết yếu.
+454,đột phá,Sáng tạo và tiên phong; giới thiệu những ý tưởng mới.,Nghiên cứu đột phá về chỉnh sửa gen đã mở ra những khả năng mới trong điều trị các bệnh di truyền.
+455,toàn diện,Giải quyết toàn bộ hệ thống chứ không phải chỉ từng phần riêng lẻ.,"Một cách tiếp cận toàn diện đối với sức khỏe cộng đồng cần phải giải quyết đồng thời các yếu tố quyết định về xã hội, kinh tế và môi trường."
+456,đồng nhất,Bao gồm các yếu tố tương tự hoặc đồng nhất.,Các nền văn hóa đô thị ngày càng đồng nhất có thể làm xói mòn sự đa dạng phong phú của các cộng đồng địa phương truyền thống.
+457,cản trở,Làm cản trở hoặc gây khó khăn cho sự tiến bộ hoặc chuyển động.,Các hành vi quan liêu tham nhũng cản trở sự phát triển kinh tế và làm nản lòng đầu tư trực tiếp nước ngoài.
+458,khởi đầu,Đang bắt đầu xảy ra hoặc phát triển; ở giai đoạn đầu.,Can thiệp sớm là yếu tố then chốt để ngăn chặn một cuộc suy thoái kinh tế mới chớm nở trở thành một cuộc suy thoái toàn diện.
+459,không phân biệt đối xử,Thực hiện mà không cân nhắc kỹ lưỡng; tùy tiện và cẩu thả.,"Việc sử dụng thuốc trừ sâu bừa bãi gây tổn hại đến hệ sinh thái và ảnh hưởng xấu đến nhiều loài sinh vật, vượt xa mục tiêu ban đầu."
+460,vốn có,Tồn tại như một đặc điểm thiết yếu vĩnh viễn.,Luôn tồn tại những mâu thuẫn cố hữu giữa việc tối đa hóa tăng trưởng kinh tế và bảo vệ môi trường tự nhiên.
+461,kích động,Gây ra hoặc khởi xướng một hành động hoặc sự kiện.,Các nhóm xã hội dân sự thường thúc đẩy thay đổi chính sách bằng cách huy động áp lực dư luận lên các thể chế chính phủ.
+462,giảm thiểu,Làm giảm mức độ nghiêm trọng hoặc tác động của một điều gì đó.,Việc trồng cây xanh trong đô thị có thể giúp giảm thiểu hiệu ứng đảo nhiệt ở các thành phố đông dân cư.
+463,duy trì,Làm cho một việc gì đó tiếp diễn vô thời hạn.,Các hệ thống giáo dục phản ánh cấu trúc giai cấp hiện có thường duy trì chứ không làm giảm bớt bất bình đẳng xã hội.
+464,thực dụng,Giải quyết vấn đề một cách thực tế hơn là lý thuyết.,Một cách tiếp cận thực dụng đối với chính sách di cư cần cân bằng giữa các nghĩa vụ nhân đạo với khả năng thực tế của xã hội.
+465,bấp bênh,Tình hình không chắc chắn và có khả năng xấu đi; không ổn định.,Sự gia tăng của các hợp đồng không đảm bảo giờ làm đã đẩy nhiều người lao động vào tình trạng tài chính bấp bênh và không an toàn.
+466,phòng ngừa,Hành động chủ động để ngăn chặn một sự kiện đã được dự đoán trước.,Một số chính phủ cho rằng hành động quân sự phủ đầu là chính đáng khi đối mặt với mối đe dọa an ninh cận kề.
+467,hậu quả,Hậu quả gián tiếp của một sự kiện hoặc hành động.,"Chiến tranh thương mại có thể gây ra những hậu quả kinh tế nghiêm trọng cho các quốc gia, không chỉ riêng những nước trực tiếp tham gia."
+468,nghiêm ngặt,"Tuân thủ nghiêm ngặt, chính xác và khắt khe.",Các quy định môi trường nghiêm ngặt là cần thiết để ngăn chặn các tập đoàn chuyển gánh nặng chi phí ô nhiễm sang người khác.
+469,làm suy yếu,Làm suy yếu hoặc làm hư hại thứ gì đó một cách dần dần.,Tình trạng tham nhũng lan rộng làm suy yếu lòng tin của công chúng vào các thể chế dân chủ và pháp quyền.
+470,hiệu chỉnh lại,Điều chỉnh hoặc thiết lập lại để đáp ứng với các điều kiện mới.,Các chính phủ có thể cần phải điều chỉnh lại chính sách kinh tế để ứng phó với điều kiện thị trường toàn cầu đang thay đổi nhanh chóng.
+471,sự hòa nhập văn hóa,Tiếp thu các đặc điểm văn hóa từ một nhóm người khác.,Quá trình hòa nhập văn hóa của các cộng đồng di cư bao gồm một sự tương tác phức tạp giữa các chuẩn mực văn hóa truyền thống và văn hóa bản địa.
+472,xét xử,Đưa ra phán quyết hoặc quyết định chính thức.,Các tòa án quốc tế tồn tại để phân xử các tranh chấp giữa các quốc gia mà không thể giải quyết song phương.
+473,đối lập,Trái ngược hoàn toàn hoặc mâu thuẫn với điều gì đó.,Việc đàn áp tự do ngôn luận đi ngược lại với các nguyên tắc nền tảng của nền quản trị dân chủ tự do.
+474,bùng nổ,Phát triển nhanh chóng và mạnh mẽ.,Tầng lớp trung lưu đang phát triển mạnh mẽ ở Đông Nam Á đang thúc đẩy sự tăng trưởng chưa từng có về nhu cầu tiêu dùng.
+475,hợp nhất,Cùng nhau hợp nhất để tạo thành một thể thống nhất.,Các nhóm hoạt động khác nhau bắt đầu hợp nhất xung quanh một chương trình nghị sự chung về công bằng môi trường và xã hội.
+476,nhận thức,Có kiến ​​thức hoặc nhận thức về một điều gì đó.,Các nhà hoạch định chính sách phải nhận thức đầy đủ về những hậu quả môi trường lâu dài của sự phát triển công nghiệp.
+477,phản tác dụng,Gây ra tác dụng ngược lại so với mong muốn.,"Các chính sách trừng phạt ma túy quá mức có thể phản tác dụng, làm gia tăng tội phạm thay vì giảm lạm dụng chất gây nghiện."
+478,tuần hoàn,Xảy ra đều đặn theo một chuỗi lặp đi lặp lại.,"Nghèo đói thường mang tính vòng luẩn quẩn, truyền từ thế hệ này sang thế hệ khác do thiếu tiếp cận với giáo dục và cơ hội."
+479,sự mị dân,Thao túng chính trị bằng cách sử dụng các lời kêu gọi cảm xúc dân túy.,Sự trỗi dậy của chủ nghĩa mị dân trong các xã hội dân chủ đặt ra mối đe dọa nghiêm trọng đối với nền quản trị dựa trên lý trí và bằng chứng.
+480,đặc hữu,Thường xuyên được tìm thấy và phân bố rộng rãi ở một khu vực cụ thể.,Tình trạng tham nhũng tràn lan trong các cơ quan nhà nước cản trở việc cung cấp dịch vụ hiệu quả cho người dân có nhu cầu.
+481,nhận thức,Liên quan đến kiến ​​thức hoặc mức độ xác thực của kiến ​​thức đó.,Sự khiêm nhường về mặt nhận thức đòi hỏi phải thừa nhận những giới hạn về kiến ​​thức mà chúng ta có thể có khi xây dựng chính sách công.
+482,khẩn cấp,Cần hành động hoặc chú ý ngay lập tức; khẩn cấp.,Những yêu cầu cấp thiết của cuộc khủng hoảng người tị nạn đòi hỏi một phản ứng quốc tế phối hợp và kịp thời.
+483,ngoài lãnh thổ,Mở rộng hoặc hoạt động vượt ra ngoài phạm vi lãnh thổ.,Một số quốc gia áp dụng luật pháp ngoài lãnh thổ để truy tố các công ty về tội hối lộ xảy ra ở nước ngoài.
+484,địa chính trị,Liên quan đến chính trị chịu ảnh hưởng bởi địa lý.,"Cạnh tranh giành các nguồn tài nguyên khoáng sản quan trọng ngày càng gia tăng, dẫn đến căng thẳng địa chính trị giữa các cường quốc lớn."
+485,không đồng nhất,Đa dạng về đặc điểm hoặc được cấu thành từ các yếu tố khác nhau.,"Lực lượng lao động đa dạng mang đến những góc nhìn khác nhau, có thể thúc đẩy sự đổi mới mạnh mẽ hơn trong tổ chức."
+486,tự tìm tòi,Tạo điều kiện cho việc khám phá thông qua thử nghiệm và các phương pháp thực tiễn.,Kinh tế học hành vi cho thấy cách thức các lối suy luận nhận thức có thể dẫn dắt cá nhân đưa ra những quyết định phi lý một cách có hệ thống.
+487,lai ghép,Quá trình kết hợp hai yếu tố khác biệt.,"Sự giao thoa văn hóa trong các thành phố toàn cầu hóa tạo ra những hình thức sáng tạo mới, kế thừa từ nhiều truyền thống khác nhau."
+488,bất biến,Không thay đổi theo thời gian; không thể thay đổi.,"Một số triết gia cho rằng chân lý đạo đức là bất biến, trong khi những người khác lại lập luận rằng chúng phát triển cùng với xã hội."
+489,không thể lay chuyển,Không thể ngăn chặn hay phòng ngừa; không ngừng nghỉ.,Mực nước biển dâng cao không ngừng đặt ra mối đe dọa hiện hữu đối với các cộng đồng ven biển vùng trũng trên toàn thế giới.
+490,xảo quyệt,Gây hại dần dần một cách tinh vi và kín đáo.,"Thiên kiến ​​vô thức có thể gây ảnh hưởng ngấm ngầm đến các quyết định tuyển dụng, làm trầm trọng thêm tình trạng bất bình đẳng mang tính hệ thống tại nơi làm việc."
+491,không thể giải quyết,"Quá khó để quản lý, giải quyết hoặc xử lý.",Xung đột Israel-Palestine đã chứng tỏ là một vấn đề nan giải bất chấp hàng thập kỷ nỗ lực ngoại giao quốc tế.
+492,đa diện,Có nhiều khía cạnh hoặc chiều kích khác nhau.,"Giải quyết vấn đề biến đổi khí hậu đòi hỏi một cách tiếp cận đa chiều, kết hợp giữa thay đổi về công nghệ, chính trị và hành vi."
+493,mới hình thành,Mới bắt đầu tồn tại hoặc phát triển.,Đầu tư vào lĩnh vực năng lượng tái tạo đang phát triển có thể giúp các quốc gia chuyển đổi khỏi sự phụ thuộc vào nhiên liệu hóa thạch.
+494,chuẩn mực,Liên quan đến hoặc thiết lập các chuẩn mực hành vi.,Các giả định chuẩn mực về vai trò giới có thể ảnh hưởng đáng kể đến việc thiết kế chính sách giáo dục và nơi làm việc.
+495,che giấu,Làm cho điều gì đó trở nên không rõ ràng hoặc khó hiểu.,Đôi khi các chính trị gia sử dụng ngôn ngữ chuyên ngành để che giấu những quyết định không được lòng công chúng.
+496,nghịch lý,Nghe có vẻ mâu thuẫn nhưng có thể đúng.,Thật nghịch lý khi việc tăng cường tiếp cận thông tin không phải lúc nào cũng dẫn đến sự tham gia chính trị tích cực hơn của công chúng.
+497,cộng sinh,Liên quan đến lợi ích tương hỗ giữa hai bên.,Mối quan hệ cộng sinh giữa các trường đại học và ngành công nghiệp thúc đẩy sự đổi mới và khả năng cạnh tranh kinh tế.
+498,thoáng qua,Chỉ kéo dài trong thời gian ngắn; tạm thời.,Các đợt bùng nổ kinh tế nhờ xuất khẩu hàng hóa thường chỉ diễn ra trong thời gian ngắn và không tạo ra sự phát triển bền vững.
+499,phổ biến,Hiện diện và có mặt ở khắp mọi nơi cùng một lúc.,Điện thoại thông minh đã trở nên phổ biến đến mức việc bị loại trừ khỏi thế giới kỹ thuật số hiện nay được xem là một hình thức bất lợi xã hội nghiêm trọng.
+500,bá quyền,Liên quan đến quyền lực thống trị người khác.,Các nhà phê bình cho rằng các chuẩn mực văn hóa phương Tây mang tính bá quyền thường được áp đặt lên các quốc gia đang phát triển thông qua các thể chế toàn cầu.
