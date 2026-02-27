@@ -43,3 +43,6 @@ let say you want to teach 'es' (target_lang) to a 'en' learner (native_lang)
 3. commit and push changes.
 
 4. check result https://cdn.jsdelivr.net/gh/basir/decks@main/Languages/Spanish/en.json
+
+Clear cache
+https://www.jsdelivr.com/tools/purge
